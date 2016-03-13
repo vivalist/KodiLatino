@@ -2,7 +2,7 @@
 
 
     <channels>
-    <channel> <!-- this is optional -->
+     <channels_info> <!-- this is optional -->
       <title>[COLOR red][B]MIAMI-LIST [/B][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>TODOS</genre>
       <description>Con una pequeña donación.Son los pequeños gestos que marcan la diferencia. paypal:linecall1@hotmail.com</description>
@@ -10,7 +10,13 @@
       <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
       <date>AÃ‘O</date>
       <credits>CREDITOS</credits>
-    </channel>
+    <channels_info>
+    
+        <channel>
+    <name>[COLOR red][B]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.paypal:linecall1@hotmail.com[/B][/COLOR]</name>
+    <info>Cuenta de Paypal</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 	
     <channel>
     <name>                                                [COLOR red][B]MIAMI-LIST [/B][/COLOR]</name>
