@@ -61,6 +61,19 @@
    
    
    
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]ENTRETENIMIENTO [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>ENTRETENIMIENTO</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+    
+    <item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/CableTv</externallink>
+</item>
+   
    
    
    
@@ -1297,18 +1310,6 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
 
 
    
-    <channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]ENTRETENIMIENTO [COLOR lime][B](UP)[/B][/COLOR]</name>
-    <info>ENTRETENIMIENTO</info>
-    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
-    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
-
-    
-    <item>
-<title>[COLOR blue]*[/COLOR][COLOR red]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
-<link>http://ignorame</link><thumbnail>1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/CableTv</externallink>
-</item>
 
 
 
