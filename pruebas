@@ -31,7 +31,6 @@ http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.din
 http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
 #EXTINF:-1,Discovery Channel
 http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
-
 #EXTINF:0,Fox Sports 2
 http://54.161.200.196/server/play/fs2ctg/4028000/prog.m3u8?anv=1454719010244%26X-Anvato-Adst-Auth=W8KwjyDBpI9uS6X%2FWRctgNk0lxu8DzS7q7Js3hIe7%2BTLVx0hIrzVqPNi6gkLQXy2
 #EXTINF: -1,Fox 502 HD
@@ -92,7 +91,50 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 #EXTINF:0,Formula 1
 http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=116&width=650&height=400&autostart=true&tk1=VzKR2FaXUSavVx3c1Dmb0ALaZJqdxwOusRhsNDyruIqlI22BXdyPRxkIQyXKjQsaeIKggfTOiwcOSwGu3EvAPQ%3D%3D&tk2=u5%2BHD6jqWQ7ezzwiFL1Rd9RNsB%2BgfI5zh1onJImHRwk%3D&tk3=eVPjv4a8d%2BEhFqhtFUsPz3yLtoaj5f6IZ966UZtOgOA%3D
-
+#EXTINF:-1,SP-TNT
+http://evolive-tv.com:8000/live/test/test/268.ts
+#EXTINF:-1,SP-Syfy
+http://evolive-tv.com:8000/live/test/test/270.ts
+#EXTINF:-1,SP-National Geographic Wild HD 
+http://evolive-tv.com:8000/live/test/test/287.ts
+#EXTINF:-1,SP-National Geographic
+http://evolive-tv.com:8000/live/test/test/286.ts
+#EXTINF:-1,SP-FOX
+http://evolive-tv.com:8000/live/test/test/266.ts
+#EXTINF:-1,SP-Disney XD
+http://evolive-tv.com:8000/live/test/test/280.ts
+#EXTINF:-1,SP-Disney Junior 
+http://evolive-tv.com:8000/live/test/test/281.ts
+#EXTINF:-1,SP-Disney Channel
+http://evolive-tv.com:8000/live/test/test/279.ts
+#EXTINF:-1,EP: Canal+ Accion
+http://evolive-tv.com:8000/live/test/test/188.ts
+#EXTINF:-1,SP-Canal+ Comedia
+http://evolive-tv.com:8000/live/test/test/165.ts
+#EXTINF:-1,SP-Canal+ DCine
+http://evolive-tv.com:8000/live/test/test/164.ts
+#EXTINF:-1,SP-Canal+ Series HD
+http://evolive-tv.com:8000/live/test/test/264.ts
+#EXTINF:-1,SP-Canal+ Liga 
+http://evolive-tv.com:8000/live/test/test/274.ts
+#EXTINF:-1,SP-Canal+ Estrenos
+http://evolive-tv.com:8000/live/test/test/263.ts
+#EXTINF:-1,SP-Canal+ Deportes HD
+http://evolive-tv.com:8000/live/test/test/163.ts
+#EXTINF:-1,SP-FOX Life 
+http://evolive-tv.com:8000/live/test/test/267.ts
+#EXTINF:-1,SP-Canal+
+http://evolive-tv.com:8000/live/test/test/166.ts
+#EXTINF:-1,SP-Canal+ Xtra
+http://evolive-tv.com:8000/live/test/test/265.ts
+#EXTINF:-1,SP-Canal+ Liga 2 HD
+http://evolive-tv.com:8000/live/test/test/275.ts
+#EXTINF:-1,SP-Canal+ Futbol HD
+http://evolive-tv.com:8000/live/test/test/162.ts
+#EXTINF:-1,SP- Real Madrid TV 
+http://evolive-tv.com:8000/live/test/test/278.ts
+#EXTINF:-1,SP-Barca TV
+http://evolive-tv.com:8000/live/test/test/277.ts
 
 
 EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR gren]LATINOAMERICA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
