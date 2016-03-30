@@ -1,19 +1,27 @@
 #EXTM3U
-EXTINF:-1, [COLOR green] <<<<<<<<< UPDATE 03-30-2016 >>>>>>>>[/COLOR]
-http://?
-EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
-http://?
-EXTINF:-1,[I][B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
-http://?
-EXTINF:-1,[I][B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
-http://?
-EXTINF:-1,[I][B][COLOR yellou]Con una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
-http://?
-EXTINF:-1,[I][B][COLOR lime]DONACION: linecall1@hotmail.com [/COLOR][/B][/I]
+
+
+
+#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<<<<[/COLOR][COLOR red]LISTA RAFA PREMIUM[/COLOR][COLOR blue]>>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
 http://?
 
-EXTINF:-1,[COLOR red]              LISTA RAFA PREMIUM          [/COLOR]
+#EXTINF:-1,[I][B][COLOR green] <<<<<<<<<<<<<<< UPDATE 03-30-2016 >>>>>>>>>>>>>>>[/COLOR][/B][/I]
 http://?
+
+#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
+http://?
+
+#EXTINF:-1,[I][B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
+http://?
+
+#EXTINF:-1,[I][B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
+http://?
+
+#EXTINF:-1,[I][B][COLOR yellow]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
+http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1,[I][B][COLOR lime]DONACION: linecall1@hotmail.com [/COLOR][/B][/I]
+http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 
 EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]Canales USA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
 http://?
@@ -31,14 +39,14 @@ http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.din
 http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
 #EXTINF:-1,Discovery Channel
 http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
-#EXTINF:0,Discovery Channel
+#EXTINF:-1,Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:0,National Geographic
+#EXTINF:-1,National Geographic
 http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-EXTINF:0,Discovery Channel
+EXTINF:-1,Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
-EXTINF:0,National Geographic
+EXTINF:-1,National Geographic
 http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
 #EXTINF:0,Syfy Channel
 http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
