@@ -87,54 +87,41 @@ http://veetle.com/index.php/hls/streamMbrfast/4f9436ece56e2_/stream.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF: -1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF: -1,DEPORTES BEIN
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-#EXTINF:0,Formula 1
-http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=116&width=650&height=400&autostart=true&tk1=VzKR2FaXUSavVx3c1Dmb0ALaZJqdxwOusRhsNDyruIqlI22BXdyPRxkIQyXKjQsaeIKggfTOiwcOSwGu3EvAPQ%3D%3D&tk2=u5%2BHD6jqWQ7ezzwiFL1Rd9RNsB%2BgfI5zh1onJImHRwk%3D&tk3=eVPjv4a8d%2BEhFqhtFUsPz3yLtoaj5f6IZ966UZtOgOA%3D
-#EXTINF:-1,SP-TNT
+#EXTINF:-1,TNT
 http://evolive-tv.com:8000/live/test/test/268.ts
-#EXTINF:-1,SP-Syfy
+#EXTINF:-1,Syfy
 http://evolive-tv.com:8000/live/test/test/270.ts
-#EXTINF:-1,SP-National Geographic Wild HD 
+#EXTINF:-1,National Geographic Wild HD 
 http://evolive-tv.com:8000/live/test/test/287.ts
-#EXTINF:-1,SP-National Geographic
+#EXTINF:-1,National Geographic
 http://evolive-tv.com:8000/live/test/test/286.ts
-#EXTINF:-1,SP-FOX
+#EXTINF:-1,FOX
 http://evolive-tv.com:8000/live/test/test/266.ts
-#EXTINF:-1,SP-Disney XD
+#EXTINF:-1,Disney XD
 http://evolive-tv.com:8000/live/test/test/280.ts
-#EXTINF:-1,SP-Disney Junior 
+#EXTINF:-1,Disney Junior 
 http://evolive-tv.com:8000/live/test/test/281.ts
-#EXTINF:-1,SP-Disney Channel
+#EXTINF:-1,Disney Channel
 http://evolive-tv.com:8000/live/test/test/279.ts
-#EXTINF:-1,EP: Canal+ Accion
+#EXTINF:-1,Canal+ Accion
 http://evolive-tv.com:8000/live/test/test/188.ts
-#EXTINF:-1,SP-Canal+ Comedia
+#EXTINF:-1,Canal+ Comedia
 http://evolive-tv.com:8000/live/test/test/165.ts
-#EXTINF:-1,SP-Canal+ DCine
+#EXTINF:-1,Canal+ DCine
 http://evolive-tv.com:8000/live/test/test/164.ts
-#EXTINF:-1,SP-Canal+ Series HD
+#EXTINF:-1,Canal+ Series HD
 http://evolive-tv.com:8000/live/test/test/264.ts
-#EXTINF:-1,SP-Canal+ Liga 
-http://evolive-tv.com:8000/live/test/test/274.ts
-#EXTINF:-1,SP-Canal+ Estrenos
+#EXTINF:-1,Canal+ Estrenos
 http://evolive-tv.com:8000/live/test/test/263.ts
-#EXTINF:-1,SP-Canal+ Deportes HD
+#EXTINF:-1,Canal+ Deportes HD
 http://evolive-tv.com:8000/live/test/test/163.ts
-#EXTINF:-1,SP-FOX Life 
+#EXTINF:-1,FOX Life 
 http://evolive-tv.com:8000/live/test/test/267.ts
-#EXTINF:-1,SP-Canal+
+#EXTINF:-1,Canal+
 http://evolive-tv.com:8000/live/test/test/166.ts
-#EXTINF:-1,SP-Canal+ Xtra
+#EXTINF:-1,Canal+ Xtra
 http://evolive-tv.com:8000/live/test/test/265.ts
-#EXTINF:-1,SP-Canal+ Liga 2 HD
-http://evolive-tv.com:8000/live/test/test/275.ts
-#EXTINF:-1,SP-Canal+ Futbol HD
-http://evolive-tv.com:8000/live/test/test/162.ts
-#EXTINF:-1,SP- Real Madrid TV 
-http://evolive-tv.com:8000/live/test/test/278.ts
-#EXTINF:-1,SP-Barca TV
-http://evolive-tv.com:8000/live/test/test/277.ts
+
 
 
 EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR gren]LATINOAMERICA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
@@ -246,8 +233,15 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR yellow]DEPORTES[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
 http://0.0.0.0:1234
 
+
+#EXTINF: -1,DEPORTES BEIN
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+#EXTINF:0,Formula 1
+http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=116&width=650&height=400&autostart=true&tk1=VzKR2FaXUSavVx3c1Dmb0ALaZJqdxwOusRhsNDyruIqlI22BXdyPRxkIQyXKjQsaeIKggfTOiwcOSwGu3EvAPQ%3D%3D&tk2=u5%2BHD6jqWQ7ezzwiFL1Rd9RNsB%2BgfI5zh1onJImHRwk%3D&tk3=eVPjv4a8d%2BEhFqhtFUsPz3yLtoaj5f6IZ966UZtOgOA%3D
 #EXTINF:0,Bein Sports Espana
 http://cdn.sstream.pw/live/bein_alwkqfq/playlist.m3u8|User-Agent=iPhone&Referer=http://www.sunhd.info/embedsa.php?c=113&width=&height=&autostart=&tk1=uENkez7ZgKynWPZIYYI%2Br%2FYHqH6HEu6PHUvSZAYBL7M%3D&tk2=MFpA82S%2FhzTlbx9yrtLTGcL5ehuWb0%2FFEJ%2F4PSe3Oso%3D&tk3=0GUWAOgvQCo4XVzyEIIdFG4w1nNCPtUnrt1J%2Fb8GjKQ%3D
+#EXTINF:-1,Canal+ Liga 
+http://evolive-tv.com:8000/live/test/test/274.ts
 #EXTINF: -1,CANAL MAS FUT BOL
 http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
 #EXTINF: -1,DXTV
@@ -274,3 +268,11 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8|User-Agent=Mozilla/5.0 (Linux;
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1,Euro Sport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,Canal+ Liga 2 HD
+http://evolive-tv.com:8000/live/test/test/275.ts
+#EXTINF:-1,Canal+ Futbol HD
+http://evolive-tv.com:8000/live/test/test/162.ts
+#EXTINF:-1,Real Madrid TV 
+http://evolive-tv.com:8000/live/test/test/278.ts
+#EXTINF:-1,Barca TV
+http://evolive-tv.com:8000/live/test/test/277.ts
