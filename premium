@@ -2,13 +2,13 @@
 
 
 
-#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<<<<[/COLOR][COLOR red]LISTA RAFA PREMIUM[/COLOR][COLOR blue]>>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<[/COLOR][COLOR red]LISTA RAFA PREMIUM[/COLOR][COLOR blue]>>>>>>>>>[/COLOR][/B][/I]
 http://?
 
-#EXTINF:-1,[I][B][COLOR green] <<<<<<<<<<<<<<< UPDATE 03-30-2016 >>>>>>>>>>>>>>>[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR green]<<<<<<< UPDATE 03-30-2016 >>>>>>>[/COLOR][/B][/I]
 http://?
 
-#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR blue]<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue]>>>>>>>>[/COLOR][/B][/I]
 http://?
 
 #EXTINF:-1,[I][B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
@@ -23,7 +23,8 @@ http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,[I][B][COLOR lime]DONACION: linecall1@hotmail.com [/COLOR][/B][/I]
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 
-EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]Canales USA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+
+EXTINF:0,[COLOR blue]<<<<<<<[/COLOR][COLOR red]Canales USA[/COLOR][COLOR blue]>>>>>>>>[/COLOR]
 http://?
 
 
@@ -48,11 +49,11 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 
 EXTINF:-1,National Geographic
 http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-#EXTINF:0,Syfy Channel
+#EXTINF:-1,Syfy Channel
 http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
-#EXTINF:0,Universal 
+#EXTINF:-1,Universal 
 http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
-#EXTINF:0,Fox
+#EXTINF:-1,Fox
 http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
 #EXTINF:0,Discovery Turbo
 http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
@@ -184,7 +185,7 @@ http://evolive-tv.com:8000/live/test/test/265.ts
 
 
 
-EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR gren]LATINOAMERICA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+EXTINF:-1,[COLOR blue]<<<<<<[/COLOR][COLOR gren]LATINOAMERICA[/COLOR][COLOR blue]>>>>>>[/COLOR]
 http://?
 
 
@@ -290,7 +291,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 
 
-EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR yellow]DEPORTES[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+
+EXTINF:-1,[COLOR blue]<<<<<<[/COLOR][COLOR yellow]DEPORTES[/COLOR][COLOR blue]>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
 
