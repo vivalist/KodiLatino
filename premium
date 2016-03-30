@@ -31,6 +31,58 @@ http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.din
 http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
 #EXTINF:-1,Discovery Channel
 http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:0,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+EXTINF:0,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+EXTINF:0,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+#EXTINF:0,Syfy Channel
+http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
+#EXTINF:0,Universal 
+http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
+#EXTINF:0,Fox
+http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
+#EXTINF:0,Discovery Turbo
+http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
+#EXTINF:0,Discovery Channel
+http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
+#EXTINF:0,Animal Planet
+http://iptvbox.noip.us:9998/live/atik/atik/630.m3u8
+#EXTINF:0,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
+#EXTINF:0,Nat geo wild
+http://iptvbox.noip.us:9998/live/atik/atik/474.m3u8
+#EXTINF:0,Nat Geo Wild
+http://iptvbox.noip.us:9998/live/atik/atik/223.m3u8
+#EXTINF:0,Discovery Science 
+http://iptvbox.noip.us:9998/live/atik/atik/624.m3u8
+#EXTINF:0,DISCOVERY HISTORY
+http://iptvbox.noip.us:9998/live/atik/atik/629.m3u8
+#EXTINF:0,NICKLEODON
+http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
+#EXTINF:0,Disney XD
+http://iptvbox.noip.us:9998/live/atik/atik/684.m3u8
+#EXTINF:-1,Disney Junior
+http://iptvbox.noip.us:9998/live/atik/atik/628.m3u8
+#EXTINF:-1,Disney Channel 
+http://iptvbox.noip.us:9998/live/atik/atik/682.m3u8
+#EXTINF:-1,Cartoon Network US
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptvbox.noip.us:9998/live/atik/atik/685.m3u8
+#EXTINF:-1,Nicktoons
+http://iptvbox.noip.us:9998/live/atik/atik/625.m3u8
+#EXTINF:-1,MTV 
+http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
+#EXTINF:-1,Mtv Music
+http://iptvbox.noip.us:9998/live/atik/atik/962.m3u8
+#EXTINF:-1,Mtv Rocks
+http://iptvbox.noip.us:9998/live/atik/atik/1372.m3u8
+
 #EXTINF:0,Fox Sports 2
 http://54.161.200.196/server/play/fs2ctg/4028000/prog.m3u8?anv=1454719010244%26X-Anvato-Adst-Auth=W8KwjyDBpI9uS6X%2FWRctgNk0lxu8DzS7q7Js3hIe7%2BTLVx0hIrzVqPNi6gkLQXy2
 #EXTINF: -1,Fox 502 HD
