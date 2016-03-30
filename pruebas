@@ -1,15 +1,234 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
+EXTINF:-1, [COLOR green] <<<<<<<<< UPDATE 03-30-2016 >>>>>>>>[/COLOR]
+http://?
+EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
+http://?
+EXTINF:-1,[I][B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
+http://?
+EXTINF:-1,[I][B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
+http://?
+EXTINF:-1,[I][B][COLOR yellou]Con una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
+http://?
+EXTINF:-1,[I][B][COLOR lime]DONACION: linecall1@hotmail.com [/COLOR][/B][/I]
+http://?
+
+EXTINF:-1,[COLOR red]              LISTA RAFA PREMIUM          [/COLOR]
+http://?
+
+EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]Canales USA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+http://?
+
+
+#EXTINF: -1,DISCOVERY EN ESPAÑOL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8?
+#EXTINF: -1,DISCOVERY CHANNEL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Historia
+http://cdn.sstream.pw/live/historia_9dm8skt/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1,National Geographic
+http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1,Discovery Max 
+http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1,Discovery Channel
+http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+
+#EXTINF:0,Fox Sports 2
+http://54.161.200.196/server/play/fs2ctg/4028000/prog.m3u8?anv=1454719010244%26X-Anvato-Adst-Auth=W8KwjyDBpI9uS6X%2FWRctgNk0lxu8DzS7q7Js3hIe7%2BTLVx0hIrzVqPNi6gkLQXy2
+#EXTINF: -1,Fox 502 HD
+http://motorsport.hopto.org:8080/
+#EXTINF:0,True TV UK
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+#EXTINF:0,Telemundo
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+#EXTINF:0,Univision
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+#EXTINF:0,Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1 tvg-id="cbsnnews.us" group-title="English" tvg-logo="cbs_news.png",CBSN HD
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-id="" group-title="English" tvg-logo="london_live.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1,HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+#EXTINF:-1,NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,CNN News
+http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/2739.jpg",24/7 Movies
+http://veetle.com/index.php/hls/streamMbrfast/5671e2e7788c9_/stream.m3u8
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1578.jpg",24/7 King of the Hill
+http://veetle.com/index.php/hls/streamMbrfast/4f9436ece56e2_/stream.m3u8
+#EXTINF: -1,ANIME
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF: -1,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF: -1,DEPORTES BEIN
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+#EXTINF:0,Formula 1
+http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=116&width=650&height=400&autostart=true&tk1=VzKR2FaXUSavVx3c1Dmb0ALaZJqdxwOusRhsNDyruIqlI22BXdyPRxkIQyXKjQsaeIKggfTOiwcOSwGu3EvAPQ%3D%3D&tk2=u5%2BHD6jqWQ7ezzwiFL1Rd9RNsB%2BgfI5zh1onJImHRwk%3D&tk3=eVPjv4a8d%2BEhFqhtFUsPz3yLtoaj5f6IZ966UZtOgOA%3D
 
 
 
-<favourite thumb="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/759.png" name="ITV">PlayMedia("plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=ITV&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2447&portal=%7B%22name%22%3A+%22+++++++++++++++++++++++++++++++++NFPS%22%2C+%22parental%22%3A+%22true%22%2C+%22url%22%3A+%22http%3A%2F%2Fmw1.iptv66.tv%22%2C+%22ppassword%22%3A+%220000%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A83%3A31%3A88%22%2C+%22serial%22%3A+%7B%22send_serial%22%3A+true%2C+%22custom%22%3A+false%7D%2C+%22password%22%3A+%224970202958093%22%2C+%22login%22%3A+%224970202958093%22%7D&mode=play&logo_url=http%3A%2F%2Fmw1.iptv66.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F759.png")</favourite>
+EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR gren]LATINOAMERICA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+http://?
 
-<favourite thumb="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/243.png" name="ITV 2">PlayMedia("plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=ITV+2&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F487&portal=%7B%22name%22%3A+%22+++++++++++++++++++++++++++++++++NFPS%22%2C+%22parental%22%3A+%22true%22%2C+%22url%22%3A+%22http%3A%2F%2Fmw1.iptv66.tv%22%2C+%22ppassword%22%3A+%220000%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A83%3A31%3A88%22%2C+%22serial%22%3A+%7B%22send_serial%22%3A+true%2C+%22custom%22%3A+false%7D%2C+%22password%22%3A+%224970202958093%22%2C+%22login%22%3A+%224970202958093%22%7D&mode=play&logo_url=http%3A%2F%2Fmw1.iptv66.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F243.png")</favourite>
 
-<favourite thumb="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1399.png" name="ITV 3">PlayMedia("plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=ITV+3&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2835&portal=%7B%22name%22%3A+%22+++++++++++++++++++++++++++++++++NFPS%22%2C+%22parental%22%3A+%22true%22%2C+%22url%22%3A+%22http%3A%2F%2Fmw1.iptv66.tv%22%2C+%22ppassword%22%3A+%220000%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A83%3A31%3A88%22%2C+%22serial%22%3A+%7B%22send_serial%22%3A+true%2C+%22custom%22%3A+false%7D%2C+%22password%22%3A+%224970202958093%22%2C+%22login%22%3A+%224970202958093%22%7D&mode=play&logo_url=http%3A%2F%2Fmw1.iptv66.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1399.png")</favourite>
+#EXTINF:0,Estrenos
+http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105242&width=650&height=400&autostart=true&tk1=8WjKnVVDwpiEtI226XxnLbak0evfpy6oLRonwBqmATes4dY6vibUgfkS%2FJ03ZQic7dy3ovbC4NL%2B%2FiPm523mrg%3D%3D&tk2=9VCRgevvsOE7FpkqYV6QGGuJfHwgXo51TC2cVSW%2BTMQ%3D&tk3=pCOi7IK8tDni6IkdNb5OLKPnCXKQAlPnN1CMasZY52k%3D
+#EXTINF:0,Series
+http://cdn.sstream.pw/live/plusseries_al1oyrq/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105333&width=650&height=400&autostart=true&tk1=XeOWFvmTtpgXA0N7wyo9M3uDbuo8VGGXJhBfYc7gc2jNNN0pGePO0D7u7QbrSBizGRsQkhH0C5zUluAPuOOHpA%3D%3D&tk2=327pbkB6GXfG%2Fxg3f1PghFaO79qMoj%2BjIWDKL6cPbDU%3D&tk3=PfW%2FF00gxXlTVYVm0smTasUlo5xmY3ugWkDOUwDMJBc%3D
+#EXTINF:0,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:0,Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:0,Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Disney Junior
+rtmp://play5.tvope.com/tvope playpath=stream_jundis swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+#EXTINF:-1,Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1,Multi Medios HD
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",LA RED HD
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",LA RED HD (2)
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Spanish" tvg-logo="galicia.png",TV Galicia
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta.png",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",Antenna 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",Russia Today ES HD
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png",TV Chile
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",TV MÁS
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",México Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",México Television Michoacán
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",Ondaluz Sierra
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",Condavision
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="esperanza.png",Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",Alcance TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",RTS
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",Telecafé
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",Canal 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",TeleSistema
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",TeleAntillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleprogreso.png",TeleProgreso
+http://162.212.176.83:8080/teleprogreso.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telemetro.png",TeleMetro
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rpc.png",RPC
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",EITB España
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",Adinet TV
+http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",Teleantoquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",Cablenoticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",Trendy
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",Tele medéllin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 
-<favourite thumb="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1401.png" name="ITV 4">PlayMedia("plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=ITV+4&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2837&portal=%7B%22name%22%3A+%22+++++++++++++++++++++++++++++++++NFPS%22%2C+%22parental%22%3A+%22true%22%2C+%22url%22%3A+%22http%3A%2F%2Fmw1.iptv66.tv%22%2C+%22ppassword%22%3A+%220000%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A83%3A31%3A88%22%2C+%22serial%22%3A+%7B%22send_serial%22%3A+true%2C+%22custom%22%3A+false%7D%2C+%22password%22%3A+%224970202958093%22%2C+%22login%22%3A+%224970202958093%22%7D&mode=play&logo_url=http%3A%2F%2Fmw1.iptv66.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1401.png")</favourite>
 
-<favourite thumb="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1403.png" name="TG 4">PlayMedia("plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=TG+4&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2839&portal=%7B%22name%22%3A+%22+++++++++++++++++++++++++++++++++NFPS%22%2C+%22parental%22%3A+%22true%22%2C+%22url%22%3A+%22http%3A%2F%2Fmw1.iptv66.tv%22%2C+%22ppassword%22%3A+%220000%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A83%3A31%3A88%22%2C+%22serial%22%3A+%7B%22send_serial%22%3A+true%2C+%22custom%22%3A+false%7D%2C+%22password%22%3A+%224970202958093%22%2C+%22login%22%3A+%224970202958093%22%7D&mode=play&logo_url=http%3A%2F%2Fmw1.iptv66.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1403.png")</favourite>
+EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR yellow]DEPORTES[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+http://0.0.0.0:1234
 
-</favourites>
+#EXTINF:0,Bein Sports Espana
+http://cdn.sstream.pw/live/bein_alwkqfq/playlist.m3u8|User-Agent=iPhone&Referer=http://www.sunhd.info/embedsa.php?c=113&width=&height=&autostart=&tk1=uENkez7ZgKynWPZIYYI%2Br%2FYHqH6HEu6PHUvSZAYBL7M%3D&tk2=MFpA82S%2FhzTlbx9yrtLTGcL5ehuWb0%2FFEJ%2F4PSe3Oso%3D&tk3=0GUWAOgvQCo4XVzyEIIdFG4w1nNCPtUnrt1J%2Fb8GjKQ%3D
+#EXTINF: -1,CANAL MAS FUT BOL
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF: -1,DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF: -1,CANAL FUTBOL
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF: -1,CANAL FUTBOL 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+#EXTINF: -1,COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF: -1,COS 2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF: -1,360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0,Fox Sports 1 
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+#EXTINF: -1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF: -1,Canal + 0
+http://185.39.9.162/live/canalplushd_9wgyfa8/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF: -1,NBA TV
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:0,Red Bull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1,Euro Sport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
