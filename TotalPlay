@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+  
+  
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Telemundo PR</title>
+  <fanart></fanart>
+ <thumbnail>http://www.apknow.com/wp-content/uploads/2015/02/Telemundo-Puerto-Rico.png</thumbnail>
+ <link>http://104.236.200.163:1583/300815/wkaq/playlist.m3u8</link>
+ </item>
+
+
+
+<item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]Canal WAPA tv </title>
+ <fanart></fanart>
+ <thumbnail>https://media.licdn.com/media/p/7/000/1f7/30e/2b7da59.png</thumbnail>
+ <link>http://latino-webtv.ml/mariocs-7878/wapa.m3u8</link>
+ </item> 
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]CTNI  </title>
+ <fanart></fanart>
+ <thumbnail>http://diariodepuertorico.com/wp-content/uploads/images/ctni.png</thumbnail>
+ <link>http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w2016314216_b1556000_slesp.m3u8</link>
+ </item>
+  
+  
+  
   <item>
   <title> FOX SD</title>
   <fanart></fanart>
