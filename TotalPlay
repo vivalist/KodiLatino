@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
   
-  
+<item>
+ <title>MUNDO FOX </title>
+ <fanart></fanart>
+ <thumbnail></thumbnail>
+ <link></link>
+ </item>
+   
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Telemundo PR</title>
+<title>Telemundo PR</title>
   <fanart></fanart>
  <thumbnail>http://www.apknow.com/wp-content/uploads/2015/02/Telemundo-Puerto-Rico.png</thumbnail>
  <link>http://104.236.200.163:1583/300815/wkaq/playlist.m3u8</link>
@@ -13,14 +19,14 @@
 
 
 <item>
- <title>[COLOR white][COLOR blue]• [/COLOR]Canal WAPA tv </title>
+ <title>Canal WAPA tv </title>
  <fanart></fanart>
  <thumbnail>https://media.licdn.com/media/p/7/000/1f7/30e/2b7da59.png</thumbnail>
  <link>http://latino-webtv.ml/mariocs-7878/wapa.m3u8</link>
  </item> 
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]CTNI  </title>
+<title>Ctni </title>
  <fanart></fanart>
  <thumbnail>http://diariodepuertorico.com/wp-content/uploads/images/ctni.png</thumbnail>
  <link>http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w2016314216_b1556000_slesp.m3u8</link>
@@ -60,7 +66,7 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]FX HD</title>
+  <title>FX HD</title>
   <fanart></fanart>
  <thumbnail>http://www.worldtvpc.com/blog/wp-content/uploads/2012/12/fx_logo1.jpg</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1343&amp;key=MzQzM7AwNDM3swQA</link>
@@ -68,7 +74,7 @@
  
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]A&E </title>
+ <title>A&E </title>
  <fanart></fanart>
   <thumbnail>https://pmcdeadline2.files.wordpress.com/2013/12/ae-logo__131224183443-275x206.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1347&amp;key=MzQzM7AwNDM3swQA</link>
@@ -76,7 +82,7 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] AXN HD</title>
+  <title>AXN HD</title>
   <fanart></fanart>
   <thumbnail>http://1.bp.blogspot.com/-BDElKY153jY/Uinl-wD7ewI/AAAAAAAAFXI/Oac1tFzvmEQ/s1600/logoaxn.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1351&amp;key=MzQzM7AwNDM3swQA</link>
@@ -84,7 +90,7 @@
  
  
 <item>
-  <title> TRUE TV HD</title>
+  <title>TRUE TV HD</title>
   <fanart></fanart>
   <thumbnail>http://fansided.com/files/2015/03/tru.png</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1355&amp;key=MzQzM7AwNDM3swQA</link>
@@ -92,7 +98,7 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] COMEDY CENTRAL</title>
+  <title>COMEDY CENTRAL</title>
  <fanart></fanart>
  <thumbnail>http://comedycentral.mtvnimages.com/press_images/comedycentral_logos/comedy_central_cracked_bk.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1359&amp;key=MzQzM7AwNDM3swQA</link>
@@ -100,7 +106,7 @@
  
  
 <item>
-<title>[COLOR white][COLOR red]• [/COLOR]UNICABLE </title>
+<title>UNICABLE </title>
   <fanart></fanart>
  <thumbnail>http://televisa-networks.com/wp-content/uploads/bfi_thumb/unicable1-mdz00wfn536le8mq5kuy4fhcck58db9ftegj6un5ty.png</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1363&amp;key=MzQzM7AwNDM3swQA</link>
@@ -110,7 +116,7 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] BBC</title>
+  <title>BBC</title>
  <fanart></fanart>
   <thumbnail>http://news.bbc.co.uk/media/images/44006000/jpg/_44006845_bbc_logo_bbc416.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1387&amp;key=MzQzM7AwNDM3swQA</link>
@@ -118,7 +124,7 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] E!</title>
+  <title>E!</title>
   <fanart></fanart>
   <thumbnail>http://www.vector-logo.net/logo_preview/ai/e/E_TV_LOGO.png</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1391&amp;key=MzQzM7AwNDM3swQA</link>
@@ -160,7 +166,7 @@
  
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] EL GOURMET</title>
+ <title>EL GOURMET</title>
  <fanart></fanart>
 <thumbnail>http://2.bp.blogspot.com/-OtjoaPgVP4g/VSRSM8L1eoI/AAAAAAAAA-0/W9-g4qTRmxs/s1600/LogoGourmetok.jpg</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1416&amp;key=MzQzM7AwNDM3swQA</link>
@@ -168,14 +174,14 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]Glitz </title>
+  <title>Glitz </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1424&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] FOX LIFE</title>
+ <title>FOX LIFE</title>
 <fanart></fanart>
 <thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/07/Fox-Life-logo.png</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1427&amp;key=MzQzM7AwNDM3swQA</link>
@@ -183,133 +189,127 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]DISTRITO COMEDIA </title>
+  <title>DISTRITO COMEDIA </title>
  <fanart></fanart>
   <thumbnail>http://norteconecta.com/wp-content/uploads/2015/02/distrito-comedia.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1431&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-<title>[COLOR white][COLOR red]• [/COLOR]TBS </title>
+<title>TBS </title>
   <fanart></fanart>
   <thumbnail>http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1435&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]TV NOVELAS </title>
+ <title>TV NOVELAS </title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link></link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY THEATER</title>
+ <title>DISCOVERY THEATER</title>
   <fanart></fanart>
   <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d7/HD_Theater_logo.png/revision/latest?cb=20140116230703</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1503&amp;key=MzQzM7AwNDM3swQA</link>
    </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]HISTORY CHANNEL</title>
+ <title>HISTORY CHANNEL</title>
  <fanart></fanart>
  <thumbnail>http://www.freelogovectors.net/wp-content/uploads/2012/04/history_channel-logo.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1507&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
+
 <item>
- <title>MUNDO FOX </title>
- <fanart></fanart>
- <thumbnail></thumbnail>
- <link></link>
- </item>
- 
-<item>
- <title>[COLOR white][COLOR red]• [/COLOR] NATGEO WILD</title>
+ <title>NATGEO WILD</title>
   <fanart></fanart>
   <thumbnail>https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1511&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]TLC HD</title>
+ <title>TLC HD</title>
 <fanart></fanart>
  <thumbnail>http://netstorage.discovery.com/feeds/brightcove/asset-stills/tlc/1366839602230TLC_2012Logo.png</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1552&amp;key=MzQzM7AwNDM3swQA</link>
    </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY CHANEL</title>
+ <title>DISCOVERY CHANEL</title>
  <fanart></fanart>
  <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/7d/0c/b2/7d0cb2eeee2bab2219d434d497e8caaa.jpg</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1520&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
-<title>[COLOR white][COLOR red]• [/COLOR]DISCOVERY WORLD </title>
+<title>DISCOVERY WORLD </title>
   <fanart></fanart>
   <thumbnail>http://media.tvblog.it/D/DWI/DWI_Logo_tag_POS_4CLARGE.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1515&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]ANIMAL PLANET </title>
+  <title>ANIMAL PLANET </title>
  <fanart></fanart>
  <thumbnail>http://vector.me/files/images/2/9/29910/animal_planet.png</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1524&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]HOME AND HEALTH</title>
+ <title>HOME AND HEALTH</title>
  <fanart></fanart>
  <thumbnail>http://www.positivelypat.com/wp-content/uploads/2011/10/HomeHealthInnShadow_Corporate2.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1528&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] NATGEO</title>
+ <title>NATGEO</title>
  <fanart></fanart>
   <thumbnail>http://milfordhouse.ca/wp-content/uploads/2012/06/national-geographic-logo-932x287.jpg</thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1532&amp;key=MzQzM7AwNDM3swQA</link>
 </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] LIFETIME</title>
+ <title>LIFETIME</title>
   <fanart></fanart>
   <thumbnail>http://payload170.cargocollective.com/1/0/4162/5706006/coral%20hero.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1536&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] Discovery Science</title>
+ <title>Discovery Science</title>
   <fanart></fanart>
   <thumbnail>http://www.indiantvinfo.com/media/2013/06/Discovery-Science-New-Logo.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1540&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] Discovery Civilization</title>
+ <title>Discovery Civilization</title>
  <fanart></fanart>
  <thumbnail>http://www.vector-logo.net/logo_preview/eps/d/Discovery_Civilization.png</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1544&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] Discovery Turbo</title>
+  <title>Discovery Turbo</title>
  <fanart></fanart>
   <thumbnail>https://joiassobrerodas.files.wordpress.com/2012/02/turbologo1_0.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1548&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]WOBI TV </title>
+  <title>WOBI TV </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1556&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]CINEMAX </title>
+ <title>CINEMAX </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1616&amp;key=MzQzM7AwNDM3swQA</link>
@@ -318,21 +318,21 @@
  
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] CINECANAL</title>
+ <title>CINECANAL</title>
   <fanart></fanart>
  <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1612&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
 
   <item>
- <title>[COLOR white][COLOR red]• [/COLOR] CINECANAL HD</title>
+ <title>CINECANAL HD</title>
   <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1583&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] DE PELICULA HD</title>
+ <title>DE PELICULA HD</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1599&amp;key=MzQzM7AwNDM3swQA</link>
@@ -341,14 +341,14 @@
  
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]TNT </title>
+ <title>TNT </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1620&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
 
  <item>
- <title>[COLOR white][COLOR red]• [/COLOR]TNT HD</title>
+ <title>TNT HD</title>
  <fanart></fanart>
  <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1587&amp;key=MzQzM7AwNDM3swQA</link>
@@ -357,14 +357,14 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] GOLDEN HD</title>
+  <title>GOLDEN HD</title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1591&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] GOLDEN EDGE</title>
+  <title>GOLDEN EDGE</title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1624&amp;key=MzQzM7AwNDM3swQA</link>
@@ -373,7 +373,7 @@
  
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]THE FILM ZONE </title>
+ <title>THE FILM ZONE </title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1595&amp;key=MzQzM7AwNDM3swQA</link>
@@ -382,21 +382,21 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]DE PELICULA CLASICO </title>
+  <title>DE PELICULA CLASICO </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link></link>
  </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]AMC </title>
+  <title>AMC </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1603&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] SPACE</title>
+  <title>SPACE</title>
  <fanart></fanart>
 <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1607&amp;key=MzQzM7AwNDM3swQA</link>
@@ -405,21 +405,21 @@
  
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]STUDIO UNIVERSAL </title>
+  <title>STUDIO UNIVERSAL </title>
  <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1636&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] I.SAT</title>
+  <title>I.SAT</title>
  <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1640&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]FOX 1 SD </title>
+ <title>FOX 1 SD </title>
  <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1559&amp;key=MzQzM7AwNDM3swQA</link>
@@ -427,7 +427,7 @@
  
  
  <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]FOX 1 HD </title>
+  <title>FOX 1 HD </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1560&amp;key=MzQzM7AwNDM3swQA</link>
