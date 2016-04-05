@@ -1,14 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-  
+
+
+ 	<item> 
+ 	<title>Univision 44 HD</title>
+ 	<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd44 live=1 timeout=20</link> 
+ 	<regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd44$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item> 
+
+
+	
+ 	<item> 
+ 	<title>Univision 45 HD</title> 
+ 	<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd45 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd45$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>	
+
+ 
+ <item> 
+ <title>Unimas </title>
+ <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_unimas23 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_unimas23$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>	
+ 
+ 
+ 
+ <item> 
+ <title>Estrella TV</title>
+ <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+
+<item> 
+<title>Estrella TV en vivo</title>
+<utube>fTd25zr2v2U</utube></item>
+
 <item>
  <title>MUNDO FOX </title>
  <fanart></fanart>
  <thumbnail></thumbnail>
  <link></link>
  </item>
-   
 
+<item>
+  <title>TELEMUNDO</title>
+  <fanart></fanart>
+ <thumbnail></thumbnail>
+ <link>https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8</link>
+  </item>
+  
+  	<item> 
+	<title>Telemundo 44 </title> 
+	<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo44 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_telemundo44$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+
+<item>
+ <title>TELEMUNDO </title>
+  <fanart></fanart>
+ <thumbnail></thumbnail>
+  <link>http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8</link>
+  </item>
+  
 <item>
 <title>Telemundo PR</title>
   <fanart></fanart>
@@ -16,6 +62,10 @@
  <link>http://104.236.200.163:1583/300815/wkaq/playlist.m3u8</link>
  </item>
 
+<item> 
+<title>WAPA PR</title>
+<link>rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+</item>		
 
 
 <item>
@@ -31,7 +81,6 @@
  <thumbnail>http://diariodepuertorico.com/wp-content/uploads/images/ctni.png</thumbnail>
  <link>http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w2016314216_b1556000_slesp.m3u8</link>
  </item>
-  
   
   
   <item>
@@ -78,7 +127,7 @@
  <fanart></fanart>
   <thumbnail>https://pmcdeadline2.files.wordpress.com/2013/12/ae-logo__131224183443-275x206.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1347&amp;key=MzQzM7AwNDM3swQA</link>
-   </item>
+ </item>
  
  
 <item>
@@ -86,7 +135,7 @@
   <fanart></fanart>
   <thumbnail>http://1.bp.blogspot.com/-BDElKY153jY/Uinl-wD7ewI/AAAAAAAAFXI/Oac1tFzvmEQ/s1600/logoaxn.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1351&amp;key=MzQzM7AwNDM3swQA</link>
-   </item>
+ </item>
  
  
 <item>
@@ -137,10 +186,6 @@
  <thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2010/09/syfy.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1399&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
- 
- 
- 
- 
  
 <item>
   <title>ID</title>
@@ -441,14 +486,14 @@
  </item>
 
  <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] FOX ACTION HD</title>
+  <title>FOX ACTION HD</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1564&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] FOX MOVIES SD</title>
+ <title>FOX MOVIES SD</title>
  <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1567&amp;key=MzQzM7AwNDM3swQA</link>
@@ -456,235 +501,257 @@
  
  
  <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] FOX MOVIES HD</title>
+  <title>FOX MOVIES HD</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1568&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]FOX CINEMA  </title>
+  <title>FOX CINEMA  </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1572&amp;key=MzQzM7AwNDM3swQA </link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] FOX CLASSIC </title>
+ <title>FOX CLASSIC </title>
   <fanart></fanart>
 <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1576&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]DISNEY JR </title>
+  <title>DISNEY JR </title>
   <fanart></fanart>
 <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1460&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] Cbeebies</title>
+  <title>Cbeebies</title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1455&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] Nick Jr</title>
+ <title>Nick Jr</title>
   <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1463&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] DISNEY CHANNEL</title>
+  <title>DISNEY CHANNEL</title>
  <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1467&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] NickToons</title>
+  <title>NickToons</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1472&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]Nickelodeon </title>
+  <title>Nickelodeon </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1480&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] Cartoon Network</title>
+  <title>Cartoon Network</title>
   <fanart></fanart>
  <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1483&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] DISNEY XD</title>
+ <title>DISNEY XD</title>
   <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1487&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] Boomerang</title>
+  <title>Boomerang</title>
 <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1491&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]Tooncast </title>
+  <title>Tooncast </title>
   <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1499&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]DISCOVERY KIDS </title>
+  <title>DISCOVERY KIDS </title>
  <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1452&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] TIIN </title>
+ <title>TIIN </title>
   <fanart>http://televisa-networks.com/wp-content/uploads/2013/11/logo_tiin.png</fanart>
   <thumbnail>http://televisa-networks.com/wp-content/uploads/2013/11/ttiin.jpg</thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1495&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] CANAL DE LAS ESTRELLAS </title>
+  <title>CANAL DE LAS ESTRELLAS </title>
   <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1099&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]CANAL 5 </title>
+  <title>CANAL 5 </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1111&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] AZTECA 7</title>
+  <title>AZTECA 7</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1115&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]AZTECA CORAZON </title>
+  <title>AZTECA CORAZON </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1095&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]AZTECA 13  </title>
+ <title>AZTECA 13  </title>
   <fanart></fanart>
 <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1119&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] GALA TV</title>
+  <title>GALA TV</title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link></link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR]AZTECA NOTICIAS  </title>
+  <title>AZTECA NOTICIAS  </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1007&amp;key=MzQzM7AwNDM3swQA</link>
  </item>
+
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] TELEMUNDO</title>
-  <fanart></fanart>
- <thumbnail></thumbnail>
- <link>https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8</link>
-  </item>
- 
-<item>
-<title>[COLOR white][COLOR red]• [/COLOR] PROYECTO 40</title>
+<title>PROYECTO 40</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1091&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]MILENIO TV </title>
+ <title>MILENIO TV </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link></link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] GARAGE TV</title>
+  <title>GARAGE TV</title>
   <fanart></fanart>
  <thumbnail></thumbnail>
   <link>http://74.208.164.55:80/tvultimate/tvultimate/34.ch</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] CANAL ONCE</title>
+  <title>CANAL ONCE</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link></link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR]FORO TV </title>
+ <title>FORO TV </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1107&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
 <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] TELEFORMULA</title>
+  <title>TELEFORMULA</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://74.208.164.55:80/tvultimate/tvultimate/11.ch</link>
   </item>
  
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] HOLA TV</title>
+ <title>HOLA TV</title>
   <fanart></fanart>
   <thumbnail></thumbnail>
  <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1367&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
 
   <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] FASHION TV </title>
+  <title>FASHION TV </title>
   <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1371&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
   <item>
-  <title>[COLOR white][COLOR red]• [/COLOR] MAS CHIC </title>
+  <title>MAS CHIC </title>
  <fanart></fanart>
   <thumbnail></thumbnail>
   <link>http://tvultimate.mx/mundolatino/mundolatino.php?id=1375&amp;key=MzQzM7AwNDM3swQA</link>
   </item>
  
+
+  <item>
+<title>Cubavision</title>
+<link>rtmp://195.154.174.31/alfa playpath=cubavision swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.cubaportal.org/paginas/cubavision.aspx</link>
+</item>
+
 <item>
- <title>[COLOR white][COLOR red]• [/COLOR] TELEMUNDO </title>
-  <fanart></fanart>
- <thumbnail></thumbnail>
-  <link>http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8</link>
-  </item>
-  
-  
+<title>TV Marti</title>
+<link>rtmp://cp117766.live.edgefcs.net/live playpath=live_high@47386 swfUrl=http://www.martinoticias.com/flash_6.24.1.42690.3/MediaPlayer.swfx live=1 pageUrl=http://www.martinoticias.com/externalwidget/0/4.html</link>
+</item>
+
+<item>
+	<title>America TV Miami</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/5730046/events/2966225/player?width=960&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+
   
   
   
