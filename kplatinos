@@ -21,7 +21,7 @@
     <channel>
     <name>                                    [COLOR red][B]KODI PARA LATINOS [/B][/COLOR]</name>
     <info>KODI PARA LATINOS</info>
-    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <thumbnail>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</thumbnail>
     <fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>	
 	
 	
@@ -29,8 +29,17 @@
 	     <channel>
     <name>                                           [COLOR blue][B]Update 04/05/16[/B][/COLOR]</name>
     <info>Update</info>
-    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <thumbnail>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</thumbnail>
     <fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>	
+    
+    
+    
+    <channel>
+    <name>[COLOR lime][B]*[/B][/COLOR]   [COLOR blue][B]IPTV[/COLOR]</name>
+    <info>DEPORTES</info>
+    <thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
+    <fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>
+    
     
     <item>
 <title>[COLOR lime]*[/COLOR][COLOR blue]  IPTV [/COLOR]</title>
@@ -40,6 +49,12 @@
 <externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/IPTV</externallink>
 </item>
     
+    
+      <channel>
+    <name>[COLOR lime]*[/COLOR][COLOR red]TOTAL[/COLOR][COLOR blue]P[/COLOR][COLOR green]L[/COLOR][COLOR orange]A[/COLOR][COLOR red]Y[/COLOR] [COLOR green]MX[/COLOR]</name>
+    <info>DEPORTES</info>
+    <thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
+    <fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>
     
      <item>
 <title>[COLOR lime]*[/COLOR][COLOR red]TOTAL[/COLOR][COLOR blue]P[/COLOR][COLOR green]L[/COLOR][COLOR orange]A[/COLOR][COLOR red]Y[/COLOR] [COLOR green]MX[/COLOR]</title>
