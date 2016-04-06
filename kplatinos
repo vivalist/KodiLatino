@@ -6,8 +6,8 @@
       <title>[COLOR red][B]KODI [COLOR yellow]PARA [/COLOR][COLOR green]LATINOS [/B][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>TODOS</genre>
       <description>Con una pequeña donación.Son los pequeños gestos que marcan la diferencia. paypal:linecall1@hotmail.com</description>
-      <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
-      <fanart>http://bicicletasjosemari.com/modules/productpaymentlogos/img/c214054b927df57e902a3a6ed9180861.png</fanart>
+      <thumbnail>http://bicicletasjosemari.com/modules/productpaymentlogos/img/c214054b927df57e902a3a6ed9180861.png</thumbnail>
+      <fanart>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</fanart>
       <date>AÃ‘O</date>
       <credits>CREDITOS</credits>
     <channels_info>
@@ -15,8 +15,8 @@
         <channel>
     <name>[COLOR yellow][B]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.paypal:[/B][/COLOR][COLOR lime][B]linecall1@hotmail.com[/B][/COLOR]</name>
     <info>Cuenta de Paypal</info>
-    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
-    <fanart>http://bicicletasjosemari.com/modules/productpaymentlogos/img/c214054b927df57e902a3a6ed9180861.png</fanart>
+    <thumbnail>http://bicicletasjosemari.com/modules/productpaymentlogos/img/c214054b927df57e902a3a6ed9180861.png</thumbnail>
+    <fanart>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</fanart>
 	
     <channel>
     <name>                                    [COLOR red][B]KODI [COLOR yellow]PARA [/COLOR][COLOR green]LATINOS [/B][/COLOR]</name>
@@ -37,8 +37,8 @@
     <channel>
     <name>[COLOR lime][B]*[/B][/COLOR][COLOR blue] IPTV[/COLOR]</name>
     <info>IPTV</info>
-    <thumbnail>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</thumbnail>
-    <fanart>http://www.costatelly.com/images/iptv-logo-2.jpg</fanart>
+    <thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
+    <fanart>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</fanart>
     
     
     <item>
@@ -81,7 +81,7 @@
 
 
 <channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PELICULAS [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][COLOR yellow][B] PELICULAS [COLOR lime][B](UP)[/B][/COLOR]</name>
     <info>PELICULAS</info>
     <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
     <fanart>http://www.motwlibrary.org/uploads/1/1/0/2/11028120/1367833235.jpg</fanart>
@@ -98,7 +98,7 @@
     
     
     <channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]SERIES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][COLOR green][B]SERIES [COLOR lime][B](UP)[/B][/COLOR]</name>
     <info>SERIES</info>
     <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
     <fanart>http://www.omeyasweb.com/wp-content/uploads/2010/01/series-tv-americanas.jpg</fanart>
@@ -109,7 +109,18 @@
 </item 
     
     
+  
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]DEPORTES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>IPTV</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
     
+    <item>
+    <title>	[COLOR green]------------ DEPORTES --------------[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/Deportes</externallink>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
     
 
     
