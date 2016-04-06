@@ -81,7 +81,7 @@
 
 
 <channel>
-    <name>[COLOR lime][B]*[/B][/COLOR][COLOR yellow][B] PELICULAS [/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][COLOR yellow][B] PELICULAS [/B][/COLOR]</name>
     <info>PELICULAS</info>
     <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
     <fanart>http://www.motwlibrary.org/uploads/1/1/0/2/11028120/1367833235.jpg</fanart>
@@ -98,7 +98,7 @@
     
     
     <channel>
-    <name>[COLOR lime][B]*[/B][/COLOR][COLOR green][B] SERIES [/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][COLOR green][B] SERIES [/B][/COLOR]</name>
     <info>SERIES</info>
     <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
     <fanart>http://www.omeyasweb.com/wp-content/uploads/2010/01/series-tv-americanas.jpg</fanart>
@@ -111,7 +111,7 @@
     
   
 	<channel>
-    <name>[COLOR blue][B]*[/B][/COLOR] [COLOR red][B]DEPORTES [/COLOR]</name>
+    <name>[COLOR blue][B]*[/B][/COLOR][COLOR red][B] DEPORTES [/B][/COLOR]</name>
     <info>IPTV</info>
     <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
