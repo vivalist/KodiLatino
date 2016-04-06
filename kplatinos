@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+     <channels_info> <!-- this is optional -->
+      <title>[COLOR red][B]KODI PARA LATINOS [/B][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TODOS</genre>
+      <description>Con una pequeña donación.Son los pequeños gestos que marcan la diferencia. paypal:linecall1@hotmail.com</description>
+      <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+      <fanart>http://bicicletasjosemari.com/modules/productpaymentlogos/img/c214054b927df57e902a3a6ed9180861.png</fanart>
+      <date>AÃ‘O</date>
+      <credits>CREDITOS</credits>
+    <channels_info>
+    
+        <channel>
+    <name>[COLOR yellow][B]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.paypal:[/B][/COLOR][COLOR lime][B]linecall1@hotmail.com[/B][/COLOR]</name>
+    <info>Cuenta de Paypal</info>
+    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <fanart>http://bicicletasjosemari.com/modules/productpaymentlogos/img/c214054b927df57e902a3a6ed9180861.png</fanart>
+	
+    <channel>
+    <name>                                    [COLOR red][B]KODI PARA LATINOS [/B][/COLOR]</name>
+    <info>KODI PARA LATINOS</info>
+    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>	
+	
+	
+	 
+	     <channel>
+    <name>                                           [COLOR blue][B]Update 04/05/16[/B][/COLOR]</name>
+    <info>Update</info>
+    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>	
+    
+    <item>
+<title>[COLOR lime]*[/COLOR][COLOR blue]  IPTV [/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
+<fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/IPTV</externallink>
+</item>
+    
+    
+     <item>
+<title>[COLOR lime]*[/COLOR][COLOR red]TOTAL[/COLOR][COLOR blue]P[/COLOR][COLOR green]L[/COLOR][COLOR orange]A[/COLOR][COLOR red]Y[/COLOR] [COLOR green]MX[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
+<fanart>http://subefotos.com/ver/?c7b3ef419286c0d5e769c25d1f3441bco.png</fanart>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/IPTV</externallink>
+</item>
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
