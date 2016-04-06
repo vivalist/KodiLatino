@@ -37,8 +37,8 @@
     <channel>
     <name>[COLOR lime][B]*[/B][/COLOR][COLOR blue] IPTV[/COLOR]</name>
     <info>IPTV</info>
-    <thumbnail>www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
-    <fanart>www.costatelly.com/images/iptv-logo-2.jpg</fanart>
+    <thumbnail>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</thumbnail>
+    <fanart>http://www.costatelly.com/images/iptv-logo-2.jpg</fanart>
     
     
     <item>
@@ -80,7 +80,37 @@
 </item>
 
 
-
+<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PELICULAS [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>PELICULAS</info>
+    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <fanart>http://www.motwlibrary.org/uploads/1/1/0/2/11028120/1367833235.jpg</fanart>
+    
+    
+    <item>
+<title>[COLOR green] [B]Movies Estrenos[/B] [/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+   
+    
+    
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]SERIES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>SERIES</info>
+    <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
+    <fanart>http://www.omeyasweb.com/wp-content/uploads/2010/01/series-tv-americanas.jpg</fanart>
+    
+<item>
+<name>SERIES</name>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/series</externallink>
+</item 
+    
+    
+    
+    
 
     
     
