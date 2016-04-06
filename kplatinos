@@ -35,14 +35,14 @@
     
     
     <channel>
-    <name>[COLOR lime][B]*[/B][/COLOR][COLOR blue] IPTV[/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][B][COLOR blue] IPTV[/COLOR][/B]</name>
     <info>IPTV</info>
     <thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
     <fanart>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</fanart>
     
     
     <item>
-<title>[COLOR lime]*[/COLOR][COLOR blue]  IPTV [/COLOR]</title>
+<title>[COLOR lime]*[/COLOR][B][COLOR blue]  IPTV [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.costatelly.com/images/iptv-logo-2.jpg</thumbnail>
 <fanart>www.costatelly.com/images/iptv-logo-2.jpg</fanart>
@@ -51,7 +51,7 @@
     
     
       <channel>
-    <name>[COLOR lime]*[/COLOR][COLOR red] TOTAL[/COLOR][COLOR blue]P[/COLOR][COLOR green]L[/COLOR][COLOR orange]A[/COLOR][COLOR red]Y[/COLOR] [COLOR green]MX[/COLOR]</name>
+    <name>[COLOR lime]*[/COLOR][B][COLOR red] TOTAL[/COLOR][COLOR blue]P[/COLOR][COLOR green]L[/COLOR][COLOR orange]A[/COLOR][COLOR red]Y[/COLOR] [COLOR green]MX[/COLOR][/B]</name>
     <info>DEPORTES</info>
     <thumbnail>http://static.wixstatic.com/media/2b41a0_9acee9700966421887278d6286865f96.jpg/v1/fill/w_334,h_227,al_c,q_80,usm_0.66_1.00_0.01/2b41a0_9acee9700966421887278d6286865f96.jpg</thumbnail>
     <fanart>http://static.wixstatic.com/media/2b41a0_9acee9700966421887278d6286865f96.jpg/v1/fill/w_334,h_227,al_c,q_80,usm_0.66_1.00_0.01/2b41a0_9acee9700966421887278d6286865f96.jpg</fanart>
@@ -66,7 +66,7 @@
 
 
   <channel>
-    <name>[COLOR lime]*[/COLOR][COLOR red] P[/COLOR][COLOR blue]R[/COLOR][COLOR green]E[/COLOR][COLOR orange]M[/COLOR][COLOR yellow]I[/COLOR][COLOR lime]U[/COLOR][COLOR violet]M[/COLOR]</name>
+    <name>[COLOR lime]*[/COLOR][B][COLOR red] P[/COLOR][COLOR blue]R[/COLOR][COLOR green]E[/COLOR][COLOR orange]M[/COLOR][COLOR yellow]I[/COLOR][COLOR lime]U[/COLOR][COLOR violet]M[/COLOR][/B]</name>
     <info>DEPORTES</info>
     <thumbnail>http://3.bp.blogspot.com/-WMO1Zk3gV9s/TchNYRpXkSI/AAAAAAAAAAk/gTP5W2JdmjA/s1600/%252B60-canales.jpg</thumbnail>
     <fanart>http://images.quebarato.cl/T440x/decodificadores+libres+canales+premium+originales+valparaiso+valparaiso+chile__6C9788_4.jpg</fanart>
@@ -81,7 +81,7 @@
 
 
 <channel>
-    <name>[COLOR lime][B]*[/B][/COLOR][COLOR yellow][B] PELICULAS [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][COLOR yellow][B] PELICULAS [/COLOR]</name>
     <info>PELICULAS</info>
     <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
     <fanart>http://www.motwlibrary.org/uploads/1/1/0/2/11028120/1367833235.jpg</fanart>
@@ -98,7 +98,7 @@
     
     
     <channel>
-    <name>[COLOR lime][B]*[/B][/COLOR][COLOR green][B]SERIES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <name>[COLOR lime][B]*[/B][/COLOR][COLOR green][B] SERIES [/COLOR]</name>
     <info>SERIES</info>
     <thumbnail>http://thumbs.subefotos.com/c7b3ef419286c0d5e769c25d1f3441bco.jpg</thumbnail>
     <fanart>http://www.omeyasweb.com/wp-content/uploads/2010/01/series-tv-americanas.jpg</fanart>
@@ -111,7 +111,7 @@
     
   
 	<channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]DEPORTES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <name>[COLOR blue][B]*[/B][/COLOR] [COLOR red][B]DEPORTES [/COLOR]</name>
     <info>IPTV</info>
     <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
