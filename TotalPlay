@@ -162,41 +162,22 @@
  <link>http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8</item>
 
  <item> 
- <title>Estrella TV</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+ <title>tvg-logo="http://channelpear.com/images/media/219.jpg",FOX Action Movies HD</title>
+ <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8?</item>
 
- <item> 
- <title>Estrella TV</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
-
-
- <item> 
- <title>Estrella TV</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
-
-
- <item> 
- <title>Estrella TV</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
-
-
- <item> 
- <title>Estrella TV</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
-
- <item> 
- <title>Estrella TV</title>
- <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <item> 
+ <title>tvg-logo="http://channelpear.com/images/media/218.png",FOX Classics</title>
+ <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8?</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
