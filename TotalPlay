@@ -173,13 +173,20 @@
  <thumbnail>tvg-logo="http://channelpear.com/images/media/218.png"</thumbnail>
  
  
+ <item> 
+ <title>FOX Sports 2</title>
+ <link>http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8</item>
+ <thumbnail>"http://channelpear.com/images/media/1739.png"</thumbnail>
+ 
+  <item> 
+ <title>FOX Sports 1</title>
+ <link>http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8</item>
+ <thumbnail>tvg-logo="http://channelpear.com/images/media/1738.jpg"</thumbnail>
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
