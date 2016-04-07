@@ -183,8 +183,506 @@
  <link>http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8</item>
  <thumbnail>tvg-logo="http://channelpear.com/images/media/1738.jpg"</thumbnail>
  
- 
- 
+
+<item>  
+<title>[COLOR=cyan][B][I] LA 1 (ESP) [/I][/B][/COLOR]</title>    
+<link>http://api.iptv.ink/pl.m3u8?ch=35452405<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] LA 2 (ESP) [/I][/B][/COLOR]</title>    
+<link>http://api.iptv.ink/pl.m3u8?ch=91170153<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tpsvvr1441658102.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] ANTENA 3 (ESP) [/I][/B][/COLOR]</title>    
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rtpryu1441657283.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] ANTENA 3 SERIES (ESP) [/I][/B][/COLOR]</title>    
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8<link>
+<thumbnail>http://i.blogs.es/7019f4/logo-atreseries/650_1200.jpg</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] LA SEXTA (ESP) [/I][/B][/COLOR]</title>    
+<link>http://api.iptv.ink/pl.m3u8?ch=88365689<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtvvpp1441660359.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] LA CUATRO (ESP) [/I][/B][/COLOR]</title>    
+<link><link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ysytyr1433882117.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] TELE 5( ESP) [/I][/B][/COLOR]</title>    
+<link><link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wptuww1441658169.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] 13 TV ( ESP) [/I][/B][/COLOR]</title>    
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wrutwy1441657246.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] MEGA TV( ESP) [/I][/B][/COLOR]</title>    
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on<link>
+<thumbnail>http://hispanicprwire.com/wp-content/uploads/importacion/17/17649_logo_1.jpg</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] GALIZA TV( ESP) [/I][/B][/COLOR]</title>    
+<link>http://media3.crtvg.es/live/tvge/vcx7.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tpwpqr1435103663.png/medium</thumbnail>
+</item>  
+<item>  
+<title>[COLOR=cyan][B][I] ANDORRA TV( ESP) [/I][/B][/COLOR]</title>    
+<link>http://194.158.80.31:443/live/rtva/playlist.m3u8<link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ca/thumb/c/ca/AndorraTV_logo2005.png/300px-AndorraTV_logo2005.png</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] NEOX ( ESP) [/I][/B][/COLOR]</title>    
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qptvyv1441658134.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I]ENERGY (ESP) [/I][/B][/COLOR]</title> 
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/suvpsv1441659806.png/medium</thumbnail>
+</item>
+<item>  
+<title>[COLOR=cyan][B][I]NOVA (ESP) [/I][/B][/COLOR]</title> 
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-qGNm05pg2Qg/UJhJFbMuKZI/AAAAAAAAPK8/KOSUS4F9h6k/s1600/Nova+logo.png</thumbnail>
+</item>
+<item>  
+<title>[COLOR=cyan][B][I]DIVINITY (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rywwxq1441658325.png/medium</thumbnail>
+</item>
+<item>                             
+<title>[COLOR=cyan][B][I]FDF (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxpuyy1441657918.png/medium</thumbnail>
+</item>
+<item>                                             
+<title>[COLOR=cyan][B][I]NON STOP PEOPLE (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://i1.wp.com/pmcvariety.files.wordpress.com/2015/04/non-stop-people11.jpg?crop=0px%2C3px%2C960px%2C534px&resize=670%2C377</thumbnail>
+</item>
+<item>  
+<title>[COLOR=cyan][B][I]CANAL # 0 (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I]CANAL + (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xvvvru1451155493.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I]CANAL + EXTRA (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2010/09/canal+xtra.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I]CANAL + SERIES (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I]CANAL + SERIES XTRA (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/65/Www1.plus-2.png/revision/latest?cb=20151007161737</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I]CANAL + ESTRENOS (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
+</item> 
+<item>          
+<title>[COLOR=cyan][B][I]CANAL + DCINE (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.elrincondelheavy.freeiz.com/fotos%20noticias/500px-Canal+_DCine_2008.svg.png</thumbnail>
+</item> 
+<item>  
+<title>[COLOR=cyan][B][I]CANAL + ACTION (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://mediaportal-danish-tv-radio-logos.googlecode.com/svn/trunk/LogoManager/TV/Canal+%20Action.png</thumbnail>
+</item> 
+<item>  
+<title>[COLOR=cyan][B][I]CANAL + COMÉDIA (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ4nGCVh74OKSo1JO33Ne_pIJZFsf2J796cVp9MFyDb71CygQJ</thumbnail>
+</item> 
+<item> 
+<title>[COLOR=cyan][B][I] AMC (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>https://www.seriesdatv.pt/wp-content/uploads/2014/04/amc.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] TCM (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c2/TCM_2009.jpg/revision/latest?cb=20111006202159</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=cyan][B][I] HOLLYWOOD (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s600/533px-Canal_Hollywood.svg_.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] SUNDANCE CHANNEL (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.corusent.com/wp-content/uploads/2015/07/logos_tv_paytv_sundance-500x250.png</thumbnail>
+ </item>
+<item> 
+<title>[COLOR=cyan][B][I] TNT (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.brasiltvdigital.com/wp-content/uploads/tnt-brasil.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] FOX (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.espalhafactos.com/wp-content/uploads/2014/09/FOX-TV-logo.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] FOX LIFE (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xvxqsv1455876490.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] AXN (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://1.bp.blogspot.com/_kS39sqrm_fI/TGmDtiS_8bI/AAAAAAAAA3o/JD-1Vpzjwss/s1600/AXN.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] AXN WHITE (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Axn_white.jpg/revision/latest?cb=20120414164603</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] COSMO (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2013/01/Cosmopolitan-Tv.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] COMEDY CENTRAL (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] CALLE 13 (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/66/Calle_13_Universal.png/revision/latest?cb=20111123145705</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] SYFY (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://media.idownloadblog.com/wp-content/uploads/2013/08/syfy-icon-220x220.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR=cyan][B][I] MTV (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://1.bp.blogspot.com/_eDPk04MxlOI/TKKlkHKsyVI/AAAAAAAAAJo/jsYMowd7b9U/s1600/MTV+Tie+Dye.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] HISTÓRIA (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.seiscientos.org/vuelta_espana/concentracion/img/colaboradores/Canal_Historia.gif</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] NAT GEO WILD (ESP) [/I][/B][/COLOR]</title>    
+<link><link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxvysu1433778811.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I]DISCOVERY (ESP) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637</thumbnail>
+</item>
+<item>  
+<title>[COLOR=cyan][B][I] DISCOVERY MAX (ESP) [/I][/B][/COLOR]</title>    
+<link></link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/wupssu1441657795.png/medium</thumbnail>
+</item>  
+<item>  
+<title>[COLOR=cyan][B][I] NAT GEO (ESP) [/I][/B][/COLOR]</title>
+<link><link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twywvy1433778398.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] ODISEIA (ESP) [/I][/B][/COLOR]</title>
+<link><link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/5/5c/Odisea2011.jpg/revision/latest?cb=20110227171834</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] A & E (ESP) [/I][/B][/COLOR]</title>
+<link><link>
+<thumbnail>http://www.adweek.com/lostremote/files/2014/01/AE-Logo.jpg</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] C & I (ESP) [/I][/B][/COLOR]</title>
+<link><link>
+<thumbnail>https://d2t86ruphax0oa.cloudfront.net/sites/default/files/styles/large/public/field/image/Crime%20%2B%20Investigation.png?itok=-EUEVQKb</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] CANAL COCINA (ESP) [/I][/B][/COLOR]</title>    
+<link><link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSciXjhJQ4mePkmnffcHNRsDkJf-y2UrZmN6qRkvzIAYZKQ_jUl</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] CAÇA E PESCA (ESP) [/I][/B][/COLOR]</title>    
+<link><link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wstyxr1433346676.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] DECASA TV (ESP) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>http://www.vinipad.com/images/medios/logo-decasa-tv.jpg</thumbnail>
+                            </item>  
+                            <item>
+<title>[COLOR=cyan][B][I] VIAJAR (ESP) [/I][/B][/COLOR]</title>    
+<link><link>
+<thumbnail>http://www.contalentotv.com/wp-content/uploads/2013/08/743px-Viajar_logo.svg_.png</thumbnail>
+</item>  
+<item>
+<title>[COLOR=cyan][B][I] DW LATINO (ESP) [/I][/B][/COLOR]</title>    
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?<link>
+<thumbnail>https://lh5.googleusercontent.com/-9yV2Yx3iyBo/TXp9ONCy0eI/AAAAAAAAPhI/5YBXOOw-p7g/s1600/dw_tv.png</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=cyan][B][I] GRAN HER-VIP (ESP) [/I][/B][/COLOR]</title>
+<link><link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/97/Gran-hermano.jpg</thumbnail>
+</item>  
+<item>                            
+<title>[COLOR=cyan][B][I] DISCOVERY CHANNEL ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>http://images.kaneva.com/filestore9/3780483/6088314/discoverychannelUiphoneUwallpaper_ad.jpg</thumbnail>
+                            </item>  
+                            <item> 
+ <title>[COLOR=cyan][B][I] DISCOVERY WORLD ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/8/8b/Discovery_World.png/revision/latest/scale-to-width-down/300?cb=20091111164548</thumbnail>
+                            </item>  
+                            <item> 
+ <title>[COLOR=cyan][B][I] DISCOVERY TURBO ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>https://jorgesalvador.files.wordpress.com/2012/05/discoveryturbologos.png</thumbnail>
+                            </item>  
+                            <item>  
+ <title>[COLOR=cyan][B][I] NAT GEO ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>http://orig03.deviantart.net/9a37/f/2012/048/8/4/nat_geo_wallpaper_by_johnnyslowhand-d4q0zf1.jpg</thumbnail>
+                            </item>  
+                            <item>                              
+<title>[COLOR=cyan][B][I] NAT GEO WILD ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>http://www.davidbawiec.com/wp-content/uploads/2013/05/202152856_640.jpg</thumbnail>
+                            </item>  
+                            <item>                            
+  <title>[COLOR=cyan][B][I] ANIMAL PLANET ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>http://naekranie.pl/wp-content/uploads/2014/12/Dirty-Dancing-strapline-v2-1024x576.jpeg</thumbnail>
+                            </item>  
+                            <item>                            
+<title>[COLOR=cyan][B][I] DISCOVERY CIVILZATION ( MEX) [/I][/B][/COLOR]</title>    
+ <link><link>
+ <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrj_bn6pHwk9HkZ7h0uIsp0jo3CXwo1gZmqBi4v9DgCyd09vIuA</thumbnail>                            
+   </item>  
+     <item>                                                      
+<title>[COLOR=cyan][B][I] FOX (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.superpoligon.com/img/news/fox_tv_log.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FOX 1 (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_FOX_1_HD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FOX ACTION (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-Tal1-wSFFBg/VJ9VSoeZ-uI/AAAAAAAACOY/6jDHr8d6Ows/s320/logo%2BFOX%2BACTION%2BHD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FOX MOVIES (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20100430184153/logopedia/images/4/4e/Fox_Movies.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FOX CINEMA (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://help.foxplay.com/hc/es/article_attachments/201514700/A_FOX-Cinema-Logo-02.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FOX FAMILY (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/76/Fox_(6).png/revision/latest?cb=20141101150127</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FOX LIFE (MEX) [/I][/B][/COLOR]</title> 
+ <link></link>
+<thumbnail>http://pbs.twimg.com/profile_images/378800000692803214/f88ba20d9e19cb97ce86a38044835712.png</thumbnail>	
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FX (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette3.wikia.nocookie.net/archer/images/2/2b/FX-logo.jpg/revision/latest?cb=20110918033552</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] TNT (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/3/3b/TNT_HD.png/revision/latest?cb=20110407230510</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] FILM ZONE (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://api.entutele.com/media/channels/big/the-film-zone-hd.gif</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] AXN (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://blog.cablevision.net.mx/wp-content/uploads/2011/09/AXN-HD-blanco.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] A & E (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.antenacritica.com.br/wp-content/uploads/2014/09/AE-Logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] WARNER (MEX) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20110316214504/lanoire/images/8/85/Warner-brothers-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=cyan][B][I] SONY (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://www.tvsa.co.za/images/uploads/thumbs/0055592.png</thumbnail>
+     </item>                               
+     <item>  
+<title>[COLOR=cyan][B][I] UNIVERSAL (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://talkmediaafrica.com/wp-content/uploads/2013/04/Universal-Channel-new-logo.jpg</thumbnail>
+     </item>                               
+     <item> 
+<title>[COLOR=cyan][B][I] TRU TV (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://i1.wp.com/pmcvariety.files.wordpress.com/2014/07/trutv-logo.jpg?crop=101px%2C36px%2C858px%2C478px&resize=670%2C377</thumbnail>
+     </item>                               
+     <item>
+<title>[COLOR=cyan][B][I] COMEDY CENTRAL (MEX) [/I][/B][/COLOR]</title> 
+ <link></link>
+<thumbnail>http://pmcdeadline2.files.wordpress.com/2010/12/comedycentrallogo1.jpg</thumbnail>	
+    </item>
+<item>
+<title>[COLOR=cyan][B][I] UNICABLE (MEX) [/I][/B][/COLOR]</title> 
+ <link></link>
+<thumbnail>http://www.worldstopbrands.com/_mm/_d/_ext2/44478/big_Unicable01.gif</thumbnail>	
+    </item>
+<item>
+<title>[COLOR=cyan][B][I] AZ CORAZON (MEX) [/I][/B][/COLOR]</title> 
+ <link></link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_6112.png</thumbnail>	
+ </item>
+<item>
+<title>[COLOR=cyan][B][I] FORO TV (MEX) [/I][/B][/COLOR]</title> 
+    <link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8</link>
+ <thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_9563_2_3938.png</thumbnail>
+     </item>                               
+      <item>       
+<title>[COLOR=cyan][B][I] CANAL DE LAS ESTRELLAS (MEX) [/I][/B][/COLOR]</title> 
+    <link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8</link>
+ <thumbnail>http://supertv.hostoi.com/tv/img/canal%20de%20las%20estrellas.jpg</thumbnail>
+     </item>                               
+      <item>  
+<title>[COLOR=cyan][B][I] TRECE (MEX) [/I][/B][/COLOR]</title> 
+    <link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8?sd=10&rebase=on</link>
+ <thumbnail>http://i40.photobucket.com/albums/e230/avalenzano/azt13_zps4e1af5bc.jpg</thumbnail>
+     </item>                               
+      <item
+<title>[COLOR=cyan][B][I] PROYECTO 40 (MEX) [/I][/B][/COLOR]</title> 
+    <link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8</link>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fb/Proyecto_40_logo.PNG</thumbnail>
+     </item>                               
+      <item  
+<title>[COLOR=cyan][B][I] TNT SERIES (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408</thumbnail>
+     </item>                               
+      <item  
+<title>[COLOR=cyan][B][I] DPELICULA (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png</thumbnail>
+     </item>                               
+      <item  
+<title>[COLOR=cyan][B][I] CINEMAX (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cinemax_logo_0.jpg</thumbnail>
+     </item>                               
+      <item          
+<title>[COLOR=cyan][B][I] PARAMOUNT CHANNEL (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://foromedios.com/uploads/gallery/category_2/sml_gallery_5617_2_255.png</thumbnail>
+     </item>                               
+      <item          
+<title>[COLOR=cyan][B][I] E CHANNEL (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://www.lewiswire.com/pt/uploaded/E_Logo_black.jpg</thumbnail>
+     </item>                               
+      <item                  
+<title>[COLOR=cyan][B][I] GALAVISION (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://1.bp.blogspot.com/-Iobm_zHsSi4/UJr6jcRMktI/AAAAAAAAPUA/Ws43OO_UagY/s1600/Galavisión+logo+2012+stacked.png</thumbnail>
+     </item>                               
+      <item               
+<title>[COLOR=cyan][B][I] UNICABLE (MEX) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0018/6631/brand.gif?itok=bivw5yw3</thumbnail>
+     </item>                               
+      <item        
+<title>[COLOR=cyan][B][I] MEGA TV (CHI) [/I][/B][/COLOR]</title> 
+    <link></link>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/44/Mega2013oficial.png</thumbnail>
+     </item>                               
+      <item> 
+ <title>[COLOR=cyan][B][I] TVN (CHI) [/I][/B][/COLOR]</title> 
+    <link>http://q.gs/9830047/tvnhdtodokodim3u8</link>
+ <thumbnail>http://mercadeoypublicidad.com/Secciones/img_articulos/8819_Logo_TVNChile.jpg</thumbnail>
+     </item>                               
+      <item> 
+<title>[COLOR=cyan][B][I] CANAL 9 (CHI) [/I][/B][/COLOR]</title> 
+    <link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link>
+<thumbnail>http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/c9_reg.jpg</thumbnail>
+     </item>                               
+      <item> 
+<title>[COLOR=cyan][B][I] LA RED (CHI) [/I][/B][/COLOR]</title> 
+<link>http://wow1.dallas.digitalproserver.com:1935/redtv/redtvvivo/livestream1/live.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMWScQKm2fxfgltL_aq6WDUKH43Ojc-GBOrmzxGkf-JOB1CK2q</thumbnail>
+</item> 
+<item>         
+<title>[COLOR=cyan][B][I] TV PUBLICA (ARG) [/I][/B][/COLOR]</title> 
+<link>http://prepublish.f.qaotic.net/epb/ngrp:c7live01-20034_all/Playlist.m3u8|User-Agent=iPhone</link>
+<thumbnail>http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg</thumbnail>
+</item> 
+<item>   
+<title>[COLOR=cyan][B][I] TELPINTV (ARG) [/I][/B][/COLOR]</title> 
+<link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link>
+<thumbnail>https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-0/p480x480/12011198_847792611955640_7122185787729668586_n.jpg?oh=cbf5de171a3a079d022ab5d513511698&oe=56668F30&__gda__=1449174231_79543920a42fc38a733d11a44b181d8f</thumbnail> 
+</item>                               
+<item>           
+<title>[COLOR=cyan][B][I] CANAL 4 (ARG) [/I][/B][/COLOR]</title> 
+<link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link>
+<thumbnail>http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg</thumbnail>
+</item>                               
+<item> 
+<title>[COLOR=cyan][B][I] C5N (ARG) [/I][/B][/COLOR]</title> 
+<link>http://c5n.stweb.tv/c5n/live/playlist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-Y_vJd07LNl0/AAAAAAAAAAI/AAAAAAAAAAA/PJ71Y7cHu7Q/s900-c-k-no/photo.jpg</thumbnail>
+</item>                               
+<item>   
+<title>[COLOR=cyan][B][I] RT [/I][/B][/COLOR]</title> 
+<link>http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail>
+</item>   
 
 
 
