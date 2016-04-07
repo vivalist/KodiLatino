@@ -5,6 +5,26 @@
 </subitem>
 </item>
 
+<item>
+<title>[COLOR red][B] RojaDirecta[/B] [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+ <item>
+ <title>[COLOR yellow] [B]Sports Devil[/B] [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/sd.xml</externallink>
+ </item>
+
+<item>
+<title>[COLOR violet][B] Acestreams [/B][/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/ace.xml</externallink>
+ </item>
+
+
 
 
 <item>
@@ -801,26 +821,6 @@
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 <info>[B]Win Sports es un canal de suscripción de tv paga e Internet de deportes que emite las 24 horas del día con cobertura para Colombia y Latinoamérica. [/B]</info>
 </item>
-
-
-<item>
-<title>[COLOR red][B] RojaDirecta[/B] [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>logo.logo.logo</thumbnail>
-<thumbnail>logo.logo.logo</thumbnail></item>
-
- <item>
- <title>[COLOR yellow] [B]Sports Devil[/B] [/COLOR]</title>
- <link>http://ignor.ame</link>
- <externallink>http://adrian.kodistream.info/adryan/sd.xml</externallink>
- </item>
-
-<item>
-<title>[COLOR violet][B] Acestreams [/B][/COLOR]</title>
- <link>http://ignor.ame</link>
- <externallink>http://adrian.kodistream.info/adryan/ace.xml</externallink>
- </item>
 
 
 
