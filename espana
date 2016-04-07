@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+<name>          <<<<<<<<<ESPAÑA>>>>>>>></name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+
+
+
+<item>
+<title>[COLOR red][I][B]ANDORRA TV [/B][/I][/COLOR]</title>
+<link>http://194.158.80.31:443/live/rtva/playlist.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]TV3 24[/B][/I][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]GALIZA TV AMERICA [/B][/I][/COLOR]</title>
+<link>http://media1.crtvg.es:1935/live/tvga/livestream.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]RT EN ESPAÑOL HD [/B][/I][/COLOR]</title>
+<link>http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]EURONEWS [/B][/I][/COLOR]</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]ATRESERIES [/B][/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]AZTECA 13 HD [/B][/I][/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]Proyecto 40 [/B][/I][/COLOR]</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]DW Latinoamérica [/B][/I][/COLOR]</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]Ingenio TV [/B][/I][/COLOR]</title>
+<link>http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?</link>
+</item>
+<item>
+<title>[COLOR red][I][B]Efecto Tv Hd [/B][/I][/COLOR]</title>
+<link>http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]LA 2 [/B][/I][/COLOR]</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=91170153</link>
+</item>
+<item>
+<title>[COLOR red][I][B]ANTENA 3 [/B][/I][/COLOR]</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=62326989</link>
+</item>
+<item>
+<title>[COLOR red][I][B]LA SEXTA [/B][/I][/COLOR]</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=88365689</link>
+</item>
+<item>
+<title>[COLOR red][I][B]NEOX [/B][/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]NOVA [/B][/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]MEGA [/B][/I][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on</link>
+</item>
+<item>
+<title>[COLOR red][I][B]13 TV [/B][/I][/COLOR]</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]INTERECONOMIA [/B][/I][/COLOR]</title>
+<link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]8TYUTV [/B][/I][/COLOR]</title>
+<link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]8TV CATALUNHA [/B][/I][/COLOR]</title>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]CANAL SUR [/B][/I][/COLOR]</title>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]GALIZA TV EUROPA [/B][/I][/COLOR]</title>
+<link>http://media3.crtvg.es/live/tvge/vcx7.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]RTP ASTURIAS [/B][/I][/COLOR]</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]EXTREMADURA TV [/B][/I][/COLOR]</title>
+<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]TRAVEL TV [/B][/I][/COLOR]</title>
+<link>rtmp://87.106.219.140/live/myStream_2</link>
+</item>
+<item>
+<title>[COLOR red][I][B]ANIME TV [/B][/I][/COLOR]</title>
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?</link>
+</item>
+<item>
+<title>[COLOR red][I][B]ONDA AZUL MALAGA [/B][/I][/COLOR]</title>
+<link>http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR red][I][B]ONDA AZUL SEVILLA[/B][/I][/COLOR]</title>
+<link>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/master.m3u8</link>
+</item>
