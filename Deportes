@@ -1,0 +1,1789 @@
+<channel>		
+<name>[COLOR lime] • [COLOR deepskyblue]Desporto [/COLOR][COLOR magenta]  (magellan)[/COLOR] </name>
+<thumbnail>http://randomwallpapers.net/stadium-football-sports-1920x1080-wallpaper113232.jpg</thumbnail>
+<fanart>http://orig09.deviantart.net/69f7/f/2015/257/d/f/champions_league_wallpaper_2015_by_jafarjeef-d99l62c.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=naoaprendes?id=86474&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/naoaprendes/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</regex>
+<item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 1 [/I][/B][/COLOR]</title>
+<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.desportonline.net/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/1/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=barca3?id=25854$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/barca3/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</regex>
+<item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sp2101?id=85935&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp2101/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sp2101/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</regex>
+<item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]</title>
+<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live2-ZPCeKFS/mag playpath=live2-ZPCeKFS</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sportvgratisonline.com/sportv-2-portugal-hd-online-gratis</sportsdevil>
+<referer>http://www.sportvgratisonline.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv2.php?width=599&height=399</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR=blue][B][I] SPORT TV 3 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sp3100/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</regex>
+<item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tireitos3?id=25527$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/tireitos3/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</regex>
+<item>
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3 [/I][/B][/COLOR]</title>
+<link>rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live3-FUDTaKD/mag playpath=live3-FUDTaKD</link><
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/3/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
+<referer>http://www.tvdesporto.info/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 4 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title
+<sportsdevil>http://firstrowsports.ge/?watch/408917/4/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT TV 5 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/5/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS) [/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&amp;mode=1&amp;name=Sport TV 1</link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>                
+</item>
+ <item>
+<title>[COLOR blue][B][I]SPORT TV 1 [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS) [/COLOR]</title>
+<link>plugin://program.plexus/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=Sport TV 1</link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png/medium</thumbnail>                
+</item>
+ <item> 
+ <title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=6053774a957d5b6066d2f04236d7d67bc9434a8e&amp;mode=1&amp;name=sporttv2</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>
+<item>   
+<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>                       
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png/medium</thumbnail>
+</item>                     
+<item>   
+<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=0b5582153832ddc45e407c71f3504736b642d59d&amp;mode=1&amp;name=sporttv3</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</item>
+<item>                                 
+<title>[COLOR blue][B][I]SPORT TV 3 [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+ <link>plugin://program.plexus/?url= http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=Sport TV 3</link>                      
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png/medium</thumbnail>
+</item>
+<item>  
+<title>[COLOR=blue][B][I]BENFICA TV  [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyec?id=22289$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435 live=true</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
+</item>
+<item>  
+<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
+<referer>http://www.tvportugalhd.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://benficaholic0.blogspot.pt/p/benfica-tv-online-directo.html</sportsdevil>
+<referer>http://benficaholic0.blogspot.pt</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=benficatv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]BENFICA TV  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.tvsfree.com/benfica-tv-online-btv1/</sportsdevil>
+<referer>http://www.tvsfree.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BENFICA TV 2 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/730/430</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/benfas/1/730/430</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BENFICA TV 2 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=dasss?id=25589$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/dasss/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR blue][B][I]BENFICA TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://firstrowsports.ge/?watch/408917/7/watch-xonetv.html</sportsdevil>
+<referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]BENFICA TV 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/benficatv_2.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTING TV  [/I][/B][/COLOR]</title> 
+<link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430 live=true</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium</thumbnail> 
+</item>
+<item> 
+<title>[COLOR=blue][B][I]EUROSPORT 1 [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=euro01?id=25727$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/euro01/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR=blue][B][I]EUROSPORT 2 [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/usyxyr1447524232.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]MOTORS TV [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/motorstvx/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/urrwrv1433779906.png/medium</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR blue][B][I]MOTORS TV (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/1483.acelive&amp;mode=1&amp;name=test</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/urrwrv1433779906.png/medium</thumbnail>
+ </item>
+ <item> 
+<title>[COLOR blue][B][I]FIRSTROWSPORTS [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://wallpaperscraft.com/image/rugby_team_rhinos_dirt_field_100598_1920x1080.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]STREAMSPORTS  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/Streamsports.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://phillysportslive.com/wp-content/uploads/2012/05/lincoln-financial-field-soccer.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]ARENAVISION  [/I][/B][/COLOR] [COLOR fuchsia] (P2PSPORT)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR=blue][B][I]TELEKANAL (RUS) [/I][/B][/COLOR]</title>
+<link>http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8</link>
+<thumbnail>http://stv.ee/images/chlogos/Futbol.Rossii.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]ESPN BRASIL [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=adaaae16b86c65719-slv10uiol&referrer=http://ekostreams.co/ch/espnbrasil.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://ekostreams.co/ch/espnbrasil.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxvypw1437611411.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]ESPN (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=34ec97ca199c0b53e-espninterlko&referrer=http://ekostreams.co/ch/espn.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://ekostreams.co/ch/espn.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTV (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=971934d1af7871c54-sportvhduiol&referrer=http://ekostreams.co/ch/sportvhd.php&width=600&amp;height=384&amp;jwplayer=mpegdash</page> 
+<referer>http://ekostreams.co/ch/sportvhd.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTV (BRASIL) [/I][/B][/COLOR]</title>
+<link>rtmp://62.210.83.152:1935/liverepeat playpath=201020 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://ppcast.org/embedP/4.php?file=zuca4ad46&width=100%25&height=100%25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTV (BRASIL) [/I][/B][/COLOR]</title>
+<link>rtmp://l.mybeststream.xyz/r/ playpath=canalrural567 swfUrl=http://mybeststream.xyz/YmI3ZDM2ZTI2ZDE4MzkxMWIzODhlMGQ2MzBkNDlmZDBiNDEyOW/jw5/player.swf live=1 timeout=12 pageUrl=http://mybeststream.xyz/ token=c.r.e.a.t.e.S.t.</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTV 2 (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=3f6eb6e13aa25949b-sportv2lko&referrer=http://ekostreams.co/ch/sportv2.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://ekostreams.co/ch/sportv2.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium</thumbnail>
+<item> 
+<item>
+<title>[COLOR=blue][B][I]SPORTV 3 (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=8fa49cb3a4fa31fb2-esporte3uiol&referrer=http://ekostreams.co/ch/sportv3.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://ekostreams.co/ch/sportv3.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium</thumbnail>
+<item> 
+<item>
+<title>[COLOR=blue][B][I]FOX SPORT (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=2eed071273e5aad23-foxsportsvbn&referrer=http://ekostreams.co/ch/foxsports.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://ekostreams.co/ch/foxsports.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]FOX SPORT 2 (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=95a871a1e0d00ed1c-foxsports2vbn&referrer=http://ekostreams.co/ch/foxsports2.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://ekostreams.co/ch/foxsports2.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptqtt1433332816.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]CANAL COMBATE (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=f4db81d6095c46ea8-combatefurf&referrer=http://ekostreams.co/ch/combate.php&width=468&amp;height=360&amp;jwplayer=mpegdash</page> 
+<referer>http://ekostreams.co/ch/combate.php</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqpuy1437611123.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]CANAL COMBATE (BRASIL) [/I][/B][/COLOR]</title>
+<link>rtmp://l.mybeststream.xyz/r/ playpath=canaldoboi115 swfUrl=http://mybeststream.xyz/OWY4Yzg1YT/jw5/player.swf pageUrl=http://mybeststream.xyz/pheu.php?id=30322&width=468&height=360 token=c.r.e.a.t.e.S.t.</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqpuy1437611123.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]CANAL COMBATE (BRASIL)[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title> 
+<sportsdevil>http://pxstream.tv/embed.php?file=580d9e23e30e4883b-combatelko</sportsdevil>
+<referer>http://narvokanov.xyz/ch/combate.php</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqqpuy1437611123.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]DIRECTV SPORTS (ARG)[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=directv2016?id=80887&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/directv2016/1/600/385</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/directv2016/1/600/385</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://lh3.googleusercontent.com/Q9iLpcXF2GEcGarLc8iOn0A1NwsHPHKM7WCc7ZwgvyfYBeAdtH4UT7tY2ICHAIJO=w300</thumbnail>
+</regex>
+<item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS 1 (FRA)[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS 1 (FRA) [COLOR lime](SPORTS DEVIL)[/COLOR][/I][/B][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-bein-1-france-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS 2 (FRA)[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS 2 (FRA) [COLOR lime](SPORTS DEVIL)[/COLOR][/I][/B][/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-bein-2-france-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS 3 (FRA)[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS 3 (FRA) [COLOR lime](SPORTS DEVIL)[/COLOR][/I][/B][/COLOR]</title>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]MCS SPORTS (FRA) [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://www.machainesport.fr/uploads/MCS-Sport.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS Ñ (ESP) [/I][/B][/COLOR]</title>
+<link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://api.fubo.tv/public/edgeauth/token</page>
+<referer>https://www.fubo.tv</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail> 
+</regex>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BEIN SPORTS (ESP) [/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mips.tv/membedplayer/verliga1123/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]CANAL+LIGA (ESP) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxpxsq1435144103.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]CANAL+FUTBOL (ESP) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://farm5.static.flickr.com/4109/4972185418_cc67686e77.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]VS NETWORK (USA) [/I][/B][/COLOR]</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-PKHPoSCccqY/Tjb5UzkSzWI/AAAAAAAAB2Q/JNGThSEWHLk/s500/Versus+logo.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]POLSAT SPORT (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=45</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=45</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=45</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=45</referer>
+	<rawpost>cid=45</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d0/Polsat_Sport_HD_Logo.png/revision/latest?cb=20131103151722</thumbnail>				
+</item> 
+<item>
+<title>[COLOR=blue][B][I]POLSAT SPORT EXTRA (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=44</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=44</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=44</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=44</referer>
+	<rawpost>cid=44</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8f/Polsat_Extra_Logo.png</thumbnail>				
+</item>
+<item> 
+<title>[COLOR=blue][B][I]CANAL+SPORT (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=10</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=10</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=10</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=10</referer>
+	<rawpost>cid=10</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Canal%2B_Sport_Logo_2013.png/200px-Canal%2B_Sport_Logo_2013.png</thumbnail>				
+</item>
+<item> 
+<title>[COLOR=blue][B][I]CANAL+SPORT 2 (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=73</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=73</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=73</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=73</referer>
+	<rawpost>cid=73</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_pl_sport2.png</thumbnail>				
+</item>
+<item> 
+<title>[COLOR=blue][B][I]ORANGE SPORT (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=64</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=64</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=64</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=64</referer>
+	<rawpost>cid=64</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>http://www.itodis.fr/football/orangesport.jpg</thumbnail>					
+</item>
+<item> 
+<title>[COLOR=blue][B][I]ELEVEN SPORTS (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=82</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=82</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=82</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=82</referer>
+	<rawpost>cid=82</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-main.png</thumbnail>					
+</item>
+<item> 
+<title>[COLOR=blue][B][I]NSPORT (POL) [/I][/B][/COLOR]</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link>
+<regex>
+	<name>M3U8</name>
+	<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-M3U8</name>
+	<expres>"url":"(.*?)"</expres><referer>http://www.telewizjada.net/<referer>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=38</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=38</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=38</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=38</referer>
+	<rawpost>cid=38</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/de/archive/9/9f/20141227174137!NSport_HD_Logo.png</thumbnail>		
+</item>
+<item> 
+<title>[COLOR=blue][B][I]SPORTKLUB 1 (SER) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>                 
+<sportsdevil>http://streamking.cc/player?channel=sportklub&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
+<thumbnail>http://i39.tinypic.com/kevnyt.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR=blue][B][I]SPORTKLUB 2 (SER) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>                 
+<sportsdevil>http://streamking.cc/player?channel=sportklub2&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
+<thumbnail>http://i39.tinypic.com/kevnyt.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR=blue][B][I]SPORTKLUB 3 (SER) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>                 
+<sportsdevil>http://streamking.cc/player?channel=sportklub3&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
+<thumbnail>http://i39.tinypic.com/kevnyt.jpg</thumbnail>
+</item>
+<item>                                          
+<title>[COLOR=blue][B][I]ARENA SPORT 1 (SER) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=arena1&type=p2p</sportsdevil>
+<referer>http://streamking.cc/player?channel=arena1&type=p2p</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]ARENA SPORT 2 (SER) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=arena2&type=p2p</sportsdevil>
+<referer>http://streamking.cc/player?channel=arena2&type=p2p</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]ARENA SPORT 3 (SER) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=arena3&type=p2p</sportsdevil>
+<referer>http://streamking.cc/player?channel=arena3&type=p2p</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]ARENA SPORT 4 (SER) [/I][/B][/COLOR]</title>
+<link>rtmp://62.210.105.219:80/liverepeater/ playpath=142309 swfUrl=http://cdn.deltatv.xyz/players.swf live=1 timeout=10 pageUrl=http://deltatv.site/stream.php?id=142309&width=640&height=360 token=Fo5_n0w?U.rA6l3-70w47ch
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]VIASAT SPORT (RUS) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=viasatsporteast&type=p2p</sportsdevil>
+<referer>http://streamking.cc/player?channel=viasatsporteast&type=p2p</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uuquvu1434974878.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SUPERSPORT 2 (ALB) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.co/player?channel=supersport2&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=supersport2&type=p2p</referer>
+<thumbnail>http://www.supersport.al/wp-content/uploads/2016/03/SUPERSPORT-COLOUR1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SUPERSPORT 3 (ALB) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.co/player?channel=supersport2&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=supersport2&type=p2p</referer>
+<thumbnail>http://www.supersport.al/wp-content/uploads/2016/03/SUPERSPORT-COLOUR1.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS 1 (UK) [/I][/B][/COLOR]</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS 2 (UK) [/I][/B][/COLOR]</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS 3 (UK) [/I][/B][/COLOR]</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS 4 (UK) [/I][/B][/COLOR]</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS 5 (UK) [/I][/B][/COLOR]</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS F1 (UK) [/I][/B][/COLOR]</title>
+<link>http://50.97.49.87:1935/apqq2/vskysf1lsh/playlist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY SPORTS F1 (UK) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-streaming-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]BT SPORTS 1 (UK) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]BT SPORTS 2 (UK) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]BT/ESPN (UK) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsportespn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsportespn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]BT SPORTS EUROPE (UK) [/I][/B][/COLOR]</title>
+<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x</link>
+<thumbnail>https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2015/06/bt-sport-europe-header-logo.png</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=blue][B][I]BOX NATION (UK) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vuvwsr1433336020.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SETANTA (IRL) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mamahd.com/setanta-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ttusrw1445657002.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY CALCIO 1 (ITA) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/utstyp1459436553.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]ESPN 2 (USA) [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]SKY BUNDESLIGA (ALE) [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtvtsu1437968463.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]NBC SPORT (USA) [/I][/B][/COLOR]</title>
+<title>NBC SPORTS</title>
+<link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+<regex>
+<name>getSTREAM</name>
+<expres>file:.*(http.*?)[",']</expres>
+<page>http://lqgq.biggestplayer.me/streamcr.php?id=234777&width=620&height=460</page>
+<referer>http://theactionlive.com/livegamecrnope.php?id=inbcssn&width=620&height=490&stretching=</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png/medium</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=blue][B][I]FOX SPORT 1 (USA) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png/medium</thumbnail>	
+</item> 
+<item>
+<title>[COLOR=blue][B][I]FOX SPORT 1 (USA) [/I][/B][/COLOR]</title>
+<link>rtmp://185.63.255.60:80/live playpath=fox1ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.yotv.co/embed.php?live=fox1ree&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png/medium</thumbnail>	
+</item>  
+<item> 
+<title>[COLOR=blue][B][I]FOX SPORT 2 (USA) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png/medium</thumbnail>	
+</item> 
+<item>
+<title>[COLOR=blue][B][I]WWE (USA) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/wwenetwork.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/wwenetwork.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.bostonherald.com/sites/default/files/media/ap/5741d1012b564edab0fa7c408dcc4893.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]TSN 1 (CAN) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/upsspx1433379567.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]TSN 2 (CAN) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sutruq1433379787.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTSNET WORLD (CAN) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetworld.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetworld.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]SPORTSNET WORLD (CAN) [/I][/B][/COLOR]</title>
+<link>rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png/medium</thumbnail>	
+</item>  
+<item> 
+<title>[COLOR=blue][B][I]NBA TV (USA) [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbatv.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbatv.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xutptv1433429127.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]NBA TV (USA) [/I][/B][/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://lqgq.biggestplayer.me/streamcr.php?id=224676&amp;width=620&amp;height=460</page>
+<referer>http://theactionlive.com/livegamecrnope.php?id=nbatv&width=620&height=490&stretching=</referer>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xutptv1433429127.png/medium</thumbnail>
+</regex>
+</item> 
+<title>[COLOR=blue][B][I]BEIN SPORTS (ARA) [/I][/B][/COLOR]</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png/medium</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]L'EQUIPE 21 (FRA) [/I][/B][/COLOR]</title>  
+<link>http://streaming-hub.com/stream/lequipe21.m3u8?t=t6EtHF_f_SdlUzU4gSX6Dg|User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7</link>
+<thumbnail>http://www.ffvb.org/module/00003/28/data/Files/LOGOS/logo%20LEquipe%2021%20centre_Partageons.jpg</thumbnail>
+</item>	
+<item> 
+<title>[COLOR=blue][B][I]футбол 1 (RUS) [/I][/B][/COLOR]</title>
+<link>http://en356.edem.tv/iptv/CHYZL7L72HZMWV/124/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_1.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]футбол 1 (RUS) [/I][/B][/COLOR]</title>
+<link>http://fr234.edem.tv/iptv/3NL86LYFQ3UAZU/124/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_1.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]футбол 2 (RUS) [/I][/B][/COLOR]</title>
+<link>http://en356.edem.tv/iptv/CHYZL7L72HZMWV/530/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_2.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]футбол 2 (RUS) [/I][/B][/COLOR]</title>
+<link>http://en356.edem.tv/iptv/CHYZL7L72HZMWV/530/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_2.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]футбол 3 (RUS) [/I][/B][/COLOR]</title>
+<link>http://fr234.edem.tv/iptv/3NL86LYFQ3UAZU/522/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_3.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]футбол 3 (RUS) [/I][/B][/COLOR]</title>
+<link>http://en356.edem.tv/iptv/CHYZL7L72HZMWV/522/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_3.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I]Планета (RUS) [/I][/B][/COLOR]</title>
+<link>http://en356.edem.tv/iptv/CHYZL7L72HZMWV/123/index.m3u8</link>
+<thumbnail>http://etvix.com/wp-content/uploads/planeta.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I] SPORT 1 UA (UCR) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=sport1ua&type=p2p</sportsdevil>
+<referer>http://streamking.cc/player?channel=sport1ua&type=p2p</referer>
+<thumbnail>http://www.frosat.net/images/logotv/sport1_ukr.jpg</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I] SPORT 2 UA (UCR) [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=sport2ua&type=p2p</sportsdevil>
+<referer>http://streamking.cc/player?channel=sport2ua&type=p2p</referer>
+<thumbnail>http://zombobox.net/uploads/posts/sport_2_ukraine.png</thumbnail>
+</item>
+<item> 
+<thumbnail>http://georgianlive.com/wp-content/uploads/2013/02/sport-2.jpg</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I] SPORT1 (ALE) [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://www.designtagebuch.de/wp-content/uploads/mediathek//2010/02/sport1.jpg</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I] SKY SPORT 2 (ALE) [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://image1.tvdigital.de/files/station_logos/697.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR=blue][B][I] ORF SPORT+ (AUS) [/I][/B][/COLOR]</title> 
+<link>http://185.85.28.20/orfs/q8c.sdp/chunklist.m3u8</link>
+<thumbnail>http://www.peakbreak.at/wp-content/uploads/2013/08/orf_sport_plus_logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] M4 SPORT (HUN) [/I][/B][/COLOR]</title> 
+<link>http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20150704114500/logopedia/images/6/6b/M4_Sport_HD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] CT SPORT (CHE) [/I][/B][/COLOR]</title> 
+<link>http://iptv.klfree.cz:8014</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-rYMuh68T8OXCK4dgxamcTcRVcCNBsVc_5Dosd0rzJSqlvq_</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] SPORT 5 (CHE) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport5_cz.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] NFL SPORTS (USA) [/I][/B][/COLOR]</title> 
+<link></link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/bc/a8/2b/bca82b7a09489134459c7cffd775a1a6.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] IDMAN SPORTS (AZE) [/I][/B][/COLOR]</title> 
+<link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-p.m3u8</link>
+<thumbnail>http://tvyayim.com/images/idmantv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] RAI SPORT 1 (ITA) [/I][/B][/COLOR]</title>
+<link>http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwrqqs1434463964.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=blue][B][I] RAI SPORT 1 (ITA) [/I][/B][/COLOR]</title>
+<link>mmsh://212.162.68.163:80/raisport+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwrqqs1434463964.png/medium</thumbnail>
+</item>  
+<item>
+<title>[COLOR=blue][B][I] RAI SPORT 2 (ITA) [/I][/B][/COLOR]</title>
+<link>http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vvuwvx1434463976.png/medium</thumbnail>
+</item>  
+<item> 
+<title>[COLOR=blue][B][I]LIG TV (TUR) [/I][/B][/COLOR]</title>
+<link>http://cdn.sstream.pw/live/tvb160/chunklist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://iptvking.com/wp-content/uploads/2014/05/ligtv.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I]FANATIK TV (TUR) [/I][/B][/COLOR]</title>
+<link>http://fanatik.hls.cubecdn.net/fanatiktv/stream_480.m3u8</link>
+<thumbnail>https://lh5.ggpht.com/yobAeRjVafr3TE9Zg0ckNLuaZYAvok4pfd1FoEcK4wjVrKJCvYwvV3YFxqCfL9UhR1xw=w300</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] NTV SPORT (TUR) [/I][/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://2.bp.blogspot.com/-0Y-lPAHaec0/Uw4E3kFECrI/AAAAAAAAAeI/nst9LVyop7k/s1600/NTVSPOR.png</thumbnail>
+</item> 
+<item> 
+<title>[COLOR=blue][B][I] A SPORT (TUR) [/I][/B][/COLOR]</title>
+<link>$doregex[get-URL]|User-Agent=iPhone</link>
+<regex>
+<name>get-URL</name>
+<expres>file : "(.*?)"</expres>
+<page>http://www.ecanlihdtvizle.com/yayin/asporhd.php</page>
+<referer>http://www.ecanlihdtvizle.com</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent> 
+<cookieJar></cookieJar> 
+<thumbnail>http://www.tvfrekans.com/wp-content/uploads/2014/09/a-spor-tv-logo.jpg</thumbnail>
+</regex> 
+</item>  
+<item>   
+<title>[COLOR=blue][B][I] TRT SPORT (TUR) [/I][/B][/COLOR]</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/a/a7/TRT_Spor_HD.png</thumbnail>
+</item>  
+<item>   
+<title>[COLOR=blue][B][I] BIGPOND SPORTS (AUS) [/I][/B][/COLOR]</title> 
+<link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high</link>
+<thumbnail>https://lh4.googleusercontent.com/-p6iL4GmIoQ4/TgdW4ASEcQI/AAAAAAAAATc/Ef8JZ0tyFIk/s288/banner-bigpond-sport.jpg</thumbnail>
+</item>
+<item> 
+ <title>[COLOR=blue][B][I] REAL MADRID TV [/I][/B][/COLOR]</title>  
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/trrqwt1433356293.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR=blue][B][I] MOTORSPORT (AUS) [/I][/B][/COLOR]</title>
+<link>http://motorsport.hopto.org:8080/?b?b*t$</link>
+<thumbnail>http://www.ntmwheels.com/Images/RacingCar.png</thumbnail>
+</item> 
+<item> 
+<title>[COLOR=blue][B][I] POKER CENTRAL (USA) [/I][/B][/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<thumbnail>http://media.cardplayer.com/assets/000/016/219/poker_central.jpg</thumbnail>
+</item> 
+<item> 
+<title>[COLOR=blue][B][I] PAC NATIONAL (USA) [/I][/B][/COLOR]</title> 
+<link>http://xrxs.net/video/live-p12netw-4728.m3u8?husham.com</link>
+<thumbnail>http://www.jmisports.com/wp-content/uploads/2015/05/2015-05-18-Pac-12-Presents-New-Model-to-Ads.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] NBC SPORT GOLF (USA) [/I][/B][/COLOR]</title> 
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qtyvux1433327014.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT1 VOETBOL (HOL) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link></link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/xptqqs1433942023.png/medium</thumbnail>
+</item>
+<item>  
+<title>[COLOR blue][B][I]SKY SPORTS 1 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10351.acelive&amp;mode=1&amp;name=sky1</link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/qsqppx1433780688.png/medium</thumbnail>
+</item>
+<item>                         
+<title>[COLOR blue][B][I]SKY SPORTS 2 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12738.acelive&amp;mode=1&amp;name=skysports2</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ywqsru1433780725.png/medium</thumbnail>
+ </item>
+ <item>
+<title>[COLOR blue][B][I]SKY SPORTS 3 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/6909.acelive&amp;mode=1&amp;name=skysports3</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xsyxqy1433780765.png/medium</thumbnail>
+ </item>
+ <item>
+<title>[COLOR blue][B][I]SKY SPORTS 4 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12739.acelive&amp;mode=1&amp;name=skysports4</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vqrpqw1433780809.png/medium</thumbnail>
+</item>
+ <item>                       
+<title>[COLOR blue][B][I]SKY SPORTS 5 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10285.acelive&amp;mode=1&amp;name=skysports5</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwtwur1433780838.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]BT SPORT 1 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10634.acelive&amp;mode=1&amp;name=btsport1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png/medium</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]BT SPORT 2 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9220.acelive&amp;mode=1&amp;name=btsport2</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]BT SPORTS EUROPE (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/cU5Sb3F0dEM0R3JidUxGcVExM2ZEUVJhdURtQjNvUktuUHZZeXRkS0wyWmc3OXNWb1dHTGUzNFYxYndacElYOU1FVUp5M0tVc1FocDJhKzhxZlVsdXc9PQ/13648.acelive&amp;mode=1&amp;name=Test</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/BT_Sport_ESPN_logo.png</thumbnail>
+</item>
+ <item>  
+<title>[COLOR blue][B][I]BT SPORTS/ESPN (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/13090.acelive&amp;mode=1&amp;name=Test</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-ESPN.png</thumbnail>
+</item>
+ <item> 
+<title>[COLOR blue][B][I]SKY F1 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9299.acelive&amp;mode=1&amp;name=f1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]EUROSPORT 1 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12747.acelive&amp;mode=1&amp;name=eurosport</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uswqqx1447523350.png/medium</thumbnail>
+</item>
+<item>  
+<title>[COLOR blue][B][I]EUROSPORT 2 (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/12748.acelive&amp;mode=1&amp;name=eurosport</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/usyxyr1447524232.png/medium</thumbnail>
+</item>
+<item>  
+<title>[COLOR blue][B][I]PREMIER SPORTS (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/6972.acelive&amp;mode=1&amp;name=premier</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]BOX NATION (UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/RnROeFZvdFkyNGxOVGpQS1NPc1dMV1dOR3lSZ2wveGI4SlNGdSs2d3BybDREYlNWaDA5NE5sOEJXUEFPK0N6dzZSc0JtYzJjTFpxOTdzZ3BkanpUQkE9PQ/13562.acelive&amp;mode=1&amp;name=box</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vuvwsr1433336020.png/medium</thumbnail>
+</item>
+<item>   
+ <title>[COLOR blue][B][I]SPORT 1 (UCR) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9079.acelive&amp;mode=1&amp;name=1UA</link>
+<thumbnail>http://www.frosat.net/images/logotv/sport1_ukr.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT 2 (UCR) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9251.acelive&amp;mode=1&amp;name=2UA</link>
+<thumbnail>http://web-tuner.ru/_bd/0/18202497.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]POLSAT SPORT (POL) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9685.acelive&amp;mode=1&amp;name=polsat</link>
+<thumbnail>http://www.smsnet.pl/_sms/_upload/_foto/polsat_sport_hd.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT 1 CZ (CHE) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10729.acelive&amp;mode=1&amp;name=cz</link>
+<thumbnail>http://hometracks.nascar.com/files/sport1_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]SPORT 2 CZ (CHE) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10873.acelive&amp;mode=1&amp;name=cz2</link>
+<thumbnail>http://i.iinfo.cz/urs/SPORT_2_RGB-130944744287389.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]FOX SPORT 2 (HOL) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=af93b5ae38efe7c048e2687bf0a4d028bd55303a&amp;mode=1&amp;name=fox</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium</thumbnail>
+ </item>
+ <item> 
+<title>[COLOR blue][B][I]SUPERTENNIS (ITA) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title> 
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9217.acelive&amp;mode=1&amp;name=test</link>
+<thumbnail>http://www.atraldon.altervista.org/img/SuperTennis.JPG</thumbnail>
+</item>
+<item>                        
+<title>[COLOR blue][B][I]MOVISTAR F1 (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11642.acelive&amp;mode=1&amp;name=Test</link>
+<fanart>http://static3.mascoche.net/competicion/files/2012/10/horarios-formula-1-corea-2012.jpg</fanart>
+<thumbnail>http://costaverdemar.files.wordpress.com/2012/11/logo-formula-1.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]MOVISTAR MOTO GP (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/12227.acelive&amp;mode=1&amp;name=Test</link>
+<thumbnail>http://c8.alamy.com/comp/AR2KE0/sete-gibernau-spain-movistar-honda-2005-polini-australian-grand-prix-AR2KE0.jpg</thumbnail>
+</item>
+ <item>
+<title>[COLOR blue][B][I]CANAL+LIGA (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9387.acelive&amp;mode=1&amp;name=Test</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qxpxsq1435144103.png/medium</thumbnail>
+</item>
+ <item>
+<title>[COLOR blue][B][I]TELEDEPORTE (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11139.acelive&amp;mode=1&amp;name=Test</link>
+<thumbnail>http://files.santisman.es/system_preview_detail_200002448-55c2756d8b/1338818745568.jpg</thumbnail>
+</item>
+ <item>
+<title>[COLOR blue][B][I]CANAL+FUTBOL (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/NDhQclRLaWJkTlVqOUJUUnBmak1aMCtGUHpVM2VqUWx5dHNnemYwNXEweUJrZVQwTzNjTG9zVHk5UFpaUkNWa2F2MHIvY0FmaDBRVWdmendoektRcGc9PQ/13405.acelive&amp;mode=1&amp;name=canal+</link> 
+<thumbnail>http://2.bp.blogspot.com/-misBPz0-jCk/UNUZEnV_uLI/AAAAAAAAAGA/EODo3qZx8uQ/h120/canal+%252B+futbol+hd.png</thumbnail>
+ </item>
+ <item>  
+<title>[COLOR blue][B][I]CANAL+DEPORTES (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/13230.acelive&amp;mode=1&amp;name=canal+</link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/svtrtx1433355701.png/medium</thumbnail>
+</item>
+ <item>   
+<title>[COLOR blue][B][I]CANAL+DEPORTES 2 (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/13231.acelive&amp;mode=1&amp;name=canal+</link> 
+<thumbnail>http://2.bp.blogspot.com/-ziVJ31fND74/UP_6WME8G0I/AAAAAAAAAc8/wBOzFs-DeVY/s320/canal+%252B+deportes+2+hd.png</thumbnail>
+</item>
+ <item>  
+<title>[COLOR blue][B][I]VIASAT TV3 SPORT 1 (DIN) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/10561.acelive&amp;mode=1&amp;name=viasat</link> 
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/TV3-Sport-1-HD.png</thumbnail>
+</item>
+<item>  
+<title>[COLOR blue][B][I]VIASAT TV3 SPORT 2 (DIN) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/10327.acelive&amp;mode=1&amp;name=viasat</link> 
+<thumbnail>http://digitalt.tv/wp-content/uploads/t/tv3sport2.png</thumbnail>
+</item>
+ <item> 
+<title>[COLOR blue][B][I]SKY SPORTS 1 (ALE) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=3a619efa4e9efb342affe2042a80647497ef5dbd&amp;mode=1&amp;name=test</link> 
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Sky_Sport_(Sky_Deutschland).png</thumbnail>
+</item>
+<item> 
+<title>[COLOR blue][B][I]VIASAT FOTBOLL (SUE) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/NnJIR0U4Q1c2SlBnY2orYzBPSTBWaktwQ2lyNGhCRGRWRFRyKzZlaEUwNVRQSUlDem44R01kSnIvUzFJY1VIQ3RMbkhUVXQ0R3VObDZKSmtWMGRkNUE9PQ/12959.acelive&amp;mode=1&amp;name=test</link> 
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/3/36/Viasat_Fotboll_2008.png/revision/latest?cb=20100122153127</thumbnail>
+</item>
+<item>                       
+<title>[COLOR blue][B][I]VIASAT SPORT BALTIC (RUS/UK) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/10362.acelive&amp;mode=1&amp;name=viasat</link> 
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/23/Viasat_Sport_Baltic_logo.png/400px-Viasat_Sport_Baltic_logo.png</thumbnail>
+</item>
+<item>  
+<title>[COLOR blue][B][I] Футбол 1 HD (RUS) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/L2Q0RFQ1d0dCcFBPVjRJVVJRQ1hRb21xNnl1M2t2WVJ0eWlxSFRMUEs5QWNuQmpCcGo5YW00bGZzY3l6UklFVUJZV0ZwbVpFQzFkcWlmVllENnlLTGc9PQ/cdn/625_reg.acelive&amp;mode=1&amp;name=</link> 
+<thumbnail>http://satsis.info/uploads/posts/2012-09/1346954575_football_logo_big.jpg</thumbnail>
+</item>
+ <item>    
+<title>[COLOR blue][B][I] Футбол 2 HD (RUS) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/cllwYWtMMGd5OGZkTmRCckN6S3A4c0V6elJnMjE0MFFaaFJNZUNxOE44ZWdURnI5OEVkQWhZd2VaYzlNSjRwV0tZNlVwVHZaenR5V1llRFQycGlrVWc9PQ/cdn/611_reg.acelive&amp;mode=1&amp;name=</link> 
+<thumbnail>http://satsis.info/uploads/posts/2012-09/1346954575_football_logo_big.jpg</thumbnail>
+</item>
+ <item>
+<title>[COLOR blue][B][I] Футбол 3 HD (RUS) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/NU9RTjViMzhjaE1hZkYvRVBiQ1hJVndod2h0ZXc3aGN6cFFHYit1aVdMdHMvdHVteDVFeWdoVFFWdGpicDhxODR5ZlA1ZHpWNjAzYnVDYUdtWTM3SUE9PQ/cdn/646_reg.acelive&amp;mode=1&amp;name=</link> 
+<thumbnail>http://satsis.info/uploads/posts/2012-09/1346954575_football_logo_big.jpg</thumbnail>
+</item>
+ <item> 
+<title>[COLOR blue][B][I] Спорт 1 HD (RUS) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.asplaylist.net/UVZpWWVUWHNjUmRGZFRnbEloN21ZRHZSY1pCNDhOOWR5WXJzQjF3VVBhUDIyOUZDMVdxVEd0bGs0WlFZQUE3Q2NBZys3NUpqa3FEaTNSKzg4WDNyQVE9PQ/cdn/526_reg.acelive&amp;mode=1&amp;name=</link> 
+<thumbnail>http://film-online.org/uploads/posts/2014-02/1391965336_sport-1-russia.png</thumbnail>
+</item>
+ <item>     
+<title>[COLOR blue][B][I] SETANTA SPORTS EURASIA (RUS) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/8846.acelive&amp;mode=1&amp;name=setanta</link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/yvxwts1453835354.png/medium</thumbnail>
+</item>
+ <item>                       
+<title>[COLOR blue][B][I] SETANTA SPORTS + (RUS) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/12247.acelive&amp;mode=1&amp;name=setanta</link> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/yvxwts1453835354.png/medium</thumbnail>
+</item>
+ <item>                       
+<title>[COLOR blue][B][I]ARENAVISION MULTI (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>             
+<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=</link>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<regex>
+<name>url</name>  
+<expres>this.loadPlayer\("([^"]*)</expres>
+<page>http://deporteshd1.blogspot.com/p/arenavision-3_5.html</page>
+<referer></referer>
+</regex>
+</item>
+<item>
+<title>[COLOR blue][B][I]ARENAVISION MULTI (ESP) [/I][/B][/COLOR] [COLOR orange](ACESTREAM PLEXUS)[/COLOR]</title>           
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[url]&amp;mode=1&amp;name=</link>
+<regex>
+<name>url</name>  
+<expres>this.loadPlayer\("([^"]*)</expres>
+<page>http://deporteshd1.blogspot.com/p/arenavision-13.html</page>
+<referer></referer>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>   
+</item>
