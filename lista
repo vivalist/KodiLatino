@@ -377,64 +377,6 @@ http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,RBC Peru
 http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
 
-
-#EXTINF:-1,[COLOR blue]------------CANALES--------------[/COLOR][COLOR red]--------LATINOAMERICA----------------[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
-http://?
-
-#EXTINF:-1,Anzoategui TV Venezuela
-rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
-#EXTINF:-1,Canal 11 Venezuela
-rtmp://edge.wms28.lorini.net/canalonce/canalonce
-#EXTINF:-1,Sulavision Venezuela
-http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1,TRT Venezuela
-rtmp://edge.wms28.lorini.net/trttv/trttv
-#EXTINF:-1,TVO Canal 23 Venezuela
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal i  Venezuela
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,Vale TV  Venezuela
-rtmp://edge.wms28.lorini.net/valetv/valetv
-#EXTINF:-1,Telecaribe Venezuela
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-
-#EXTINF:-1,[COLOR lime]---TV Globo---[/COLOR]
-http://?
-
-#EXTINF:-1 group-title="VARIEDADES", Globo
-http://art.nextv.ca:80/nextv/globo/index.m3u8
-#EXTINF:-1 group-title="VARIEDADES", TV GLOBO
-http://ts-iptv.dyndns.tv:8000/live/mario/nunes/344.ts
-#EXTINF:-1 group-title="VARIEDADES", TV Globo Premium
-http://ts-iptv.dyndns.tv:8000/live/mario/nunes/211.ts
-#EXTINF:-1 group-title="VARIEDADES", GLOBO BRASIL
-http://ts-iptv.dyndns.tv:8000/live/mario/nunes/346.ts
-
-#EXTINF:-1,[COLOR lime]---Rep. Dominicana---[/COLOR]
-http://?
-
-#EXTINF:-1,Tele Antillas  Rep. Dominicana
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Telessistema  Rep. Dominicana
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1,ANTENA LATINA Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Telesitemas 11 Rep. Dominicana
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Antena Latina Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Musavision Rep. Dominicana
-http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-#EXTINF:-1,TeleNord Rep. Dominicana
-rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
-#EXTINF:-1,CDN 37 Rep. Dominicana
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-
 #EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
 http://?
 
@@ -521,99 +463,67 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
 #EXTINF:-1,Canal 66 Mexicali
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
-#EXTINF:-1,[COLOR blue]------------CANALES--------------[/COLOR][COLOR red]--------ESPAIN----------------[/COLOR]
+#EXTINF:-1,[COLOR red]--------ESPAIN----------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,ES : MEGA
-http://62.210.162.88:80/live/ES125/133708032016/1742.ts
-#EXTINF:-1,ES : LA SEXTA
-http://62.210.162.88:80/live/ES125/133708032016/1726.ts
-#EXTINF:-1,ES : ANTENA 3
-http://62.210.162.88:80/live/ES125/133708032016/1724.ts
-#EXTINF:-1,ES : LA RED
-http://62.210.162.88:80/live/ES125/133708032016/2024.ts
-#EXTINF:-1,ES : A3S
-http://62.210.162.88:80/live/ES125/133708032016/2041.ts
-#EXTINF:-1,ES : BTV
-http://62.210.162.88:80/live/ES125/133708032016/2043.ts
-#EXTINF:-1,ES : NOVA
-http://62.210.162.88:80/live/ES125/133708032016/2042.ts
-#EXTINF:-1,ES : CANAL  LIGA
-http://62.210.162.88:80/live/ES125/133708032016/1728.ts
-#EXTINF:-1,ES : EXTREMADURA TV
-http://62.210.162.88:80/live/ES125/133708032016/1748.ts
-#EXTINF:-1,ES : NEOX
-http://62.210.162.88:80/live/ES125/133708032016/2040.ts
-#EXTINF:-1,ES : EURONEWS*
-http://62.210.162.88:80/live/ES125/133708032016/1756.ts
-#EXTINF:-1,ES : CEUTA TV
-http://62.210.162.88:80/live/ES125/133708032016/1753.ts
-#EXTINF:-1,ES : CASTILLA LA MANCHA TV
-http://62.210.162.88:80/live/ES125/133708032016/1750.ts
-#EXTINF:-1,ES : CANAL TRO
-http://62.210.162.88:80/live/ES125/133708032016/2070.ts
-#EXTINF:-1,ES : INTERECONOMIA
-http://62.210.162.88:80/live/ES125/133708032016/1758.ts
-#EXTINF:-1,ES : GALIZA TV EUROPA
-http://62.210.162.88:80/live/ES125/133708032016/1745.ts
-#EXTINF:-1,ES : GALIZA TV AMERICA
-http://62.210.162.88:80/live/ES125/133708032016/1746.ts
-#EXTINF:-1,ES : FOX
-http://62.210.162.88:80/live/ES125/133708032016/1739.ts
-#EXTINF:-1,ES : FOX
-http://62.210.162.88:80/live/ES125/133708032016/1720.ts
-#EXTINF:-1,ES : CANAL+ ESTRENOS
-http://62.210.162.88:80/live/ES125/133708032016/1721.ts
-#EXTINF:-1,ES : CANAL DCINE
-http://62.210.162.88:80/live/ES125/133708032016/1737.ts
-#EXTINF:-1,ES : CANAL COMEDIA
-http://62.210.162.88:80/live/ES125/133708032016/1738.ts
-#EXTINF:-1,ES : AXN WHITE
-http://62.210.162.88:80/live/ES125/133708032016/1741.ts
-#EXTINF:-1,ES : CANAL COSTA
-http://62.210.162.88:80/live/ES125/133708032016/1759.ts
-#EXTINF:-1,ES : ANIME TV
-http://62.210.162.88:80/live/ES125/133708032016/1755.ts
 #EXTINF:-1,ES : ANDORRA TV
-http://62.210.162.88:80/live/ES125/133708032016/1749.ts
-#EXTINF:-1,ES : 13 TV
-http://62.210.162.88:80/live/ES125/133708032016/1744.ts
-#EXTINF:-1,ES_la 1
-http://62.210.162.88:80/live/ES125/133708032016/1539.ts
-#EXTINF:-1,ES_la2
-http://62.210.162.88:80/live/ES125/133708032016/1540.ts
-#EXTINF:-1,ES_tnt
-http://62.210.162.88:80/live/ES125/133708032016/1535.ts
-#EXTINF:-1,ES_xtra
-http://62.210.162.88:80/live/ES125/133708032016/1534.ts
-#EXTINF:-1,ES_telesur
-http://62.210.162.88:80/live/ES125/133708032016/1538.ts
-#EXTINF:-1,ES_hollywood
-http://62.210.162.88:80/live/ES125/133708032016/1533.ts
-#EXTINF:-1,ES_FDF
-http://62.210.162.88:80/live/ES125/133708032016/1532.ts
-#EXTINF:-1,ES_cuatro
-http://62.210.162.88:80/live/ES125/133708032016/1536.ts
-#EXTINF:-1,ES_clan
-http://62.210.162.88:80/live/ES125/133708032016/1541.ts
-#EXTINF:-1,ES_C  TOROS
-http://62.210.162.88:80/live/ES125/133708032016/1531.ts
-#EXTINF:-1,ES_C  DEPORT HD
-http://62.210.162.88:80/live/ES125/133708032016/1530.ts
-#EXTINF:-1,ESPAIN : TVE 1
-http://62.210.162.88:80/live/ES125/133708032016/1722.ts
-#EXTINF:-1,ESPAIN : LA 2
-http://62.210.162.88:80/live/ES125/133708032016/1723.ts
-#EXTINF:-1,ESPAIN : TV3 24
-http://62.210.162.88:80/live/ES125/133708032016/1762.ts
-#EXTINF:-1,ESPAIN : TRAVEL TV
-http://62.210.162.88:80/live/ES125/133708032016/1754.ts
-#EXTINF:-1,ESPAIN : RTP ASTURIAS
-http://62.210.162.88:80/live/ES125/133708032016/1747.ts
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,ES : TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
 #EXTINF:-1,ES : RT EN ESPAÑOL HD
-http://62.210.162.88:80/live/ES125/133708032016/1757.ts
-#EXTINF:-1,ES : ONDA SEVILLA
-http://62.210.162.88:80/live/ES125/133708032016/1761.ts
+http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8
+#EXTINF:-1,ES : GALIZA TV AMERICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,ES : EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1,ES : ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,ES : AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,ES : Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,ES : DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,ES : Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,ES : Efecto Tv Hd
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:-1,ES : LA 2 
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1,ES : ANTENA 3
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:-1,ES : LA SEXTA 
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:-1,ES : NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,ES : NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,ES : MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
+#EXTINF:-1,ES : 13 TV 
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8
+#EXTINF:-1,ES : INTERECONOMIA
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:-1,ES : 8TYUTV
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8
+#EXTINF:-1,ES : CATALUNHA
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:-1,ES : CANAL SUR
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,ES : TV EUROPA
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:-1,ES : RTP ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,ES : EXTREMADURA TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,ES : TRAVEL TV
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,ES : ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
+#EXTINF:-1,ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:-1,ONDA AZUL SEVILLA
+http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/master.m3u8
 #EXTINF:-1,Antena 3 Internacional  Espana
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1,Antena 3 Espana
@@ -634,133 +544,6 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,Mediterraneo TV Espana
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-
-#EXTINF:-1,[COLOR lime]---Bolivia---[/COLOR]
-http://?
-
-#EXTINF:-1,Red PAT Bolivia
-http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---Colombia---[/COLOR]
-http://?
-
-#EXTINF:-1,Canal Capital Colombia
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1,Canal U Colombia
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Teleamiga Colombia
-http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
-
-#EXTINF:-1,[COLOR lime]---Costa Rica---[/COLOR]
-http://?
-
-#EXTINF:-1,SINART Canal Trece Costa Rica
-http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
-#EXTINF:-1,SMO TV Costa Rica
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:-1,Colosal TV Costa Rica
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1,Tv UNO Costa Rica
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,TV Costa Rica
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
-#EXTINF:-1,Extra TV Canal 42 Costa Rica
-http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
-#EXTINF:-1,CB24 Noticias Costa Rica
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---Chile---[/COLOR]
-http://?
-
-#EXTINF:-1,Canal 9 Chile
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-#EXTINF:-1,TV Chile
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1,TVN Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1,Arica TV Chile
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-
-
-#EXTINF:-1,[COLOR lime]---Ecuador---[/COLOR]
-http://?
-
-#EXTINF:-1,Ecuavisa Ecuador
-rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 
-#EXTINF:-1,TVS Ecuador
-http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
-#EXTINF:-1,UCSG TV Ecuador
-rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
-#EXTINF:-1,Digital TV Canal 28 Macas Ecuador
-http://enhd.co:1935/9208/9208/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---El Salvador---[/COLOR]
-http://?
-
-#EXTINF:-1,Megavision Canal 21 El Salvador
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal 33 El Salvador
-http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TRV El Salvador
-http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---Guatemala---[/COLOR]
-http://?
-
-#EXTINF:-1,TV Maya Guatemala
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Campus TV Guatemala
-http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---Honduras---[/COLOR]
-http://?
-
-#EXTINF:-1,Teleceiba Honduras
-http://162.212.176.83:8080/teleceiba.m3u8
-#EXTINF:-1,Teleprogreso Honduras
-http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:-1,Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-
-#EXTINF:-1,[COLOR lime]---Nicaragua---[/COLOR]
-http://?
-
-#EXTINF:-1,Canal 2 Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1,Viva Nicaragua Canal 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---Panama---[/COLOR]
-http://?
-
-#EXTINF:-1,Telemetro Panama
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
-#EXTINF:-1,RPC Panama
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,SER TV Panama
-rtmp://216.224.177.132/live/sertv
-
-#EXTINF:-1,[COLOR lime]---Paraguay---[/COLOR]
-http://?
-
-#EXTINF:-1,Telefuturo Paraguay
-http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal 13 Paraguay
-rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.com.py/swf/player_web04.swf 
-#EXTINF:-1,Intercable Canal 10 Paraguay
-rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?
-
-#EXTINF:-1,[COLOR lime]---Peru---[/COLOR]
-http://?
-
-#EXTINF:-1,Capital TV Peru
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1,UCV Satelital Peru
-http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1,Canal 4 Arequipa Peru
-http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,RBC Peru
-http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
 
 
 #EXTINF: -1,Real Madrid TV
