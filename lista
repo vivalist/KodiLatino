@@ -220,6 +220,12 @@ http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Teleamiga Colombia
 http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+#EXTINF:-1,COL:Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,COL:TeleCaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+
 
 #EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
 http://?
@@ -296,7 +302,16 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR lime]---Chile---[/COLOR]
 http://?
 
-
+#EXTINF:-1,Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1, VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8
+#EXTINF:-1,Arica TV Canal 12
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1, Campus TV
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1, Canal 2 ValleTV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
 #EXTINF:-1,Arica TV Chile
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 
