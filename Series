@@ -2,7 +2,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Gnula[/B] [/COLOR][COLOR skyblue]Alfabeticamente[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Alfabeticamente[/COLOR] </title>
 <link>$doregex[makelist4]</link>
 
 
@@ -54,7 +54,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 
-<title>[makelist2.param3] [makelist2.param2] - [COLOR lightblue]Idioma:[makelist.param2][/COLOR]</title>
+<title>[makelist2.param3] [makelist2.param2] - [COLOR red]Idioma:[makelist.param2][/COLOR]</title>
 <link>$doregex[id]</link>
 
 
@@ -88,7 +88,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Gnula[/B] [/COLOR][COLOR skyblue]Mas Vistas***[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Mas Vistas[/COLOR] </title>
 <link>$doregex[makelist4]</link>
 
 
@@ -168,7 +168,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula[/B] [/COLOR][COLOR skyblue]Ultimos Capitulos subidos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Ultimos Capitulos subidos[/COLOR] </title>
 <link>$doregex[makelist]</link>
 
 
@@ -228,7 +228,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula[/B] [/COLOR][COLOR skyblue]Todas la Series[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Todas la Series[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -286,7 +286,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula[/B] [/COLOR][COLOR skyblue]Por Generos[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Por Generos[/COLOR] </title>
 <link>$doregex[makelist3]</link>
 
 
@@ -385,7 +385,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Series Pepito[/B] [/COLOR][COLOR skyblue]Alfabeticamente[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Series Pepito[/B] [/COLOR][COLOR skyblue]Alfabeticamente[/COLOR] </title>
 <link>$doregex[makelist3]</link>
 
 
@@ -473,7 +473,7 @@
 
 
  <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]KickASS [/B] [/COLOR][COLOR skyblue]Capitulos mas recientes[/COLOR] [COLOR lightslategray] Top25 Popular TV[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]KickASS [/B] [/COLOR][COLOR skyblue]Capitulos mas recientes[/COLOR] [COLOR lightslategray] Top25 Popular TV[/COLOR] </title>
 
 
 <link>$doregex[makelist]</link>
@@ -496,7 +496,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Ultimos Capitulos[/B] [/COLOR][COLOR skyblue]Torrents[/COLOR]  [COLOR gray][I]quasar requerido[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Ultimos Capitulos[/B] [/COLOR][COLOR skyblue]Torrents[/COLOR]  [COLOR gray][I]quasar requerido[/I][/COLOR]</title>
 <link>$doregex[showPages]</link> 
 <thumbnail> </thumbnail>  
 
@@ -568,7 +568,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Series mas Vistas[/B] [/COLOR][COLOR skyblue]OFFLINE[/COLOR]  [COLOR gray][I]series flv[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Series mas Vistas[/B] [/COLOR][COLOR skyblue]OFFLINE[/COLOR]  [COLOR gray][I]series flv[/I][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 
@@ -777,7 +777,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Series Blanco[/B] [/COLOR][COLOR skyblue][/COLOR]  [COLOR gray][I]Alfabeticamente[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Series Blanco[/B] [/COLOR][COLOR skyblue][/COLOR]  [COLOR gray][I]Alfabeticamente[/I][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 
@@ -871,7 +871,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Anime[/B] [/COLOR][COLOR skyblue]animeyt[/COLOR]  [COLOR gray][I]Alfabeticamente • Gracias Josue Aristy[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Anime[/B] [/COLOR][COLOR skyblue]animeyt[/COLOR]  [COLOR gray][I]Alfabeticamente • Gracias Josue Aristy[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -942,7 +942,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Anime[/B] [/COLOR][COLOR skyblue]animeyt[/COLOR]  [COLOR gray][I]En Emision[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Anime[/B] [/COLOR][COLOR skyblue]animeyt[/COLOR]  [COLOR gray][I]En Emision[/I][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 
@@ -1035,7 +1035,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Anime[/B] [/COLOR][COLOR skyblue]animeflv[/COLOR]  [COLOR gray][I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Anime[/B] [/COLOR][COLOR skyblue]animeflv[/COLOR]  [COLOR gray][I][/I][/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 
@@ -1100,7 +1100,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <tem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Series VIP[/B] [/COLOR][COLOR skyblue]VO[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Series VIP[/B] [/COLOR][COLOR skyblue]VO[/COLOR] </title>
 <link>$doregex[makelist]</link>
 
 <regex>
