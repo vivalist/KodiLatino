@@ -132,17 +132,10 @@
 <info></info>
 </item>
     
-    
-    <item>
-<title>[COLOR lime]*[/COLOR][COLOR blue]  [B]Movies Estrenos[/B] [/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
-<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
-<fanart>https://goo.gl/9oQCFk</fanart>
-</item>
+ 
   
 <item>
-<title>[COLOR red][B]Peliculas Infantiles[/B][/COLOR] [COLOR deepskyblue]Audio Latino[/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red][B]Peliculas Infantiles[/B][/COLOR] [COLOR deepskyblue]Audio Latino[/COLOR] </title>
 <link>http://ignora.me</link>
 <externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
@@ -150,14 +143,7 @@
 <info></info>
 </item>
   
-  <item>
-<title>[COLOR red][B]ALOFLIX[/B][/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://dl.dropboxusercontent.com/s/ukw944z5k82jdk0/AloFlix.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
-<info></info>
-</item>
+
   
 
 	
