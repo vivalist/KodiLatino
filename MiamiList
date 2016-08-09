@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+  
+
+    <channels>
+     <channels_info> <!-- this is optional -->
+      <title>[COLOR red][B]MIAMI-LIST [/B][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TODOS</genre>
+      <description>Con una pequeña donación.Son los pequeños gestos que marcan la diferencia. paypal:linecall1@hotmail.com</description>
+      <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+      <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+      <date>AÃ‘O</date>
+      <credits>CREDITOS</credits>
+    <channels_info>
+    
+        <channel>
+    <name>[COLOR yellow][B]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.paypal:[/B][/COLOR][COLOR lime][B]linecall1@hotmail.com[/B][/COLOR]</name>
+    <info>Cuenta de Paypal</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+    <channel>
+    <name>                                                [COLOR red][B]MIAMI-LIST [/B][/COLOR]</name>
+    <info>Cuenta de Paypal</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>	
+	
+	
+	 
+	     <channel>
+    <name>                                           [COLOR blue][B]Update 08/09/16[/B][/COLOR]</name>
+    <info>Update</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>	
+    
+	
+
+	   <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]ENTRETENIMIENTO [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>ENTRETENIMIENTO</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+    
+    <item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/Entretenimiento</externallink>
+</item>
+
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]IPTV [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>DEPORTES</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+
+<item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  IPTV PRIVADO ESPAÑOL [COLOR lime](UP)[/COLOR][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/IPTVPrivadoES</externallink>
+</item>
+
+<item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  IPTV PRIVADO INGLES [COLOR lime](UP)[/COLOR][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/IPTVPrivadoING</externallink>
+</item>
+
+<item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  IPTV PRIVADO DEPORTES [COLOR lime](UP)[/COLOR][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/IPTVPrivadoDep</externallink>
+</item>
+
+
+ 
+   
+   
+   
+   
+   <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]IPTV STALKER [/B][/COLOR]</name>
+    <info>DEPORTES</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+   
+   
+    <item>
+<thumbnail>oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/Stalker</externallink>
+</item>
+
+
+    
+    
+    
+    
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PELICULAS [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>PELICULAS</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+    
+    
+    <item>
+<title>[COLOR lime]*[/COLOR][COLOR red][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR red][B]Estrenos [/B][/COLOR] [COLOR deepskyblue]Audio Original [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/estrenos.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<info></info>
+</item>
+    
+    
+    <item>
+<title>[COLOR lime]*[/COLOR][COLOR blue]  [B]Movies Estrenos[/B] [/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+  
+<item>
+<title>[COLOR red][B]Peliculas Infantiles[/B][/COLOR] [COLOR deepskyblue]Audio Latino[/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
+<info></info>
+</item>
+  
+  <item>
+<title>[COLOR red][B]ALOFLIX[/B][/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://dl.dropboxusercontent.com/s/ukw944z5k82jdk0/AloFlix.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
+<info></info>
+</item>
+  
+
+	
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]SERIES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>SERIES</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+    
+  <item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Alfabeticamente[/COLOR] </title>
+<link>$doregex[makelist4]</link>
+
+
+
+<regex>
+<name>makelist4</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] Letra [makelist4.param2] [/COLOR] </title>
+<link>$doregex[makelist3]</link>
+]]></listrepeat>
+<expres>href="/lista-de-series/(.*?)">(.*?)<</expres>
+<page>http://gnula.se/lista-de-series/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist3.param2] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>capitulos/(.*?)" title="(.*?)"</expres>
+<page>http://gnula.se/lista-de-series/[makelist4.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param3] [makelist2.param2][/COLOR] </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,9}>(.*?)<[\w\W\s]{0,9}-(.*?)<</expres>
+<page>http://gnula.se/capitulos/[makelist3.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+<!-- href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,3}strong>(.*?)<[\w\W\s]{0,7}> - (.*?)< -->
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[makelist2.param3] [makelist2.param2] - [COLOR lightblue]Idioma:[makelist.param2][/COLOR]</title>
+<link>$doregex[id]</link>
+
+
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+
+
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+
+]]></listrepeat>
+
+<expres>href="http://streamin.to/(.*?)"[\w\W\s]{0,400}lng/(.*?).png</expres>
+<page>http://gnula.se/capitulo/[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Todas la Series[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR coral] [makelist2.param1] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>a title="(.*?)" href="(.*?)"</expres>
+<page>http://gnula.se/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param3] - [makelist.param2]</title>
+<link>$doregex[id]</link>
+
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-$doregex[link]-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+
+<regex>
+<name>link</name>
+<expres>http://streamin.to/(.*?)\"</expres>
+<page>http://gnula.se/capitulo/[makelist.param1]</page>
+<referer>http://streamin.to</referer>
+</regex>
+
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+
+</item>
+]]></listrepeat>
+
+<expres>href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,9}>(.*?)<[\w\W\s]{9}-(.*?)<</expres>
+<page>http://gnula.se/[makelist2.param2]/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B]Gnula[/B] [/COLOR][COLOR skyblue]Por Generos[/COLOR] </title>
+<link>$doregex[makelist3]</link>
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR coral] [makelist3.param1] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+]]></listrepeat>
+<expres>href="/genero/(.*?)"</expres> 
+<page>http://gnula.se</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR coral] [makelist2.param1] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param3]<thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>title="(.*?)"[\w\W\s]{0,2}href="(.*?)"[\w\W\s]{0,22}src="(.*?)"</expres> 
+<page>http://gnula.se/genero/[makelist3.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param3] - [makelist.param2]</title>
+<link>$doregex[id]</link>
+
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-$doregex[link]-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+
+<regex>
+<name>link</name>
+<expres>http://streamin.to/(.*?)\"</expres>
+<page>http://gnula.se/capitulo/[makelist.param1]</page>
+<referer>http://streamin.to</referer>
+</regex>
+
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+
+</item>
+]]></listrepeat>
+
+<expres>href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,9}>(.*?)<[\w\W\s]{9}-(.*?)<</expres>
+<page>http://gnula.se/[makelist2.param2]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+	
+
+
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]TOTAL PLAY [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>TOTALPLAY</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+    
+    
+    
+      <item>
+<name>Peliculas</name>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/TotalPlay1</externallink>
+</item>
+
+
+
+
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]DEPORTES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>IPTV</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+    
+  
+    
+
+
+
+    <item>
+    <title>	[COLOR green]------------ DEPORTES --------------[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/Deportes</externallink>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    
+
+
+
+   
+
+
+
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MUSICA [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>MUSICA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+   <item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Musica[/COLOR]</title>
+<link>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/musi.xml</externallink>
+</item>
+   
+   
+   
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PAISES [COLOR lime][B](UP)[/B][/COLOR]</name>
+    <info>PAISES</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://i66.tinypic.com/10ekh10_th.jpg</fanart>
+    
+       <item>
+    <title>	[COLOR green]------------ Paises --------------[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/vivalist/KodiLatino/master/Paises</externallink>
+<thumbnail>1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    </item>
+    
+
+
+<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]INFANTIL [/B][/COLOR]</name>
+    <info>ESPANA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+<item>
+<title>[COLOR blue] [COLOR deepskyblue]--------- INFANTIL --------[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://s19.postimg.org/hxbc2mpb7/aladdin.jpg</thumbnail><fanart></fanart>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/infantil</externallink>
+</item>
+    
+
+ 
+
+ 
+ <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MENU VORTECHV [/B][/COLOR]</name>
+    <info></info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart> 
+ 
+ 
+ <item>
+<title>[COLOR blue] [COLOR deepskyblue]-------- VORTECHV --------[/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://goo.gl/UjAeQq</externallink>
+</item>
+
+
+
+	</channel>
+
+	</channels>
