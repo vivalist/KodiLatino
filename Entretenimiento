@@ -1,0 +1,404 @@
+#EXTM3U
+
+#EXTINF:-1,TVeo Miami
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:0,Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 channelId="1967" , Telemundo 
+8 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8 
+9 #EXTINF:-1 channelId="266" , Capital 21 (CDMX) 
+10 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8 
+11 #EXTINF:-1 channelId="2698" , Canal 22 
+12 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8 
+13 #EXTINF:-1 channelId="265" , 52 Mx 
+14 http://74.63.97.188:1935/c7/videoc7/master.m3u8 
+15 #EXTINF:-1 channelId="-1" , Ta Te Ti 
+16 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on 
+17 #EXTINF:-1 channelId="-1" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES" , Anime 
+18 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+19 #EXTINF:-1 channelId="-1" , EP 
+20 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8 
+21 #EXTINF:-1 channelId="-1" , DXTV 
+22 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E 
+23 #EXTINF:-1 channelId="1332" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/rmtv.png" , Real Madrid TV 
+24 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
+25 #EXTINF:-1 channelId="-1" tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" , Real Madrid TV 2 
+26 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
+27 #EXTINF:-1 channelId="805" tvg-logo="NBA TV .png" , NBA TV 
+28 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8 
+29 #EXTINF:-1 channelId="1333" , Redbull TV 
+30 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8 
+31 #EXTINF:-1 channelId="-1" , 360 DEPORTES 
+32 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8 
+33 #EXTINF:0 channelId="-1" group-title="TVAR" , Magazine 
+34 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv 
+35 #EXTINF:-1 channelId="-1" tvg-logo="unnamed.png" group-title="M�SICA" , Melody Channel 
+36 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8 
+37 #EXTINF:-1 channelId="1944" , ABC News 
+38 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8 
+39 #EXTINF:-1 channelId="397" , NHK World 
+40 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8 
+41 #EXTINF:-1 channelId="-1" , RT en espa�ol 
+42 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on 
+43 #EXTINF:-1 channelId="1944" , ABC News 
+44 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on 
+45 #EXTINF:-1 channelId="1333" , Redbull TV 
+46 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8 
+47 #EXTINF:-1 channelId="-1" , DXTV 
+48 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8 
+49 #EXTINF:-1 channelId="-1" , Ta Te Ti 
+50 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on 
+51 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8 
+52 #EXTINF:-1 channelId="1332" , Real Madrid TV 
+53 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on 
+54 #EXTINF:-1 channelId="-1" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO" , Antena 3 Internacional 
+55 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8 
+56 #EXTINF:-1 channelId="-1" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/8tv.png" , 8tv 
+57 http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8 
+58 #EXTINF:-1 channelId="-1" tvg-logo="Ingenio TV.png" , Ingenio TV (Mexico) 
+59 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8? 
+60 #EXTINF:-1 channelId="-1" , Canal del Congreso 
+61 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8 
+62 #EXTINF:-1 channelId="-1" , Canal 2 Obreg�n 
+63 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8? 
+64 #EXTINF:-1 channelId="-1" , Canal 7 Mazatl�n 
+65 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8? 
+66 #EXTINF:-1 channelId="293" , EfektoTV 
+67 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8 
+68 #EXTINF:-1 channelId="-1" , 5tv (Sabinas - Coahuila) 
+69 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8 
+70 #EXTINF:-1 channelId="-1" , RCG (Saltillo - Coahuila) 
+71 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8 
+72 #EXTINF:-1 channelId="-1" , TV Pac�fico (Culiac�n - Sinaloa) 
+73 http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8 
+74 #EXTINF:-1 channelId="-1" , TV Pac�fico (Los Mochis - Sinaloa) 
+75 http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8 
+76 #EXTINF:-1 channelId="-1" , Trecevisi�n Yucat�n 
+77 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8 
+78 #EXTINF:-1 channelId="-1" tvg-logo="Ingenio TV" group-title="CULTURA-DOCUMENTAL" , Ingenio TV 
+79 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8? 
+80 #EXTINF:-1 channelId="-1" , ONE TV 
+81 http://server5.stweb.tv/radioone/live/playlist.m3u8 
+82 #EXTINF:-1 channelId="-1" , tvg-logo="tvmas.png",TV Mas 
+83 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?hermoso.m3u8 
+84 #EXTINF:0 channelId="-1" group-title="TVAR" , TN 
+85 rtsp://stream.tn.com.ar/live/tnhd1 
+86 #EXTINF:-1 channelId="140" tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO" , TV5 Monde 
+87 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8 
+88 #EXTINF:-1 channelId="-1" tvg-logo="NHK World" group-title="NOTICIAS" , NHK World HD 
+89 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8 
+90 #EXTINF:-1,Canal 12 Zarate 
+91 http://190.151.144.22:8083/canallocal.flv 
+92 #EXTINF:0,Antena 3 
+93 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8 
+94 #EXTINF:0,Azteca 13  
+95 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8 
+96 #EXTINF:0,Proyecto 40 
+97 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8 
+98 #EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",TVN 
+99 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8 
+100 #EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",TV MÁS 
+101 http://50.7.98.234:1935/rtv/videortv/live.m3u8 
+102 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",México Television Michoacán 
+103 http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8 
+104 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",Condavision 
+105 http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8 
+106 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",EWTN 
+107 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8 
+108 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",Alcance TV 
+109 http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8 
+110 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",Lancelot TV 
+111 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+112 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",Telecafé 
+113 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8 
+114 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",Canal 13 
+115 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8 
+116 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",C5N 
+117 rtmp://c5n.stweb.tv:1935/c5n/live 
+118 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",TeleSistema 
+119 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8 
+120 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",TeleAntillas 
+121 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8 
+122 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",Canal Antiestres 
+123 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+124 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",Cantinazo 
+125 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8 
+126 #EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",Deutsche Welle 
+127 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8 
+128 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",Teleantoquia 
+129 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8 
+130 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",Canal U 
+131 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8 
+132 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",Cablenoticias 
+133 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+134 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",El Tiempo 
+135 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+136 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",Trendy 
+137 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8 
+138 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",Tele medéllin 
+139 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+140 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",TV Agro 
+141 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8 
+142 #EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish) 
+143 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8 
+144 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8 
+145 #EXTINF:0 tvg-name="Canal 26" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 (News) (AR) (Spanish) 
+146 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8 
+147 #EXTINF:0 tvg-name="Canal 5 Linares" tvg-language="Spanish" tvg-country="CL" tvg-id="Canal 5 Linares" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal5_linares_cl.png" group-title="News",Canal 5 Linares (News) (CL) (Spanish) 
+148 http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8 
+149 #EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News",Canal Extremadura (News) (ES) (Spanish) 
+150 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8 
+151 #EXTINF:0 tvg-name="DW" tvg-language="Spanish" tvg-country="ES" tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW (News) (ES) (Spanish) 
+152 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+153 #EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News",Euronews (News) (ES) (Spanish) 
+154 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8 
+155 #EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News",Lancelot TV (News) (ES) (Spanish) 
+156 rtmp://62.210.141.18:1935/directo/lancelot.television 
+157 #EXTINF:0 tvg-name="EWTN" tvg-language="Spanish" tvg-country="CO" tvg-id="EWTN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpV9Gcm93BUHztcVXXcoXN4DW4ZNKrUzDulR72x2me8hXqjdyIox4WdTo" group-title="Documentary",EWTN (Documentary) (CO) (Spanish) 
+158 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8 
+159 #EXTINF:0 tvg-name="Ingenio TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Ingenio TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMM0grU2ShX_IXFljelJ9J0S9LiWXxq7cI1koPQM_nvVYl-YrswVspdhQ" group-title="Documentary",Ingenio TV (Documentary) (MX) (Spanish) 
+160 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8? 
+161 #EXTINF:0 tvg-name="La 2 RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="La 2 RTVE" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png" group-title="Documentary",La 2 RTVE (Documentary) (ES) (Spanish) 
+162 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8 
+163 #EXTINF:0 tvg-name="Mexiquense TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Mexiquense TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8KdcEjXECJbFgghdINF_Eqp51cCLyBMe68brwIr2k9Nl2-ROpb5621t8" group-title="Documentary",Mexiquense TV (Documentary) (MX) (Spanish) 
+164 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1 
+165 #EXTINF:0 tvg-name="324" tvg-language="Spanish" tvg-country="ES" tvg-id="324" tvg-logo="http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png" group-title="Entertainment",324 (Entertainment) (ES) (Spanish) 
+166 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8 
+167 #EXTINF:0 tvg-name="360 TV" tvg-language="Spanish" tvg-country="ES" tvg-id="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png" group-title="Entertainment",360 TV (Entertainment) (ES) (Spanish) 
+168 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8 
+169 #EXTINF:0 tvg-name="Anime" tvg-language="Spanish" tvg-country="MX" tvg-id="Anime" tvg-logo="http://www.teenblab.com/assets/images/Anime-Logo.jpg" group-title="Entertainment",Anime (Entertainment) (MX) (Spanish) 
+170 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+171 #EXTINF:0 tvg-name="Capital 21" tvg-language="Spanish" tvg-country="MX" tvg-id="Capital 21" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2013/03/Canal-21.jpg" group-title="Entertainment",Capital 21 (Entertainment) (MX) (Spanish) 
+172 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8 
+173 #EXTINF:0 tvg-name="CerTv" tvg-language="Spanish" tvg-country="ES" tvg-id="CerTv" tvg-logo="http://canalesdominicano.net/wp-content/uploads/2015/05/canal4.jpg" group-title="Entertainment",CerTv (Entertainment) (ES) (Spanish) 
+174 http://216.24.196.40:1935/live/canal4/playlist.m3u8 
+175 #EXTINF:0 tvg-name="Color Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Color Vision" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision-Canal-9.jpg" group-title="Entertainment",Color Vision (Entertainment) (ES) (Spanish) 
+176 http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8 
+177 EXTINF: -1,CANAL DE LAS ESTRELLAS 
+178 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8 
+179 #EXTINF: -1,DW 
+180 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8? 
+181 #EXTINF: -1,RT EN ESPAÑOL 
+182 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on 
+183 #EXTINF: -1,REAL MADRD TV 
+184 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
+185 #EXTINF: -1,CANAL 52 MX 
+186 http://74.63.97.188:1935/c7/videoc7/master.m3u8 
+187 #EXTINF: -1,TELEMUNDO 
+188 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8 
+189 #EXTINF: -1,TA TE TI 
+190 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on 
+191 #EXTINF: -1,ANIME 
+192 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+193 #EXTINF: -1,DXTV 
+194 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E 
+195 #EXTINF: -1,360 DEPORTES 
+196 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8 
+197 #EXTINF: -1,TV MAS HD 
+198 rtmp://50.7.98.234/rtv/videortv 
+199 #EXTINF: -1,TELE UNO TV 
+200 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1 
+201 #EXTINF: -1,CANAL DEL CONGRESO 
+202 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8 
+203 #EXTINF: -1,TV CHIAPAS 
+204 rtmp://wos1.smartcast.com.mx/chiapas/chiapastv 
+205 #EXTINF: -1,TV COAHUILA 
+206 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8 
+207 #EXTINF: -1,RCG NOTICIAS 
+208 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8 
+209 #EXTINF: -1,ONE TV 
+210 http://server5.stweb.tv/radioone/live/playlist.m3u8 
+211 #EXTINF: -1,ORBE 21 ARGENTINA 
+212 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8 
+213 #EXTINF: -1,PIGUINO TV HD 
+214 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8 
+215 #EXTINF: -1,TN TV ARG 
+216 rtsp://stream.tn.com.ar/live/tnhd1 
+217 #EXTINF: -1,CABLE NOTICIAS 
+218 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+219 #EXTINF: -1,CANTINAZO 
+220 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8 
+221 #EXTINF: -1,CANAL U 
+222 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8 
+223 #EXTINF: -1,COSMOVICION 
+224 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8? 
+225 #EXTINF: -1,EL TIEMPO TV 
+226 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+227 #EXTINF: -1,LIFE DESING 
+228 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8 
+229 #EXTINF: -1,TELEANTIOKIA 
+230 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8? 
+231 #EXTINF: -1,TV MEDELLIN 
+232 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8? 
+233 #EXTINF: -1,TV GALICIA 
+234 http://media3.crtvg.es/live/tvge/chunklist.m3u8 
+235 #EXTINF: -1,LA SEXTA2 
+236 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8 
+237 #EXTINF: -1,PORTUGAL MARINO 
+238 http://wse.planeta-online.tv:1935/live/channel_3/index.m3u8 
+239 #EXTINF: -1,CAPITAL 21 MEXICO 
+240 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8 
+241 #EXTINF: -1,PROYECTO 40 HD MEXICO 
+242 http://urtmpkal-f.akamaihd.net/i/09yj674x7_1@149711/master.m3u8 
+243 #EXTINF: -1,2 TV LOS MOCHIS 
+244 http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8 
+245 #EXTINF: -1,7 TV MAZATLAN 
+246 http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8 
+247 #EXTINF: -1,CANAL 13 VIVA NICARAGUA 
+248 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8 
+249 #EXTINF: -1,11 TV PANAMA 
+250 rtmp://216.224.177.132/live/sertv 
+251 #EXTINF: -1,RT ESPAÑOL 
+252 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on 
+253 #EXTINF: -1,DXTV 
+254 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1822467358_b800000_slesp.m3u8 
+255 #EXTINF: -1,TELEMAX 
+256 http://enhd.co:1935/ilive/ilive/playlist.m3u8? 
+257 #EXTINF: -1,SPACE HD SPAÑOL 
+258 rtmp://streaming.wirenetserver.com.ar/canal4/live_1 
+259 #EXTINF: -1,CANAL 26 ARG 
+260 http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8 
+261 #EXTINF: -1,C5 ARG 
+262 rtmp://c5n.stweb.tv:1935/c5n/live_media 
+263 #EXTINF: -1,CANAL 13 ARG 
+264 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1 
+265 #EXTINF: -1,TV ENSENADA 
+266 rtmp://panel.dattalive.com/8008/8008 
+267 #EXTINF: -1,CANAL 9 ARG 
+268 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8 
+269 #EXTINF: -1,VIDEOS 
+270 rtmp://edge.wms28.lorini.net/canal-i/canal-i 
+271 #EXTINF: -1,2 ARG 
+272 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8 
+273 #EXTINF: -1,TV5 MONDE 
+274 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8 
+275 #EXTINF: -1,CAPITAL TV MIUSIC 
+276 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on 
+277 #EXTINF: -1,HEARTV MIUSIC 
+278 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on 
+279 #EXTINF: -1,RT ESPAÑOL 
+280 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on 
+281 #EXTINF: -1,GRUPO PACIFICO 
+282 http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8 
+283 #EXTINF: -1,TOONAMI INGLES 
+284 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8 
+
+#EXTINF:0,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0,Weather Channel US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:-1,Telecafe 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1,TELEANTIOQUIA HD 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1,Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1,CosmoVision 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1,CANAL CAPITAL 
+http://q.gs/9830047/canalcapitalltodokodi
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+#EXTINF:-1,TV AGRO 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
+#EXTINF:-1,Cable Noticias 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+#EXTINF:-1,El Tiempo 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1,UNE TV Manizales 
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1,TELE VIDA 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1,TRENDY MUSICA 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1,CANTINAZO 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1,LIFEDESING 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1,MIMUSICA HD 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,TELE AMIGA 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+#EXTINF:-1,TIGO MUSIC 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,CANAL ONCE URUGUAY 
+http://q.gs/9830047/onceuuruguaytodokodim3u8
+#EXTINF:-1,LA SEXTA ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:-1,INTERCONOMIA
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+
+#EXTINF:-1,Antena 3 ESPAÑA
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Radio Uno Plus
+http://streaming.radionomy.com/radiounoplus
+#EXTINF:-1,ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,El Trece
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,CANAL 13 T-K
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,El Trece HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Pakapaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,G360
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1,RT
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+#EXTINF:-1,Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Canal 11 MEX Internacional
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,TELESISTEMA
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w547403028_b764000.m3u8
+
+#EXTINF:-1,Telecanal
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+
+#EXTINF:4.004,Televisión Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+
+#EXTINF:-1,HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+
+#EXTINF:-1,TWiT Live
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
