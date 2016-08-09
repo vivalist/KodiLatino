@@ -1,0 +1,469 @@
+#EXTM3U
+
+
+#EXTINF:-1,A&E East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2431.ts
+#EXTINF:-1,ABC Family (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2459.ts
+#EXTINF:-1,ABC Miami (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2388.ts
+#EXTINF:-1,ABC New York (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2384.ts
+#EXTINF:-1,ABC News (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2485.ts
+#EXTINF:-1,ActionMax East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2534.ts
+#EXTINF:-1,Africa News Network (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2505.ts
+#EXTINF:-1,Al Jazeera (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2499.ts
+#EXTINF:-1,Alibi (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2437.ts
+#EXTINF:-1,AMC East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2443.ts
+#EXTINF:-1,American Heroes Channel (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2473.ts
+#EXTINF:-1,Animal Planet (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2462.ts
+#EXTINF:-1,Arirang TV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2516.ts
+#EXTINF:-1,BBC America (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2447.ts
+#EXTINF:-1,BBC Four (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2416.ts
+#EXTINF:-1,BBC News (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2490.ts
+#EXTINF:-1,BBC ONE (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2413.ts
+#EXTINF:-1,BBC Three (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2415.ts
+#EXTINF:-1,BBC TWO (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2414.ts
+#EXTINF:-1,BBC World News (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2489.ts
+#EXTINF:-1,Bloomberg TV Asia (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2502.ts
+#EXTINF:-1,Bloomberg TV UK (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2481.ts
+#EXTINF:-1,Bloomberg TV US (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2480.ts
+#EXTINF:-1,Bravo East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2441.ts
+#EXTINF:-1,Cartoon Network (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2457.ts
+#EXTINF:-1,CBS Action (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2442.ts
+#EXTINF:-1,CBS Drama (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2475.ts
+#EXTINF:-1,CBS New York (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2385.ts
+#EXTINF:-1,CBS Reality (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2476.ts
+#EXTINF:-1,CCTV News (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2503.ts
+#EXTINF:-1,Challenge (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2407.ts
+#EXTINF:-1,Channel 4 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2397.ts
+#EXTINF:-1,Channel 5 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2398.ts
+#EXTINF:-1,Chiller TV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2477.ts
+#EXTINF:-1,Cinemax East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2532.ts
+#EXTINF:-1,Cinemax West (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2533.ts
+#EXTINF:-1,CNBC Africa (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2504.ts
+#EXTINF:-1,CNBC US (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2486.ts
+#EXTINF:-1,CNN US (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2478.ts
+#EXTINF:-1,Comedy Central East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2420.ts
+#EXTINF:-1,Cooking Channel (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2426.ts
+#EXTINF:-1,CP 24 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2482.ts
+#EXTINF:-1,Crime   Investigation Network USA (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2522.ts
+#EXTINF:-1,Dave (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2402.ts
+#EXTINF:-1,Destination America (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2472.ts
+#EXTINF:-1,Deutsche Welle (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2514.ts
+#EXTINF:-1,Discovery Channel USA (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2460.ts
+#EXTINF:-1,Discovery Family (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2461.ts
+#EXTINF:-1,Discovery History (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2432.ts
+#EXTINF:-1,Discovery Turbo (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2468.ts
+#EXTINF:-1,Disney Channel East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2454.ts
+#EXTINF:-1,Disney Jr (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2455.ts
+#EXTINF:-1,Disney XD (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2456.ts
+#EXTINF:-1,DIY Network USA (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2429.ts
+#EXTINF:-1,Dmax (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2469.ts
+#EXTINF:-1,Drama (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2430.ts
+#EXTINF:-1,E! (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2427.ts
+#EXTINF:-1,E4 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2405.ts
+#EXTINF:-1,Eden (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2466.ts
+#EXTINF:-1,Encore Action East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2547.ts
+#EXTINF:-1,Encore East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2545.ts
+#EXTINF:-1,Encore Westerns (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2546.ts
+#EXTINF:-1,Euronews (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2501.ts
+#EXTINF:-1,Film 4 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2568.ts
+#EXTINF:-1,Food Network East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2425.ts
+#EXTINF:-1,FOX (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2446.ts
+#EXTINF:-1,Fox Business (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2484.ts
+#EXTINF:-1,FOX Miami (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2390.ts
+#EXTINF:-1,FOX New York (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2387.ts
+#EXTINF:-1,Fox News Channel (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2483.ts
+#EXTINF:-1,France 24 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2498.ts
+#EXTINF:-1,FX East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2448.ts
+#EXTINF:-1,FXX East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2518.ts
+#EXTINF:-1,Gold (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2401.ts
+#EXTINF:-1,Good Food (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2424.ts
+#EXTINF:-1,H2 USA (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2434.ts
+#EXTINF:-1,Hallmark Movies & Mysteries (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2570.ts
+#EXTINF:-1,HBO 2 East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2525.ts
+#EXTINF:-1,HBO 2 West (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2528.ts
+#EXTINF:-1,HBO Comedy East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2530.ts
+#EXTINF:-1,HBO East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2524.ts
+#EXTINF:-1,HBO Family East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2529.ts
+#EXTINF:-1,HBO Signature East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2526.ts
+#EXTINF:-1,HBO West (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2527.ts
+#EXTINF:-1,HBO Zone (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2531.ts
+#EXTINF:-1,Headline News (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2479.ts
+#EXTINF:-1,HGTV East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2428.ts
+#EXTINF:-1,History (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2433.ts
+#EXTINF:-1,IFC East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2445.ts
+#EXTINF:-1,Investigation Discovery (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2470.ts
+#EXTINF:-1,ION Television East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2523.ts
+#EXTINF:-1,Irish TV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2408.ts
+#EXTINF:-1,ITV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2391.ts
+#EXTINF:-1,ITV 2 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2392.ts
+#EXTINF:-1,ITV 3 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2393.ts
+#EXTINF:-1,ITV 4 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2394.ts
+#EXTINF:-1,ITV Be (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2436.ts
+#EXTINF:-1,ITV Encore (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2449.ts
+#EXTINF:-1,Lifetime East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2421.ts
+#EXTINF:-1,Lifetime Movie Network (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2422.ts
+#EXTINF:-1,More 4 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2406.ts
+#EXTINF:-1,Movies 24 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2567.ts
+#EXTINF:-1,MSNBC (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2487.ts
+#EXTINF:-1,MTV Live (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2569.ts
+#EXTINF:-1,Nat Geo Wild (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2463.ts
+#EXTINF:-1,National Geographic Channel (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2464.ts
+#EXTINF:-1,NBC Miami (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2389.ts
+#EXTINF:-1,NBC New York (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2386.ts
+#EXTINF:-1,News 12 Bronx (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2508.ts
+#EXTINF:-1,News 12 Brooklyn (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2507.ts
+#EXTINF:-1,News 12 Connecticut (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2512.ts
+#EXTINF:-1,News 12 Hudson Valley (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2510.ts
+#EXTINF:-1,News 12 Long Island (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2509.ts
+#EXTINF:-1,News 12 New Jersey (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2511.ts
+#EXTINF:-1,News 12 Westchester (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2513.ts
+#EXTINF:-1,NHK World (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2515.ts
+#EXTINF:-1,Nick Jr (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2453.ts
+#EXTINF:-1,Nickelodeon East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2452.ts
+#EXTINF:-1,Ovation (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2521.ts
+#EXTINF:-1,Oxygen (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2439.ts
+#EXTINF:-1,Pick (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2409.ts
+#EXTINF:-1,Press TV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2506.ts
+#EXTINF:-1,Really (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2438.ts
+#EXTINF:-1,RT Documentary (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2467.ts
+#EXTINF:-1,RT International (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2500.ts
+#EXTINF:-1,RTE ONE (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2411.ts
+#EXTINF:-1,RTE TWO (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2412.ts
+#EXTINF:-1,Science Channel (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2471.ts
+#EXTINF:-1,Showtime 2 East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2538.ts
+#EXTINF:-1,Showtime Beyond East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2541.ts
+#EXTINF:-1,Showtime East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2536.ts
+#EXTINF:-1,Showtime Extreme East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2540.ts
+#EXTINF:-1,Showtime Next (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2542.ts
+#EXTINF:-1,Showtime Showcase East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2539.ts
+#EXTINF:-1,Showtime West (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2537.ts
+#EXTINF:-1,SKY Action & Adventure (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2559.ts
+#EXTINF:-1,SKY Atlantic (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2404.ts
+#EXTINF:-1,SKY Comedy (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2560.ts
+#EXTINF:-1,SKY Crime & Thriller (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2561.ts
+#EXTINF:-1,SKY Disney (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2557.ts
+#EXTINF:-1,SKY Family (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2558.ts
+#EXTINF:-1,SKY Living (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2399.ts
+#EXTINF:-1,SKY Modern Greats (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2556.ts
+#EXTINF:-1,SKY Movies Drama (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2562.ts
+#EXTINF:-1,SKY News (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2488.ts
+#EXTINF:-1,SKY One (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2403.ts
+#EXTINF:-1,SKY Premiere (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2555.ts
+#EXTINF:-1,SKY Scifi & Horror (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2563.ts
+#EXTINF:-1,SKY Select (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2564.ts
+#EXTINF:-1,Sony Movie Channel USA (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2571.ts
+#EXTINF:-1,Spike TV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2519.ts
+#EXTINF:-1,Starz Cinema East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2551.ts
+#EXTINF:-1,Starz Comedy East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2552.ts
+#EXTINF:-1,Starz East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2548.ts
+#EXTINF:-1,Starz Edge East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2550.ts
+#EXTINF:-1,Starz In Black East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2553.ts
+#EXTINF:-1,Starz Kids & Family East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2554.ts
+#EXTINF:-1,Starz West (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2549.ts
+#EXTINF:-1,TBS East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2451.ts
+#EXTINF:-1,TCM US (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2444.ts
+#EXTINF:-1,Teen Nick (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2458.ts
+#EXTINF:-1,TG 4 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2395.ts
+#EXTINF:-1,The Movie Channel East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2543.ts
+#EXTINF:-1,The Movie Channel Xtra East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2544.ts
+#EXTINF:-1,The Weather Channel (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2492.ts
+#EXTINF:-1,The Weather Network (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2491.ts
+#EXTINF:-1,ThrillerMax East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2535.ts
+#EXTINF:-1,TLC (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2435.ts
+#EXTINF:-1,TNT (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2450.ts
+#EXTINF:-1,Traffic and Weather Hudson Valley (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2497.ts
+#EXTINF:-1,Traffic and Weather Long Island (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2496.ts
+#EXTINF:-1,Traffic and Weather New Jersey (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2495.ts
+#EXTINF:-1,Traffic and Weather New York (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2494.ts
+#EXTINF:-1,Travel Channel UK (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2474.ts
+#EXTINF:-1,Tru TV East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2520.ts
+#EXTINF:-1,True Drama (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2423.ts
+#EXTINF:-1,True Movies 1 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2565.ts
+#EXTINF:-1,True Movies 2 (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2566.ts
+#EXTINF:-1,TV Land (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2419.ts
+#EXTINF:-1,USA Network East (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2418.ts
+#EXTINF:-1,Watch (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2400.ts
+#EXTINF:-1,WE TV (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2440.ts
+#EXTINF:-1,WeatherNation (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2493.ts
+#EXTINF:-1,WGN America (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2517.ts
+#EXTINF:-1,Yesterday (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2465.ts
+#EXTINF:-1,(HD) USA 01
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=01&f=.m3u8
+#EXTINF:-1,(HD) USA 02
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=02&f=.m3u8
+#EXTINF:-1,(HD) USA 03
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=03&f=.m3u8
+#EXTINF:-1,(HD) USA 04
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=04&f=.m3u8
+#EXTINF:-1,(HD) USA 05
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=05&f=.m3u8
+#EXTINF:-1,(HD) USA 06
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=06&f=.m3u8
+#EXTINF:-1,(HD) USA 07
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=07&f=.m3u8
+#EXTINF:-1,(HD) USA 08
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=08&f=.m3u8
+#EXTINF:-1,(HD) USA 09
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=09&f=.m3u8
+#EXTINF:-1,(HD) USA 10
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=10&f=.m3u8
+#EXTINF:-1,(HD) USA 11
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=11&f=.m3u8
+#EXTINF:-1,(HD) USA 12
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=12&f=.m3u8
+#EXTINF:-1,(HD) USA 13
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=13&f=.m3u8
+#EXTINF:-1,(HD) USA 14
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=14&f=.m3u8
+#EXTINF:-1,(HD) USA 15
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=15&f=.m3u8
+#EXTINF:-1,(HD) USA 16
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=16&f=.m3u8
+#EXTINF:-1,(HD) USA 17
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=17&f=.m3u8
+#EXTINF:-1,(HD) USA 18
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=18&f=.m3u8
+#EXTINF:-1,(HD) USA 19
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=19&f=.m3u8
+#EXTINF:-1,(HD) USA 20
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=20&f=.m3u8
+#EXTINF:-1,(HD) USA 21
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=21&f=.m3u8
+#EXTINF:-1,(HD) USA 22
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=22&f=.m3u8
+#EXTINF:-1,(HD) USA 23
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=23&f=.m3u8
+#EXTINF:-1,(HD) USA 24
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=24&f=.m3u8
+#EXTINF:-1,(HD) USA 25
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=25&f=.m3u8
+#EXTINF:-1,(HD) USA 26
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=26&f=.m3u8
+#EXTINF:-1,(HD) USA 27
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=27&f=.m3u8
+#EXTINF:-1,(HD) USA 28
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=28&f=.m3u8
+#EXTINF:-1,(HD) USA 29
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=29&f=.m3u8
+#EXTINF:-1,(HD) USA 30
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=30&f=.m3u8
+#EXTINF:-1,(HD) USA 34
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=34&f=.m3u8
+#EXTINF:-1,(HD) USA 35
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=35&f=.m3u8
+#EXTINF:-1,(HD) USA 41
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=41&f=.m3u8
+#EXTINF:-1,(HD) USA 43
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=43&f=.m3u8
+#EXTINF:-1,(HD) USA 46
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=46&f=.m3u8
+#EXTINF:-1,(HD) USA 47
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=47&f=.m3u8
+#EXTINF:-1,(HD) USA 48
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=48&f=.m3u8
+#EXTINF:-1,(HD) USA 49
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=49&f=.m3u8
+#EXTINF:-1,(HD) USA 50
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=50&f=.m3u8
+#EXTINF:-1,(HD) USA 51
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=51&f=.m3u8
+#EXTINF:-1,(HD) USA 52
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=52&f=.m3u8
+#EXTINF:-1,(HD) USA 53
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=53&f=.m3u8
+#EXTINF:-1,(HD) USA 54
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=54&f=.m3u8
+#EXTINF:-1,(HD) USA 55
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=55&f=.m3u8
+#EXTINF:-1,(HD) USA 65
+http://167.114.0.151:8000/sa/sptaccss.php?server=01&ch=65&f=.m3u8
+#EXTINF:-1,4 Seven (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2396.ts
+#EXTINF:-1,5 Star (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2410.ts
+#EXTINF:-1,5 USA (a)
+http://149.202.202.127:8000/live/melissa10/melissa10/2417.ts
