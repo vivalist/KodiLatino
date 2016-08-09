@@ -1,0 +1,615 @@
+#EXTM3U
+#EXTINF:-1,Canal 2 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3930.ts
+#EXTINF:-1,Canal 2 (HD) *
+http://149.202.202.127:8000/live/melissa10/melissa10/3931.ts
+#EXTINF:-1,Foro TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3934.ts
+#EXTINF:-1,Gala TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3935.ts
+#EXTINF:-1,Canal 5 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3932.ts
+#EXTINF:-1,Canal 5 (HD) *
+http://149.202.202.127:8000/live/melissa10/melissa10/3933.ts
+#EXTINF:-1,Azteca 7 (HD) *
+http://149.202.202.127:8000/live/melissa10/melissa10/3936.ts
+#EXTINF:-1,Azteca 7 (HD) **
+http://149.202.202.127:8000/live/melissa10/melissa10/3937.ts
+#EXTINF:-1,Azteca 7 (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3938.ts
+#EXTINF:-1,Unicable (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3954.ts
+#EXTINF:-1,Telenovelas (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3962.ts
+#EXTINF:-1,Distrito Comedia (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3955.ts
+#EXTINF:-1,Comedy Central (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3956.ts
+#EXTINF:-1,Multimedios Monterrey (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3953.ts
+#EXTINF:-1,Once TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3939.ts
+#EXTINF:-1,Azteca 13 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3940.ts
+#EXTINF:-1,AZ Mundo (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4050.ts
+#EXTINF:-1,AZ Corazon (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4045.ts
+#EXTINF:-1,Az Clic! HD (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4046.ts
+#EXTINF:-1,Az Cinema (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4051.ts
+#EXTINF:-1,Azteca Noticias  (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3943.ts
+#EXTINF:-1,Milenio TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3947.ts
+#EXTINF:-1,BBC Entertainment (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3958.ts
+#EXTINF:-1,Proyecto 40 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3944.ts
+#EXTINF:-1,Proyecto 40 (HD) *
+http://149.202.202.127:8000/live/melissa10/melissa10/3945.ts
+#EXTINF:-1,Teleformula (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3946.ts
+#EXTINF:-1,TVE Internacional (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3948.ts
+#EXTINF:-1,HMX (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3951.ts
+#EXTINF:-1,Bloomberg (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3967.ts
+#EXTINF:-1,El Gourmet (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3963.ts
+#EXTINF:-1,Garage TV (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3952.ts
+#EXTINF:-1,Glitz (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3964.ts
+#EXTINF:-1,Mas Chic (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4049.ts
+#EXTINF:-1,Hola TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4047.ts
+#EXTINF:-1,Fashion TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4048.ts
+#EXTINF:-1,UTV (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3950.ts
+#EXTINF:-1,Wobi (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3949.ts
+#EXTINF:-1,E! Entertainment Television (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3959.ts
+#EXTINF:-1,History Channel (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3982.ts
+#EXTINF:-1,Natgeo (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3992.ts
+#EXTINF:-1,Natgeo Wild (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3993.ts
+#EXTINF:-1,Discovery Channel (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3983.ts
+#EXTINF:-1,Discovery Civilization (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3987.ts
+#EXTINF:-1,Discovery h&h (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3991.ts
+#EXTINF:-1,Discovery SCI (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3986.ts
+#EXTINF:-1,Discovery Turbo (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3988.ts
+#EXTINF:-1,Discovery HD Theater (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3984.ts
+#EXTINF:-1,Discovery World (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3985.ts
+#EXTINF:-1,ID (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3990.ts
+#EXTINF:-1,Discovery Kids (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3969.ts
+#EXTINF:-1,Animal Planet (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3981.ts
+#EXTINF:-1,Disney Channel (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3973.ts
+#EXTINF:-1,Disney XD (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3977.ts
+#EXTINF:-1,Disney JR (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3971.ts
+#EXTINF:-1,Nick HD (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3974.ts
+#EXTINF:-1,Nickelodeon (Nick) (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3975.ts
+#EXTINF:-1,Nick JR (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3972.ts
+#EXTINF:-1,Nicktoons (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3968.ts
+#EXTINF:-1,Tooncast (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3980.ts
+#EXTINF:-1,Tiin (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3979.ts
+#EXTINF:-1,Cartoon Network (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3976.ts
+#EXTINF:-1,Boomerang (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3978.ts
+#EXTINF:-1,Cbeebies (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3970.ts
+#EXTINF:-1,TBS Veryfunny (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3966.ts
+#EXTINF:-1,Bandamax (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4031.ts
+#EXTINF:-1,Ritmoson (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4030.ts
+#EXTINF:-1,Telehit (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4034.ts
+#EXTINF:-1,VH1 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4035.ts
+#EXTINF:-1,MTV (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4032.ts
+#EXTINF:-1,MTV Live (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4033.ts
+#EXTINF:-1,Warner (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3995.ts
+#EXTINF:-1,Sony (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3994.ts
+#EXTINF:-1,Lifetime (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3960.ts
+#EXTINF:-1,TLC (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/3989.ts
+#EXTINF:-1,Tru TV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3957.ts
+#EXTINF:-1,A&E (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3998.ts
+#EXTINF:-1,AMC (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4000.ts
+#EXTINF:-1,AMC (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4001.ts
+#EXTINF:-1,AXN (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3999.ts
+#EXTINF:-1,Cinecanal  (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4017.ts
+#EXTINF:-1,Cinecanal (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4016.ts
+#EXTINF:-1,Cinemax (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4015.ts
+#EXTINF:-1,DPelicula (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4029.ts
+#EXTINF:-1,Film Zone (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4012.ts
+#EXTINF:-1,FX (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3996.ts
+#EXTINF:-1,FX (HD) *
+http://149.202.202.127:8000/live/melissa10/melissa10/3997.ts
+#EXTINF:-1,Fox (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4002.ts
+#EXTINF:-1,Fox (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4003.ts
+#EXTINF:-1,Fox 1 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4004.ts
+#EXTINF:-1,Fox Action (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4005.ts
+#EXTINF:-1,Fox Movie (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4006.ts
+#EXTINF:-1,Fox Cinema (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4009.ts
+#EXTINF:-1,Fox Classic (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4011.ts
+#EXTINF:-1,Fox Life (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/3965.ts
+#EXTINF:-1,Golden (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4027.ts
+#EXTINF:-1,Golden Edge (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4028.ts
+#EXTINF:-1,iSat (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4022.ts
+#EXTINF:-1,Space (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4013.ts
+#EXTINF:-1,Space (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4014.ts
+#EXTINF:-1,Studio Universal (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4020.ts
+#EXTINF:-1,Syfy (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4021.ts
+#EXTINF:-1,TCM (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4023.ts
+#EXTINF:-1,TNT (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4024.ts
+#EXTINF:-1,TNT HD (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4025.ts
+#EXTINF:-1,TNT Series (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4026.ts
+#EXTINF:-1,Universal (HD)  ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4018.ts
+#EXTINF:-1,Universal (HD) *
+http://149.202.202.127:8000/live/melissa10/melissa10/4019.ts
+#EXTINF:-1,(HD) Animal Planet **
+http://149.202.202.127:8000/live/melissa10/melissa10/1962.ts
+#EXTINF:-1,(HD) HBO (w)
+http://149.202.202.127:8000/live/melissa10/melissa10/1816.ts
+#EXTINF:-1,(HQ) A&E HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1725.ts
+#EXTINF:-1,(HQ) AMC HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1785.ts
+#EXTINF:-1,(HQ) AXN HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1726.ts
+#EXTINF:-1,(HQ) Az Cinema HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1779.ts
+#EXTINF:-1,(HQ) AZ Click HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1710.ts
+#EXTINF:-1,(HQ) Az Mundo HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1745.ts
+#EXTINF:-1,(HQ) Azteca 7 HD3
+http://149.202.202.127:8000/live/melissa10/melissa10/1702.ts
+#EXTINF:-1,(HQ) Azteca Corazon HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1707.ts
+#EXTINF:-1,(HQ) Azteca Noticias HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1699.ts
+#EXTINF:-1,(HQ) BBC CBEEBIES HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1748.ts
+#EXTINF:-1,(HQ) BBC Entertainment
+http://149.202.202.127:8000/live/melissa10/melissa10/1733.ts
+#EXTINF:-1,(HQ) Canal 5 HD1
+http://149.202.202.127:8000/live/melissa10/melissa10/1712.ts
+#EXTINF:-1,Canal  2  HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,(HQ) Canal De Las Estrellas HD1
+http://149.202.202.127:8000/live/melissa10/melissa10/1708.ts
+#EXTINF:-1,(HQ) Canal De Las Estrellas HD2
+http://149.202.202.127:8000/live/melissa10/melissa10/1709.ts
+#EXTINF:-1,(HQ) Carton Network HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1755.ts
+#EXTINF:-1,(HQ) Cine Canal HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1780.ts
+#EXTINF:-1,(HQ) Comedy Central HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1728.ts
+#EXTINF:-1,(HQ) De Pelicula HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1784.ts
+#EXTINF:-1,(HQ) Discovery Teather HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1760.ts
+#EXTINF:-1,(HQ) Discovey World HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1763.ts
+#EXTINF:-1,(HQ) El Financiero Bloomberg HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1805.ts
+#EXTINF:-1,(HQ) Fashion TV HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1731.ts
+#EXTINF:-1,(HQ) Film Zone HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1783.ts
+#EXTINF:-1,(HQ) Foro Tv HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1711.ts
+#EXTINF:-1,(HQ) Fox 1 HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1774.ts
+#EXTINF:-1,(HQ) Fox Action HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1775.ts
+#EXTINF:-1,(HQ) Fox Cinema
+http://149.202.202.127:8000/live/melissa10/melissa10/1777.ts
+#EXTINF:-1,(HQ) Fox Classics
+http://149.202.202.127:8000/live/melissa10/melissa10/1778.ts
+#EXTINF:-1,(HQ) Fox HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1720.ts
+#EXTINF:-1,(HQ) Fox Life HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1742.ts
+#EXTINF:-1,(HQ) Fox Movies HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1776.ts
+#EXTINF:-1,(HQ) FX HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1724.ts
+#EXTINF:-1,(HQ) Gala Tv HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1714.ts
+#EXTINF:-1,(HQ) Golden HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1782.ts
+#EXTINF:-1,History Channel (HQ)
+http://149.202.202.127:8000/live/melissa10/melissa10/1761.ts
+#EXTINF:-1,(HQ) HMX HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1719.ts
+#EXTINF:-1,(HQ) HOLA TV HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1730.ts
+#EXTINF:-1,(HQ) Mas Chic HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1732.ts
+#EXTINF:-1,(HQ) Milenio TV HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1804.ts
+#EXTINF:-1,(HQ) MTV Live HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1807.ts
+#EXTINF:-1,(HQ) Multimedios Monterrey HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1718.ts
+#EXTINF:-1,(HQ) NatGeo Wild HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1762.ts
+#EXTINF:-1,(HQ) Nick HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1753.ts
+#EXTINF:-1,(HQ) Nicktoons
+http://149.202.202.127:8000/live/melissa10/melissa10/1752.ts
+#EXTINF:-1,(HQ) Once Tv HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1715.ts
+#EXTINF:-1,(HQ) Proyecto 40 HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1706.ts
+#EXTINF:-1,(HQ) Sony HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1721.ts
+#EXTINF:-1,(HQ) Space HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1786.ts
+#EXTINF:-1,(HQ) Telehit HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1808.ts
+#EXTINF:-1,(HQ) TNT HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1781.ts
+#EXTINF:-1,(HQ) TNT Series HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1738.ts
+#EXTINF:-1,(HQ) Trece HD1
+http://149.202.202.127:8000/live/melissa10/melissa10/1703.ts
+#EXTINF:-1,(HQ) Trece HD2
+http://149.202.202.127:8000/live/melissa10/melissa10/1704.ts
+#EXTINF:-1,(HQ) Trece HD3
+http://149.202.202.127:8000/live/melissa10/melissa10/1705.ts
+#EXTINF:-1,(HQ) Trendy Channel HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1746.ts
+#EXTINF:-1,(HQ) Tru Tv HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1727.ts
+#EXTINF:-1,(HD) Telemundo *
+http://149.202.202.127:8000/live/melissa10/melissa10/3708.ts
+#EXTINF:-1,(HQ) Unicable HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1729.ts
+#EXTINF:-1,(HQ) Universal Channel
+http://149.202.202.127:8000/live/melissa10/melissa10/1735.ts
+#EXTINF:-1,(HQ) Universal HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1723.ts
+#EXTINF:-1,(HQ) VH1 Classic
+http://149.202.202.127:8000/live/melissa10/melissa10/1811.ts
+#EXTINF:-1,(HQ) Warner HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1722.ts
+#EXTINF:-1,(HQ) Wobi
+http://149.202.202.127:8000/live/melissa10/melissa10/1773.ts
+#EXTINF:-1,A&E (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2227.ts
+#EXTINF:-1,AMC (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2276.ts
+#EXTINF:-1,Animal Planet (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2206.ts
+#EXTINF:-1,Antena 3 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2191.ts
+#EXTINF:-1,AXN (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2230.ts
+#EXTINF:-1,Azteca Noticias (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2248.ts
+#EXTINF:-1,Baby TV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2217.ts
+#EXTINF:-1,Bandamax (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2262.ts
+#EXTINF:-1,BBC Entertainment (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2219.ts
+#EXTINF:-1,Boomerang (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2214.ts
+#EXTINF:-1,Caracol Internacional (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2183.ts
+#EXTINF:-1,Cartoon Network (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2213.ts
+#EXTINF:-1,Casa Club TV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2236.ts
+#EXTINF:-1,CB24 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2250.ts
+#EXTINF:-1,CBeebies (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2215.ts
+#EXTINF:-1,Cine Dinamita (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2264.ts
+#EXTINF:-1,CineCanal (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2273.ts
+#EXTINF:-1,CineLatino (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2266.ts
+#EXTINF:-1,Cinemax  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2274.ts
+#EXTINF:-1,CNN en Espanol (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2246.ts
+#EXTINF:-1,Comedy Central  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2241.ts
+#EXTINF:-1,Concert Channel (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2260.ts
+#EXTINF:-1,Discovery en Español (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2198.ts
+#EXTINF:-1,Discovery Home & Health  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2201.ts
+#EXTINF:-1,Discovery Kids (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2212.ts
+#EXTINF:-1,Discovery Theater (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2199.ts
+#EXTINF:-1,Discovery World (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2200.ts
+#EXTINF:-1,Disney Channel  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2207.ts
+#EXTINF:-1,Disney Junior  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2209.ts
+#EXTINF:-1,Disney XD  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2208.ts
+#EXTINF:-1,Distrito Comedia (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2240.ts
+#EXTINF:-1,DW Latinoamerica (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2195.ts
+#EXTINF:-1,E! (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2222.ts
+#EXTINF:-1,Efekto TV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2243.ts
+#EXTINF:-1,El Financiero Bloomberg (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2247.ts
+#EXTINF:-1,Elgourmet (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2235.ts
+#EXTINF:-1,Eurochannel (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2231.ts
+#EXTINF:-1,Euronews en Espanol (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2251.ts
+#EXTINF:-1,Europa Europa (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2280.ts
+#EXTINF:-1,Film & Arts  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2281.ts
+#EXTINF:-1,Film Zone (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2282.ts
+#EXTINF:-1,Fox (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2225.ts
+#EXTINF:-1,Fox 1 Este (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2283.ts
+#EXTINF:-1,Fox 1 Oeste (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2284.ts
+#EXTINF:-1,Fox Action Este (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2288.ts
+#EXTINF:-1,Fox Action Oeste (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2289.ts
+#EXTINF:-1,Fox Cinema (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2287.ts
+#EXTINF:-1,Fox Classics  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2291.ts
+#EXTINF:-1,Fox Comedy (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2286.ts
+#EXTINF:-1,Fox Family (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2285.ts
+#EXTINF:-1,FOX Life (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2239.ts
+#EXTINF:-1,Fox Movies  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2290.ts
+#EXTINF:-1,FX  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2223.ts
+#EXTINF:-1,Galicia TV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2194.ts
+#EXTINF:-1,Glitz  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2238.ts
+#EXTINF:-1,Golden (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2267.ts
+#EXTINF:-1,Golden Edge (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2268.ts
+#EXTINF:-1,Golden Multiplex (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2269.ts
+#EXTINF:-1,Golden Premier 1 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2302.ts
+#EXTINF:-1,Golden Premier 2 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2303.ts
+#EXTINF:-1,H2  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2202.ts
+#EXTINF:-1,HBO  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2292.ts
+#EXTINF:-1,HBO 2  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2293.ts
+#EXTINF:-1,HBO Family  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2296.ts
+#EXTINF:-1,HBO Plus Este (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2294.ts
+#EXTINF:-1,HBO Plus Oeste (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2295.ts
+#EXTINF:-1,HBO Signature  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2297.ts
+#EXTINF:-1,History Channel (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2203.ts
+#EXTINF:-1,HTV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2261.ts
+#EXTINF:-1,I-Sat (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2279.ts
+#EXTINF:-1,Investigation Discovery (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2228.ts
+#EXTINF:-1,K Music (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2259.ts
+#EXTINF:-1,Lifetime  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2245.ts
+#EXTINF:-1,MAX (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2301.ts
+#EXTINF:-1,Max Prime Este (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2299.ts
+#EXTINF:-1,Max Prime Oeste (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2300.ts
+#EXTINF:-1,Max UP  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2298.ts
+#EXTINF:-1,MTV  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2255.ts
+#EXTINF:-1,MTV Hits  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2256.ts
+#EXTINF:-1,Multimedios Plus (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2244.ts
+#EXTINF:-1,MultiPremier (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2265.ts
+#EXTINF:-1,MundoFox (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2233.ts
+#EXTINF:-1,MundoMax (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2232.ts
+#EXTINF:-1,NatGeo (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2204.ts
+#EXTINF:-1,NatGeo Wild (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2205.ts
+#EXTINF:-1,NBC Universo (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2182.ts
+#EXTINF:-1,Nick Jr (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2211.ts
+#EXTINF:-1,Nickelodeon (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2210.ts
+#EXTINF:-1,NTN 24 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2249.ts
+#EXTINF:-1,Paramount Channel  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2270.ts
+#EXTINF:-1,Pasiones (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2187.ts
+#EXTINF:-1,RCN Novelas (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2186.ts
+#EXTINF:-1,Regional Music (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2263.ts
+#EXTINF:-1,RT en Espanol (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2252.ts
+#EXTINF:-1,Sony (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2218.ts
+#EXTINF:-1,SPACE (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2275.ts
+#EXTINF:-1,Studio Universal (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2277.ts
+#EXTINF:-1,Sundance Channel  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2271.ts
+#EXTINF:-1,Syfy (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2226.ts
+#EXTINF:-1,TBS (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2237.ts
+#EXTINF:-1,TCM  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2278.ts
+#EXTINF:-1,TeleCentro (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2185.ts
+#EXTINF:-1,Telemundo (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2188.ts
+#EXTINF:-1,Telemundo Internacional (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2189.ts
+#EXTINF:-1,Teletica (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2184.ts
+#EXTINF:-1,TLC (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2229.ts
+#EXTINF:-1,Tlnovelas America (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2190.ts
+#EXTINF:-1,TNT  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2272.ts
+#EXTINF:-1,TNT Series  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2234.ts
+#EXTINF:-1,Tooncast (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2216.ts
+#EXTINF:-1,Travel TV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2254.ts
+#EXTINF:-1,Tru TV  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2242.ts
+#EXTINF:-1,TV 5 Monde (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2197.ts
+#EXTINF:-1,TV Globo Internacional (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2196.ts
+#EXTINF:-1,TVE 1 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2192.ts
+#EXTINF:-1,TVE 2 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2193.ts
+#EXTINF:-1,TVE 24h (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2253.ts
+#EXTINF:-1,Unicable (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2220.ts
+#EXTINF:-1,Universal Channel (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2224.ts
+#EXTINF:-1,Univision (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2180.ts
+#EXTINF:-1,Univision Puerto Rico (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2173.ts
+#EXTINF:-1,Univision Los Angeles (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2175.ts
+#EXTINF:-1,Wapa America  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2172.ts
+#EXTINF:-1,Telemundo Los Angeles (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2176.ts
+#EXTINF:-1,Telemundo Puerto Rico (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2171.ts
+#EXTINF:-1,Punto 2 (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2170.ts
+#EXTINF:-1,UniMas (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2181.ts
+#EXTINF:-1,ABC 5 Puerto Rico (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2174.ts
+#EXTINF:-1,Estrella TV (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2179.ts
+#EXTINF:-1,VH1  (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2258.ts
+#EXTINF:-1,VH1 Classic Europe (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2257.ts
+#EXTINF:-1,Warner Channel (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2221.ts
+#EXTINF:-1,Canal De Las Estrellas (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2178.ts
+#EXTINF:-1,Az Mundo (sd)
+http://149.202.202.127:8000/live/melissa10/melissa10/2177.ts
