@@ -1,0 +1,214 @@
+#EXTM3U
+
+#EXTINF:-1,UFC Network (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/1833.ts
+#EXTINF:-1,UFC  Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2312.ts
+#EXTINF:-1,WWE Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2341.ts
+#EXTINF:-1,BoxNation (ts) *
+http://149.202.202.127:8000/live/melissa10/melissa10/2350.ts
+#EXTINF:-1,BT Sport 1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2357.ts
+#EXTINF:-1,BT Sport 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2358.ts
+#EXTINF:-1,TDN (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/1961.ts
+#EXTINF:-1,TDN (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2315.ts
+#EXTINF:-1,Univision TDN (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2316.ts
+#EXTINF:-1,Univision Deportes  (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2320.ts
+#EXTINF:-1,Planeta Futbol (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2314.ts
+#EXTINF:-1,beIN SPORTS en espanol (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/2651.ts
+#EXTINF:-1,beIN SPORTS US (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/2313.ts
+#EXTINF:-1,Fox Sports (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4036.ts
+#EXTINF:-1,Fox Sports (HQ)
+http://149.202.202.127:8000/live/melissa10/melissa10/1800.ts
+#EXTINF:-1,Fox Sports (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2308.ts
+#EXTINF:-1,Fox Sports US (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2330.ts
+#EXTINF:-1,Fox Sports 2 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4037.ts
+#EXTINF:-1,Fox Sports 2 (HQ)
+http://149.202.202.127:8000/live/melissa10/melissa10/1801.ts
+#EXTINF:-1,Fox Sports 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2309.ts
+#EXTINF:-1,Fox Sports 2 US (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2331.ts
+#EXTINF:-1,Fox Sports 3 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2310.ts
+#EXTINF:-1,Fox Sports Arizona (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2369.ts
+#EXTINF:-1,Fox Sports Florida (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2363.ts
+#EXTINF:-1,Fox Sports Prime Ticket (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2372.ts
+#EXTINF:-1,Fox Sports South (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2366.ts
+#EXTINF:-1,Fox Sports Southwest (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2370.ts
+#EXTINF:-1,FOX Sports West (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2364.ts
+#EXTINF:-1,MASN (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2367.ts
+#EXTINF:-1,MAV tv (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2340.ts
+#EXTINF:-1,SportsNet New York (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2371.ts
+#EXTINF:-1,Time Warner Cable Sportsnet Dodgers (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2373.ts
+#EXTINF:-1,Time Warner Cable Sportsnet Lakers (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2374.ts
+#EXTINF:-1,New England Sports Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2368.ts
+#EXTINF:-1,NBC Sport Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2338.ts
+#EXTINF:-1,Comcast Sports Net Bay Area (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2365.ts
+#EXTINF:-1,CBS Sports Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2337.ts
+#EXTINF:-1,MLB EXTRA innings (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2333.ts
+#EXTINF:-1,MLB Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2332.ts
+#EXTINF:-1,MSG (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2349.ts
+#EXTINF:-1,MUTV (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2348.ts
+#EXTINF:-1,ESPN+ (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4038.ts
+#EXTINF:-1,(HQ) ESPN HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1798.ts
+#EXTINF:-1,ESPN (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2305.ts
+#EXTINF:-1,ESPN US (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2321.ts
+#EXTINF:-1,ESPNews US (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2323.ts
+#EXTINF:-1,ESPNU (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2322.ts
+#EXTINF:-1,ESPN (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4039.ts
+#EXTINF:-1,(HQ) ESPN DEPORTES
+http://149.202.202.127:8000/live/melissa10/melissa10/1796.ts
+#EXTINF:-1,ESPN 2 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4040.ts
+#EXTINF:-1,(HQ) ESPN 2 HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1799.ts
+#EXTINF:-1,ESPN 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2306.ts
+#EXTINF:-1,ESPN 2 US (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2324.ts
+#EXTINF:-1,ESPN 3 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4041.ts
+#EXTINF:-1,(HQ) ESPN 3
+http://149.202.202.127:8000/live/melissa10/melissa10/1797.ts
+#EXTINF:-1,ESPN 3 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2307.ts
+#EXTINF:-1,(HQ) GOLTV
+http://149.202.202.127:8000/live/melissa10/melissa10/1835.ts
+#EXTINF:-1,(HQ) DEPORTV
+http://149.202.202.127:8000/live/melissa10/melissa10/1879.ts
+#EXTINF:-1,GOLTV
+http://149.202.202.127:8000/live/melissa10/melissa10/1824.ts
+#EXTINF:-1,TODO DEPORTES *
+http://149.202.202.127:8000/live/melissa10/melissa10/2650.ts
+#EXTINF:-1,Canal 11
+http://149.202.202.127:8000/live/melissa10/melissa10/2649.ts
+#EXTINF:-1,(HD) WinSports
+http://149.202.202.127:8000/live/melissa10/melissa10/1823.ts
+#EXTINF:-1,(HD) TyC Sports
+http://149.202.202.127:8000/live/melissa10/melissa10/1827.ts
+#EXTINF:-1,(HQ) Real Madrid TV
+http://149.202.202.127:8000/live/melissa10/melissa10/1831.ts
+#EXTINF:-1,AyM Sports (HD) ***
+http://149.202.202.127:8000/live/melissa10/melissa10/4042.ts
+#EXTINF:-1,Movistar Formula1 (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4044.ts
+#EXTINF:-1,Movistar Formula1  (HQ)
+http://149.202.202.127:8000/live/melissa10/melissa10/1795.ts
+#EXTINF:-1,PXTV (HD)
+http://149.202.202.127:8000/live/melissa10/melissa10/4043.ts
+#EXTINF:-1,(HQ) PX HD
+http://149.202.202.127:8000/live/melissa10/melissa10/1802.ts
+#EXTINF:-1,(HQ) TELEDEPORTE
+http://149.202.202.127:8000/live/melissa10/melissa10/1893.ts
+#EXTINF:-1,NBA TV (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2335.ts
+#EXTINF:-1,Wapa2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2304.ts
+#EXTINF:-1,At The Races (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2344.ts
+#EXTINF:-1,DXTV (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2318.ts
+#EXTINF:-1,Eurosport 1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2346.ts
+#EXTINF:-1,Eurosport 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2347.ts
+#EXTINF:-1,Movistar Fórmula1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2311.ts
+#EXTINF:-1,Golf Channel (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2319.ts
+#EXTINF:-1,NFL Network (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2334.ts
+#EXTINF:-1,NHL Network USA (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2336.ts
+#EXTINF:-1,Racing UK (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2345.ts
+#EXTINF:-1,Setanta Sports (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2343.ts
+#EXTINF:-1,SKY Sports 1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2351.ts
+#EXTINF:-1,SKY Sports 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2352.ts
+#EXTINF:-1,SKY Sports 3 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2353.ts
+#EXTINF:-1,SKY Sports 4 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2354.ts
+#EXTINF:-1,SKY Sports 5 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2355.ts
+#EXTINF:-1,SKY Sports F1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2356.ts
+#EXTINF:-1,SKY Sports News (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2339.ts
+#EXTINF:-1,Tennis Channel (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2342.ts
+#EXTINF:-1,TSN 1  (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2325.ts
+#EXTINF:-1,TSN 2   (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2326.ts
+#EXTINF:-1,TSN 3  (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2327.ts
+#EXTINF:-1,TSN 4  (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2328.ts
+#EXTINF:-1,TSN 5  (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2329.ts
+#EXTINF:-1,Ultimate Events  &  Sports 1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2383.ts
+#EXTINF:-1,ASTRO SuperSport 1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2359.ts
+#EXTINF:-1,ASTRO SuperSport 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2360.ts
+#EXTINF:-1,ASTRO SuperSport 3 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2361.ts
+#EXTINF:-1,Sport 1 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2375.ts
+#EXTINF:-1,Sport 2 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2376.ts
+#EXTINF:-1,Sport 3 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2377.ts
+#EXTINF:-1,Sport 4 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2378.ts
+#EXTINF:-1,Sport 5 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2379.ts
+#EXTINF:-1,Sport 6 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2380.ts
+#EXTINF:-1,Sport 7 (ts)
+http://149.202.202.127:8000/live/melissa10/melissa10/2381.ts
